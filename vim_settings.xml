@@ -1758,13 +1758,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/EmploymentDuration.tsx" timestamp="1486629043892">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/consideration/consideration.stories.ts" timestamp="1486097658528">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="28" />
@@ -1821,10 +1814,6 @@
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/career.stories.js" timestamp="1487743454353">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="45" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Edit/ScoutMail.js" timestamp="1485323459723">
         <mark key="[" line="17" column="37" />
@@ -1981,6 +1970,9 @@
         <mark key="." line="4" column="94" />
         <mark key="^" line="4" column="94" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/reducers/data/member/careers.ts" timestamp="1487661486152">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/app/serializers/member_serializer.rb" timestamp="1478593647753">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="33" />
@@ -2003,13 +1995,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/epics/consideration.ts" timestamp="1487230338154">
-        <mark key="'" line="13" column="48" />
-        <mark key="[" line="6" column="87" />
-        <mark key="]" line="6" column="86" />
-        <mark key="^" line="6" column="86" />
-        <mark key="." line="6" column="86" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/job_categories_controller.rb" timestamp="1473907683296">
         <mark key="[" line="5" column="44" />
