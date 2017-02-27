@@ -261,12 +261,6 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/index.tsx" timestamp="1487756895053">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/services/phr/phr_access_service_spec.rb" timestamp="1465972727278">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1249,11 +1243,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.js" timestamp="1487754530672">
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
-        <mark key="^" line="19" column="64" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.js" timestamp="1488162715366">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/members/withdrawal_completes_controller.rb" timestamp="1465966098043">
         <mark key="[" line="7" column="0" />
@@ -1753,11 +1747,10 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/containers/EditCareerContainer.tsx" timestamp="1487754807803">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="26" column="78" />
-        <mark key="^" line="26" column="78" />
-        <mark key="." line="26" column="78" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/containers/EditCareerContainer.tsx" timestamp="1488162797835">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/ansible-prototype.ares/vagrant/ares.jobtalk.jp/config/settings.yml" timestamp="1472447214937">
         <mark key="[" line="3" column="20" />
@@ -1996,38 +1989,38 @@
       <register name="/" type="4">
         <text>StandardAction</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dHlwZSBFZGl0TWVtYmVyQ2FyZWVySXNDb250aW51YW5jZSA9IENhcmVlckFjdGlvbjx7IGNhcmVlcklkOiBudW1iZXIsIGlzQ29udGludWFuY2U6IHN0cmluZyB9Pgo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPEVkaXRDYXJlZXJCYXNlIGFjdGlvbnM9eyBwcm9wcy5hY3Rpb25zIH0gbWVtYmVyQ2FyZWVyPXsgY2FyZWVyIH0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBGZXRjaE1lbWJlckNhcmVlciA9IENhcmVlckFjdGlvbgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+eyBjYXJlZXIgfTwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Q2FyZWVyKQo=</text>
+        <text encoding="base64">ICA8RWRpdENhcmVlckJhc2UgYWN0aW9ucz17cHJvcHMuYWN0aW9uc30gbWVtYmVyQ2FyZWVyPXtwcm9wcy5tZW1iZXJDYXJlZXJzW21hdGNoLnBhcmFtcy5pZF19IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGVbcGF5bG9hZC5jYXJlZXJJZF0pCg==</text>
+        <text encoding="base64">ICA8RWRpdENhcmVlckJhc2UgYWN0aW9ucz17IHByb3BzLmFjdGlvbnMgfSBtZW1iZXJDYXJlZXI9eyBjYXJlZXIgfSAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3Q2FyZWVyID0gewogICAgICAgIHN0YXRlCiAgICAgIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpCg==</text>
+        <text encoding="base64">dHlwZSBGZXRjaE1lbWJlckNhcmVlciA9IENhcmVlckFjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coe1twYXlsb2FkLmNhcmVlcklkXTogeyAuLi5wYXlsb2FkIH19KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3Q2FyZWVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhheWxvYWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGVbcGF5bG9hZC5jYXJlZXJJZF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmwoY2FyZWVySWQsIGNhcmVlcikK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3Q2FyZWVyID0gewogICAgICAgIHN0YXRlCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcywgcHJvcHMuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
