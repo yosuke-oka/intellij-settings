@@ -745,9 +745,9 @@
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/ShowCareerBase.tsx" timestamp="1488260297711">
         <mark key="[" line="11" column="27" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/lib/tasks/notifier.rb" timestamp="1476252086546">
         <mark key="[" line="0" column="0" />
@@ -986,9 +986,6 @@
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/Position.tsx" timestamp="1488260190745">
         <mark key="[" line="2" column="85" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/work/electron-jobtalk/static/index.css" timestamp="1482740207681">
         <mark key="[" line="1" column="15" />
@@ -1224,11 +1221,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1488259828220">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1488261402575">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/assets/javascripts/src/reactApps/login/actions/index.js" timestamp="1468992571539">
         <mark key="[" line="10" column="50" />
