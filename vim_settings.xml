@@ -572,9 +572,9 @@
         <mark key="^" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/index.tsx" timestamp="1488262761087">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/.rubocop.yml" timestamp="1464683498091">
         <mark key="[" line="8" column="16" />
@@ -629,12 +629,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.js" timestamp="1488269881955">
-        <mark key="[" line="43" column="78" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="31" />
-        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/members/withdrawal_completes_controller.rb" timestamp="1465966098043">
         <mark key="[" line="7" column="0" />
@@ -1134,11 +1128,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/constants/ActionTypes/career.ts" timestamp="1487841611227">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-        <mark key="^" line="0" column="27" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/constants/ActionTypes/career.ts" timestamp="1488273514530">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/desired_conditions/locations_controller.rb" timestamp="1473396260923">
         <mark key="[" line="8" column="11" />
@@ -1886,8 +1880,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/Position.tsx" timestamp="1488260190745">
-        <mark key="[" line="2" column="85" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/Position.tsx" timestamp="1488272995585">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/companies_controller.rb" timestamp="1475221034754">
         <mark key="[" line="9" column="50" />
@@ -2006,7 +2003,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>職</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Field</text>
@@ -2014,32 +2011,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxDb21wYW55TmFtZSB7IC4uLnByb3BzLm1lbWJlckNhcmVlciB9IC8+CiAgICAgIDxDb250aW51YW5jZSB7IC4uLnByb3BzIH0gLz4KICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsYXNzTmFtZT17IHN0eWxlcy5wbGFpbklucHV0IH0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBsYWluVAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9eyBgJHtwYXRofS9lZGl0X2xhbmd1YWdlX3NraWxsYCB9IGNvbXBvbmVudD17IEVkaXRMYW5ndWFnZVNraWxsIH0gLz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9eyBgJHtwYXRofS9lZGl0X2xhbmd1YWdlX3NraWxsYCB9IGNvbXBvbmVudD17IEVkaXRMYW5ndWFnZVNraWxsIH0gLz4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPFJvdXRlTmlnaHRseSBwYXRoPXsgYCR7cGF0aH0vc2hvd19jYXJlZXJgIH0gY29tcG9uZW50PXsgU2hvd0NhcmVlciB9IC8+Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPFJvdXRlTmlnaHRseSBwYXRoPXsgYCR7cGF0aH0vc2hvd19jYXJlZXJgIH0gY29tcG9uZW50PXsgU2hvd0NhcmVlciB9IC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgey8qIOacrOeVquOBq+WHuuOBmeOBqOOBjeOBr2VkaXTjgYzjg5HjgrnlkI3jgavjga/mnaXjgarjgYQgKi99Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIOW9ueiBtyZuYnNwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNsYXNzTmFtZT17IHN0eWxlcy5wbGFpbklucHV0IH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBsYWluVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzZWE3NWRlOGUxNWNlYTRmNGE0YjgxOTY2ZmJiNGJhNmE1ZTQzNzU4Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9eyBgJHtwYXRofS9lZGl0X2xhbmd1YWdlX3NraWxsYCB9IGNvbXBvbmVudD17IEVkaXRMYW5ndWFnZVNraWxsIH0gLz4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9eyBgJHtwYXRofS9lZGl0X2xhbmd1YWdlX3NraWxsYCB9IGNvbXBvbmVudD17IEVkaXRMYW5ndWFnZVNraWxsIH0gLz4K</text>
