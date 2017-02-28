@@ -101,10 +101,10 @@
         <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/my-jobtalk-common.stories.js" timestamp="1488268960697">
-        <mark key="[" line="83" column="79" />
-        <mark key="]" line="83" column="79" />
-        <mark key="^" line="83" column="79" />
-        <mark key="." line="83" column="79" />
+        <mark key="[" line="14" column="79" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+        <mark key="." line="14" column="79" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/pref.rb" timestamp="1473058980324">
         <mark key="[" line="4" column="18" />
@@ -630,10 +630,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.js" timestamp="1488265987670">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.js" timestamp="1488269881955">
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/members/withdrawal_completes_controller.rb" timestamp="1465966098043">
         <mark key="[" line="7" column="0" />
