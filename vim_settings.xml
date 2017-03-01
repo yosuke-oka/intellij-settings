@@ -57,10 +57,11 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.tsx" timestamp="1488275094640">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/apps/ProfileApp.tsx" timestamp="1488348975430">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/edit/reducers/subscription.js" timestamp="1480497777860">
         <mark key="[" line="10" column="19" />
@@ -213,11 +214,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" timestamp="1488189413929">
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="3" column="64" />
-        <mark key="^" line="3" column="64" />
-        <mark key="." line="3" column="64" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" timestamp="1488348767605">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/views/members/new.html.slim" timestamp="1471502567611">
         <mark key="[" line="17" column="0" />
@@ -593,17 +595,22 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/containers/career/EditCareerContainer.tsx" timestamp="1488349027493">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/edit/reducers/skill.js" timestamp="1481870167093">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1488347309008">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1488348397294">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/prefs_spec.rb" timestamp="1474959049728">
         <mark key="[" line="16" column="15" />
@@ -1132,12 +1139,6 @@
         <mark key="]" line="13" column="50" />
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/epics/career.ts" timestamp="1488184852882">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/constants/ActionTypes/career.ts" timestamp="1488273514530">
         <mark key="[" line="0" column="37" />
@@ -1905,8 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="38" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/enhancers/CompleteLink.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/consideration/enhancers/layoutEdit.js" />
       <jump line="17" column="25" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/enhancers/layoutEdit.js" />
       <jump line="7" column="11" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/consideration/enhancers/layoutEdit.js" />
       <jump line="22" column="11" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/Edit.js" />
@@ -2005,6 +2004,8 @@
       <jump line="13" column="2" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/TextArea.tsx" />
       <jump line="7" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/TextArea.tsx" />
       <jump line="6" column="3" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/TextArea.tsx" />
+      <jump line="11" column="16" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" />
+      <jump line="21" column="8" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2014,61 +2015,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>isNull</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Field</text>
+        <text>AsyncLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxDb21wYW55TmFtZSB7IC4uLnByb3BzLm1lbWJlckNhcmVlciB9IC8+CiAgICAgIDxDb250aW51YW5jZSB7IC4uLnByb3BzIH0gLz4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnNkZHQgc2hvd01lbWJlckNhcmVlciA9IG1lbWJlci5tZW1iZXJDYXJlZXJzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVkaXRNZW1iZXJDYXJlZXIgPSBjb250cm9sLm1lbWJlckNhcmVlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNob3dNZW1iZXJDYXJlZXIgPSBtZW1iZXIubWVtYmVyQ2FyZWVycwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVkaXRNZW1iZXJDYXJlZXIgPSBjb250cm9sLm1lbWJlckNhcmVlcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFbXB0eSB9IGZyb20gImxvZGFzaCIK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNob3dNZW1iZXJDYXJlZXIgPSBtZW1iZXIubWVtYmVyQ2FyZWVycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlTmlnaHRseSBwYXRoPXsgYCR7cGF0aH0vc2hvd19jYXJlZXJgIH0gY29tcG9uZW50PXsgU2hvd0NhcmVlciB9IC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNFbXB0eSB9IGZyb20gImxvZGFzaCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEVkaXRMYW5ndWFnZVNraWxsIGZyb20gIm15LWpvYnRhbGsvY29udGFpbmVycy9sYW5ndWFnZVNraWxsL0VkaXRMYW5ndWFnZVNraWxsQ29udGFpbmVyIgo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlTmlnaHRseSBwYXRoPXsgYCR7cGF0aH0vc2hvd19jYXJlZXJgIH0gY29tcG9uZW50PXsgU2hvd0NhcmVlciB9IC8+Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEVkaXRMYW5ndWFnZVNraWxsIGZyb20gIm15LWpvYnRhbGsvY29udGFpbmVycy9sYW5ndWFnZVNraWxsL0VkaXRMYW5ndWFnZVNraWxsQ29udGFpbmVyIgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IFNob3dDYXJlZXIgZnJvbSAibXktam9idGFsay9jb250YWluZXJzL1Nob3dDYXJlZXJDb250YWluZXIiCg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlTmlnaHRseSBwYXRoPXsgYCR7cGF0aH0vc2hvd19jYXJlZXJgIH0gY29tcG9uZW50PXsgU2hvd0NhcmVlciB9IC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Field</last-search>
+      <last-search>AsyncLoad</last-search>
       <last-offset />
-      <last-pattern>Field</last-pattern>
-      <last-replace>Area</last-replace>
-      <last-substitute>Field</last-substitute>
+      <last-pattern>AsyncLoad</last-pattern>
+      <last-replace>LoadingAnimation</last-replace>
+      <last-substitute>AsyncLoad</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.ts</entry>
-        <entry>\.ts</entry>
         <entry>career</entry>
         <entry>fetch</entry>
         <entry>membercareer</entry>
@@ -2087,10 +2086,10 @@
         <entry>Careers</entry>
         <entry>StandardAction</entry>
         <entry>Field</entry>
+        <entry>AyncLoad</entry>
+        <entry>AsyncLoad</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/re_to_d/reToD/g</entry>
-        <entry>%s/re_from_d/reFromD/g</entry>
         <entry>lw</entry>
         <entry>%s/Store/State/g</entry>
         <entry>%s/Companies/CompanyEntities/g</entry>
@@ -2108,6 +2107,8 @@
         <entry>s/Field/Area/g</entry>
         <entry>mpj</entry>
         <entry>noh</entry>
+        <entry>%s/AyncLoad/LoadingAnimation/g</entry>
+        <entry>%s/AsyncLoad/LoadingAnimation/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
