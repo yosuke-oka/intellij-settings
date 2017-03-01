@@ -100,6 +100,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/language_skills_controller.rb" timestamp="1488357370553">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="3" column="98" />
+        <mark key="^" line="3" column="98" />
+        <mark key="." line="3" column="98" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/desired_conditions.rb" timestamp="1484213826565">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1861,6 +1867,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/epics/languageSkill.ts" timestamp="1488357197262">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="68" />
+        <mark key="^" line="10" column="68" />
+        <mark key="." line="10" column="68" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/serializers/industry_serializer.rb" timestamp="1479108086399">
         <mark key="[" line="2" column="16" />
