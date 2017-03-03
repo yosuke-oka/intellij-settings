@@ -110,12 +110,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/my-jobtalk-common.stories.js" timestamp="1488268960697">
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="14" column="79" />
-        <mark key="^" line="14" column="79" />
-        <mark key="." line="14" column="79" />
-      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/pref.rb" timestamp="1473058980324">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="5" column="28" />
@@ -234,12 +228,6 @@
         <mark key="]" line="17" column="128" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/RadioButtons.tsx" timestamp="1488515320748">
-        <mark key="[" line="42" column="86" />
-        <mark key="]" line="42" column="88" />
-        <mark key="." line="42" column="88" />
-        <mark key="^" line="42" column="88" />
       </file>
       <file name="$USER_HOME$/work/ansible-prototype.ares/vagrant/ares.jobtalk.jp/app/controllers/members/email_confirmation_urls_controller.rb" timestamp="1472607654020">
         <mark key="[" line="6" column="50" />
@@ -1341,7 +1329,6 @@
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/profile/Edit/Gender.js" timestamp="1488514561777">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="6" column="26" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/edit/reducers/__tests__/subscriptionTest.js" timestamp="1480584335453">
