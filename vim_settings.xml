@@ -555,12 +555,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" timestamp="1488768231070">
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" timestamp="1488769178873">
         <mark key="'" line="39" column="38" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+        <mark key="[" line="41" column="105" />
+        <mark key="]" line="39" column="1" />
+        <mark key="." line="39" column="1" />
+        <mark key="^" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/services/phr/phr_access_error.rb" timestamp="1466066334361">
         <mark key="[" line="2" column="0" />
