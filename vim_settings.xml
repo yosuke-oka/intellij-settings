@@ -555,11 +555,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" timestamp="1488535557151">
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="71" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" timestamp="1488768231070">
+        <mark key="'" line="39" column="38" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/services/phr/phr_access_error.rb" timestamp="1466066334361">
         <mark key="[" line="2" column="0" />
@@ -1895,7 +1896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="11" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/consideration/enhancers/layoutEdit.js" />
       <jump line="22" column="11" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/Edit.js" />
       <jump line="23" column="2" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/profile/enhancers/layoutEdit.js" />
       <jump line="19" column="19" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/enhancers/layoutEdit.js" />
@@ -1995,6 +1995,7 @@
       <jump line="11" column="16" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" />
       <jump line="21" column="8" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/enhancers/layoutEdit.tsx" />
       <jump line="10" column="29" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/reducers/control/career.ts" />
+      <jump line="39" column="38" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2004,13 +2005,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>AsyncLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17ICh2YWx1ZSkgPT4gcHJvcHMuYWN0aW9ucy5lZGl0TWVtYmVyQ2FyZWVyKHByb3BzLm1lbWJlckNhcmVlci5pZCwgeyBpc0NvbnRpbnVhbmNlOiB2YWx1ZSB9KSB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSlNBIH0gZnJvbSAidGstc3RhbmRhcmQtYWN0aW9uIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIOW9ueiBtyZuYnNwOwo=</text>
