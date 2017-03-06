@@ -452,6 +452,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/index.tsx" timestamp="1488787686371">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/factories/job_categories.rb" timestamp="1477639848231">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="12" />
@@ -1077,11 +1082,10 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/CompanyName.tsx" timestamp="1487742345903">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/CompanyName.tsx" timestamp="1488786972654">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/profile/Edit/AddressPref.js" timestamp="1485766955014">
         <mark key="[" line="8" column="25" />
@@ -2005,7 +2009,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>AsyncLoad</text>
@@ -2014,34 +2018,34 @@
         <text encoding="base64">ICBjb21wYW55UmVsYXRpb25zaGlwOiBzdHJpbmcsCiAgaXNDb250aW51YW5jZTogYm9vbGVhbiwKICBpc0lycmVndWxhckVtcGxveW1lbnQ6IGJvb2xlYW4sCiAgcG9zaXRpb246IHN0cmluZywKICBtYW5hZ2VtZW50UGVvcGxlOiBzdHJpbmcsCiAgdGVudXJlRnJvbURhdGU6IHN0cmluZywKICB0ZW51cmVUb0RhdGU6IHN0cmluZywKICBoaXN0b3J5OiBzdHJpbmcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnRpbnVhbmNlIGZyb20gIi4vQ29udGludWFuY2UiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly90eXBlIEVkaXRNZW1iZXJDYXJlZXIgPSBDYXJlZXJBY3Rpb248eyBjYXJlZXJJZDogbnVtYmVyLCBba2V5OiBzdHJpbmddOiBhbnkgfT4K</text>
+        <text encoding="base64">aW1wb3J0IENvbXBhbnlOYW1lIGZyb20gIi4vQ29tcGFueU5hbWUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpc0NvbnRpbnVhbmNlOiBib29sZWFuLAo=</text>
+        <text encoding="base64">aW1wb3J0IERlc2NyaXB0aW9uIGZyb20gIi4vRGVzY3JpcHRpb24iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnkK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKCkgPT4gKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXJlZXJJZDogbnVtYmVyLAo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBjYXJlZXJLZXkgPSAiaXNDb250aW51YW5jZSIgfCAK</text>
+        <text encoding="base64">Ly90eXBlIEVkaXRNZW1iZXJDYXJlZXIgPSBDYXJlZXJBY3Rpb248eyBjYXJlZXJJZDogbnVtYmVyLCBba2V5OiBzdHJpbmddOiBhbnkgfT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBFZGl0TWVtYmVyQ2FyZWVyPFBheWxvYWQ+ID0gQ2FyZWVyQWN0aW9uPFBheWxvYWQgZXh0ZW5kcyB7IGNhcmVlcklkOiBudW1iZXIgfT4K</text>
+        <text encoding="base64">ICBpc0NvbnRpbnVhbmNlOiBib29sZWFuLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOW9ueiBtyZuYnNwOwo=</text>
+        <text encoding="base64">ICBba2V5OiBzdHJpbmddOiBhbnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7LypvbkNoYW5nZT17ICh2YWx1ZSkgPT4gcHJvcHMuYWN0aW9ucy5lZGl0TWVtYmVyQ2FyZWVyKHByb3BzLm1lbWJlckNhcmVlci5pZCwgeyBpc0NvbnRpbnVhbmNlOiB2YWx1ZSB9KSB9Ki99Cg==</text>
+        <text encoding="base64">ICBjYXJlZXJJZDogbnVtYmVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
