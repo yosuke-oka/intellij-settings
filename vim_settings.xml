@@ -27,7 +27,7 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1488862362099">
+      <file name="/a.dummy" timestamp="1488863595741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/app/models/job_category.rb" timestamp="1477639569096">
@@ -456,12 +456,6 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/index.tsx" timestamp="1488855362063">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/factories/job_categories.rb" timestamp="1477639848231">
         <mark key="[" line="3" column="1" />
@@ -1120,12 +1114,12 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/Position.tsx" timestamp="1488862562371">
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/Position.tsx" timestamp="1488863609823">
         <mark key="'" line="5" column="33" />
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="38" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/config/account_jobtalk.yml" timestamp="1479376131752">
         <mark key="[" line="0" column="9" />
@@ -2027,34 +2021,34 @@
         <text encoding="base64">ICAibm9uLXBlcm1hbmVudCI6ICLpnZ7mraPnpL7lk6EiICwKICAic3RhZmYiOiAi5b256IG344Gq44GXIiAsCiAgInNlY3Rpb24tY2hpZWYiOiAi5Li75Lu757SaIiwKICAiY2hpZWYtY2xlcmsiOiAi5L+C6ZW357SaIiwKICAibWFuYWdlciI6ICLoqrLplbfntJoiLAogICJnZW5lcmFsLW1hbmFnZXIiOiAi6YOo6ZW357SaIiwKICAiY2hpZWYtZGVwYXJ0bWVudCI6ICLkuovmpa3pg6jplbfntJoiLAogICJkaXJlY3RvciI6ICLlj5bnt6DlvbnntJoiLAogICJwcmVzaWRlbnQiOiAi56S+6ZW357SaIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBwb3NpdGlvbnNNYXAgPSB7CiAgIm5vbi1wZXJtYW5lbnQiOiAi6Z2e5q2j56S+5ZOhIiAsCiAgInN0YWZmIjogIuW9ueiBt+OBquOBlyIgLAogICJzZWN0aW9uLWNoaWVmIjogIuS4u+S7u+e0miIsCiAgImNoaWVmLWNsZXJrIjogIuS/gumVt+e0miIsCiAgIm1hbmFnZXIiOiAi6Kqy6ZW357SaIiwKICAiZ2VuZXJhbC1tYW5hZ2VyIjogIumDqOmVt+e0miIsCiAgImNoaWVmLWRlcGFydG1lbnQiOiAi5LqL5qWt6YOo6ZW357SaIiwKICAiZGlyZWN0b3IiOiAi5Y+W57eg5b2557SaIiwKICAicHJlc2lkZW50IjogIuekvumVt+e0miIsCn0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHByb3BzKSA9PiB7Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBwb3NpdGlvbnNNYXAgPSB7CiAgIm5vbi1wZXJtYW5lbnQiOiAi6Z2e5q2j56S+5ZOhIiAsCiAgInN0YWZmIjogIuW9ueiBt+OBquOBlyIgLAogICJzZWN0aW9uLWNoaWVmIjogIuS4u+S7u+e0miIsCiAgImNoaWVmLWNsZXJrIjogIuS/gumVt+e0miIsCiAgIm1hbmFnZXIiOiAi6Kqy6ZW357SaIiwKICAiZ2VuZXJhbC1tYW5hZ2VyIjogIumDqOmVt+e0miIsCiAgImNoaWVmLWRlcGFydG1lbnQiOiAi5LqL5qWt6YOo6ZW357SaIiwKICAiZGlyZWN0b3IiOiAi5Y+W57eg5b2557SaIiwKICAicHJlc2lkZW50IjogIuekvumVt+e0miIsCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcykK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKHByb3BzKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhcmVlcnMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzaG93IiwgY2FyZWVycykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhcmVlcnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvc2l0aW9uID0gcG9zaXRpb25zTWFwW2NhcmVlci5wb3NpdGlvbl0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzaG93IiwgY2FyZWVycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBvc2l0aW9uID0gcG9zaXRpb25zTWFwW2NhcmVlci5wb3NpdGlvbl0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2099,7 +2093,6 @@
         <entry>%s/Careers/CareerEntities/g</entry>
         <entry>vsplit</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
-        <entry>'w</entry>
         <entry>a</entry>
         <entry>%s/StandardAction/Action/gc</entry>
         <entry>%s/StandardAction/Action/g</entry>
@@ -2112,6 +2105,7 @@
         <entry>q</entry>
         <entry>%s/key/name/gc</entry>
         <entry>noh</entry>
+        <entry>'w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
