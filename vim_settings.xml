@@ -564,11 +564,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" timestamp="1489124935165">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/services/phr/phr_access_error.rb" timestamp="1466066334361">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -611,10 +606,11 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1488952885328">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/career.ts" timestamp="1489127299828">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="89" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/prefs_spec.rb" timestamp="1474959049728">
         <mark key="[" line="16" column="15" />
@@ -1104,6 +1100,12 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/careerSummary/edit/ManagementPeople.tsx" timestamp="1489127551296">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/work/ansible-prototype.jobtalk/vagrant/websites/jobtalk.jp/apps/frontend/modules/member/templates/_suspendRegister.php" timestamp="1470587847991">
         <mark key="[" line="1" column="98" />
         <mark key="]" line="1" column="98" />
@@ -1235,6 +1237,11 @@
         <mark key="]" line="22" column="2" />
         <mark key="^" line="22" column="2" />
         <mark key="." line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/careerSummary/edit/index.tsx" timestamp="1489127497860">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/config/settings/staging.yml" timestamp="1479185165922">
         <mark key="[" line="0" column="0" />
@@ -2079,7 +2086,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
@@ -2088,34 +2095,34 @@
         <text encoding="base64">aW1wb3J0IHsgSWZEZXNrdG9wLCBJZk1vYmlsZSB9IGZyb20gIi4uLy4uLy4uLy4uLy4uL3RrLXBsYXRmb3JtL01lZGlhIgppbXBvcnQgeyBEZXNrdG9wTW9udGhQaWNrZXIgfSBmcm9tICIuLi8uLi8uLi9jb21tb24vZGF0ZVBpY2tlcnMvRGVza3RvcERhdGVQaWNrZXIiCmltcG9ydCB7IE1vYmlsZU1vbnRoUGlja2VyIH0gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2RhdGVQaWNrZXJzL01vYmlsZURhdGVQaWNrZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlZGl0TWVtYmVyQ2FyZWVySGlzdG9yeSwK</text>
+        <text encoding="base64">ICAgIDxNYW5hZ2VtZW50UGVvcGxlIHsgLi4ucHJvcHMgfSAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBlZGl0TWVtYmVyQ2FyZWVySGlzdG9yeSA9IChjYXJlZXJJZDogbnVtYmVyLCBoaXN0b3J5OiBzdHJpbmcpOiBFZGl0TWVtYmVyQ2FyZWVyID0+IHsKICByZXR1cm4gewogICAgdHlwZTogIkVESVRfTUVNQkVSX0NBUkVFUiIsCiAgICBwYXlsb2FkOiB7IGNhcmVlcklkLCBoaXN0b3J5IH0KICB9Cn0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGVkaXRNZW1iZXJDYXJlZXIgPSAoc3RhdGUsIGNhcmVlcklkKSA9PiBjcmVhdGVTZWxlY3RvcigKICBjb250cm9sLm1lbWJlckNhcmVlcnMsCiAgKGNhcmVlcnMpID0+IHsKICAgIGNvbnN0IGNhcmVlciA9IGNhcmVlcnNbY2FyZWVySWRdCiAgICByZXR1cm4geyAuLi5jYXJlZXIgfQogIH0KKShzdGF0ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5tZW1iZXJDYXJlZXIpCg==</text>
+        <text encoding="base64">ICBlZGl0TWVtYmVyQ2FyZWVySGlzdG9yeSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSWZEZXNrdG9wLCBJZk1vYmlsZSB9IGZyb20gInRrLXBsYXRmb3JtL01lZGlhIgppbXBvcnQgeyBEZXNrdG9wTW9udGhQaWNrZXIgfSBmcm9tICJteS1qb2J0YWxrL2NvbXBvbmVudHMvY29tbW9uL2RhdGVQaWNrZXJzL0Rlc2t0b3BEYXRlUGlja2VyIgppbXBvcnQgeyBNb2JpbGVNb250aFBpY2tlciB9IGZyb20gIm15LWpvYnRhbGsvY29tcG9uZW50cy9jb21tb24vZGF0ZVBpY2tlcnMvTW9iaWxlRGF0ZVBpY2tlciIK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBlZGl0TWVtYmVyQ2FyZWVySGlzdG9yeSA9IChjYXJlZXJJZDogbnVtYmVyLCBoaXN0b3J5OiBzdHJpbmcpOiBFZGl0TWVtYmVyQ2FyZWVyID0+IHsKICByZXR1cm4gewogICAgdHlwZTogIkVESVRfTUVNQkVSX0NBUkVFUiIsCiAgICBwYXlsb2FkOiB7IGNhcmVlcklkLCBoaXN0b3J5IH0KICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxJZkRlc2t0b3A+CiAgICAgICAgPERlc2t0b3BNb250aFBpY2tlcgogICAgICAgICAgZGF0ZVZhbHVlPXsgbWVtYmVyQ2FyZWVyLnRlbnVyZVRvRGF0ZSB9CiAgICAgICAgICBvblNlbGVjdD17IChkYXRlKSA9PiBhY3Rpb25zLmVkaXRNZW1iZXJDYXJlZXJUZW51cmVUb0RhdGUobWVtYmVyQ2FyZWVyLmlkLCB7IC4uLmRhdGUsIGRheTogMSB9KX0KICAgICAgICAvPgogICAgICA8L0lmRGVza3RvcD4KICAgICAgPElmTW9iaWxlPgogICAgICAgIDxNb2JpbGVNb250aFBpY2tlcgogICAgICAgICAgdmFsdWU9eyBtZW1iZXJDYXJlZXIudGVudXJlVG9EYXRlIH0KICAgICAgICAgIG9uU2VsZWN0PXsgKGRhdGUpID0+IGFjdGlvbnMuZWRpdE1lbWJlckNhcmVlclRlbnVyZVRvRGF0ZShtZW1iZXJDYXJlZXIuaWQsIGRhdGUpfQogICAgICAgIC8+CiAgICAgIDwvSWZNb2JpbGU+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5tZW1iZXJDYXJlZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIER1cmF0aW9uU2VsZWN0QmFzZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSWZEZXNrdG9wLCBJZk1vYmlsZSB9IGZyb20gInRrLXBsYXRmb3JtL01lZGlhIgppbXBvcnQgeyBEZXNrdG9wTW9udGhQaWNrZXIgfSBmcm9tICJteS1qb2J0YWxrL2NvbXBvbmVudHMvY29tbW9uL2RhdGVQaWNrZXJzL0Rlc2t0b3BEYXRlUGlja2VyIgppbXBvcnQgeyBNb2JpbGVNb250aFBpY2tlciB9IGZyb20gIm15LWpvYnRhbGsvY29tcG9uZW50cy9jb21tb24vZGF0ZVBpY2tlcnMvTW9iaWxlRGF0ZVBpY2tlciIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxJZkRlc2t0b3A+CiAgICAgICAgPERlc2t0b3BNb250aFBpY2tlcgogICAgICAgICAgZGF0ZVZhbHVlPXsgbWVtYmVyQ2FyZWVyLnRlbnVyZUZyb21EYXRlIH0KICAgICAgICAgIG9uU2VsZWN0PXsgKGRhdGUpID0+IGFjdGlvbnMuZWRpdE1lbWJlckNhcmVlclRlbnVyZVRvRGF0ZShtZW1iZXJDYXJlZXIuaWQsIHsgLi4uZGF0ZSwgZGF5OiAxIH0pfQogICAgICAgIC8+CiAgICAgIDwvSWZEZXNrdG9wPgogICAgICA8SWZNb2JpbGU+CiAgICAgICAgPE1vYmlsZU1vbnRoUGlja2VyCiAgICAgICAgICB2YWx1ZT17IG1lbWJlckNhcmVlci50ZW51cmVGcm9tRGF0ZSB9CiAgICAgICAgICBvblNlbGVjdD17IChkYXRlKSA9PiBhY3Rpb25zLmVkaXRNZW1iZXJDYXJlZXJUZW51cmVGcm9tRGF0ZShtZW1iZXJDYXJlZXIuaWQsIGRhdGUpfQogICAgICAgIC8+CiAgICAgIDwvSWZNb2JpbGU+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxJZkRlc2t0b3A+CiAgICAgICAgPERlc2t0b3BNb250aFBpY2tlcgogICAgICAgICAgZGF0ZVZhbHVlPXsgbWVtYmVyQ2FyZWVyLnRlbnVyZVRvRGF0ZSB9CiAgICAgICAgICBvblNlbGVjdD17IChkYXRlKSA9PiBhY3Rpb25zLmVkaXRNZW1iZXJDYXJlZXJUZW51cmVUb0RhdGUobWVtYmVyQ2FyZWVyLmlkLCB7IC4uLmRhdGUsIGRheTogMSB9KX0KICAgICAgICAvPgogICAgICA8L0lmRGVza3RvcD4KICAgICAgPElmTW9iaWxlPgogICAgICAgIDxNb2JpbGVNb250aFBpY2tlcgogICAgICAgICAgdmFsdWU9eyBtZW1iZXJDYXJlZXIudGVudXJlVG9EYXRlIH0KICAgICAgICAgIG9uU2VsZWN0PXsgKGRhdGUpID0+IGFjdGlvbnMuZWRpdE1lbWJlckNhcmVlclRlbnVyZVRvRGF0ZShtZW1iZXJDYXJlZXIuaWQsIGRhdGUpfQogICAgICAgIC8+CiAgICAgIDwvSWZNb2JpbGU+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSWZEZXNrdG9wLCBJZk1vYmlsZSB9IGZyb20gIi4uLy4uLy4uLy4uLy4uL3RrLXBsYXRmb3JtL01lZGlhIgppbXBvcnQgeyBEZXNrdG9wTW9udGhQaWNrZXIgfSBmcm9tICIuLi8uLi8uLi9jb21tb24vZGF0ZVBpY2tlcnMvRGVza3RvcERhdGVQaWNrZXIiCmltcG9ydCB7IE1vYmlsZU1vbnRoUGlja2VyIH0gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2RhdGVQaWNrZXJzL01vYmlsZURhdGVQaWNrZXIiCg==</text>
+        <text encoding="base64">ICAgIER1cmF0aW9uU2VsZWN0QmFzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpvYlR5cGVzKQo=</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDxJZkRlc2t0b3A+CiAgICAgICAgPERlc2t0b3BNb250aFBpY2tlcgogICAgICAgICAgZGF0ZVZhbHVlPXsgbWVtYmVyQ2FyZWVyLnRlbnVyZUZyb21EYXRlIH0KICAgICAgICAgIG9uU2VsZWN0PXsgKGRhdGUpID0+IGFjdGlvbnMuZWRpdE1lbWJlckNhcmVlclRlbnVyZVRvRGF0ZShtZW1iZXJDYXJlZXIuaWQsIHsgLi4uZGF0ZSwgZGF5OiAxIH0pfQogICAgICAgIC8+CiAgICAgIDwvSWZEZXNrdG9wPgogICAgICA8SWZNb2JpbGU+CiAgICAgICAgPE1vYmlsZU1vbnRoUGlja2VyCiAgICAgICAgICB2YWx1ZT17IG1lbWJlckNhcmVlci50ZW51cmVGcm9tRGF0ZSB9CiAgICAgICAgICBvblNlbGVjdD17IChkYXRlKSA9PiBhY3Rpb25zLmVkaXRNZW1iZXJDYXJlZXJUZW51cmVGcm9tRGF0ZShtZW1iZXJDYXJlZXIuaWQsIGRhdGUpfQogICAgICAgIC8+CiAgICAgIDwvSWZNb2JpbGU+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
