@@ -927,6 +927,12 @@
         <mark key="^" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" timestamp="1492505206270">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member_mail_confirmation.rb" timestamp="1463995393872">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="23" />
@@ -1452,12 +1458,6 @@
         <mark key="]" line="17" column="23" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/allocate_registrations_controller.rb" timestamp="1492499162754">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/work/ansible-prototype.ares/vagrant/ares.jobtalk.jp/config/routes.rb" timestamp="1472525636432">
         <mark key="[" line="71" column="45" />
@@ -2117,35 +2117,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgIyDjg4fjg5Djg4PjgrDnlKgKICAjIG1lbWJlcuOBruaDheWgseOCkuWIneacn+WMlu+8iOODoeODvOODq+OCouODieODrOOCueiqjeiovOW+jOOBrueKtuaFi+OBq++8ieOBmeOCiwogIGRlZiBjbGVhcl9kYXRhIQogICAgcmV0dXJuIHVubGVzcyBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/CiAgICB0cmFuc2FjdGlvbiBkbwogICAgICBnZW5kZXIgPSBudWxsCiAgICAgIAogICAgZW5kCiAgZW5k</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMg44GE44Gj44Gf44KTYWNjb3VudCAtPiBteSAtPiBqb2J0YWxr5pys5L2T44G45rWB44GZCiAgICAjIHJlZGlyZWN0X3RvX3JlZ2lzdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGdlbmRlciA9IG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgogICAgcmVkaXJlY3RfdG8gIi9jbGllbnQvcmVnaXN0cmF0aW9uIgogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2UiCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICM=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAgaG9nZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVtYmVyX2NhcmVlcnMucHJlc2VudD8sCg==</text>
+        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWVtYmVyX2NhcmVlcgo=</text>
+        <text encoding="base64">ICAgICMg44GE44Gj44Gf44KTYWNjb3VudCAtPiBteSAtPiBqb2J0YWxr5pys5L2T44G45rWB44GZCiAgICAjIHJlZGlyZWN0X3RvX3JlZ2lzdGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyDjgrnjgq3jg6vjgr/jgrAK</text>
+        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgogICAgcmVkaXJlY3RfdG8gIi9jbGllbnQvcmVnaXN0cmF0aW9uIgogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
