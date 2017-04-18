@@ -319,6 +319,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/config/routes.rb" timestamp="1492484267846">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/EmploymentDuration/TenureFromDate.tsx" timestamp="1488955134478">
         <mark key="[" line="17" column="102" />
         <mark key="]" line="17" column="102" />
@@ -2108,7 +2114,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sync</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
