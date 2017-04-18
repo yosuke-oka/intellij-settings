@@ -320,6 +320,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/config/routes.rb" timestamp="1492506138503">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+        <mark key="^" line="47" column="38" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/edit/EmploymentDuration/TenureFromDate.tsx" timestamp="1488955134478">
         <mark key="[" line="17" column="102" />
         <mark key="]" line="17" column="102" />
@@ -664,6 +670,12 @@
         <mark key="]" line="5" column="88" />
         <mark key="^" line="5" column="88" />
         <mark key="." line="5" column="88" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/last_member_ids_controller.rb" timestamp="1492506420487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/concerns/mail_confirmation_token_validator.rb" timestamp="1464762752529">
         <mark key="[" line="0" column="35" />
@@ -1022,6 +1034,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/last_member_ids_controller.rb" timestamp="1492506298495">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/views/members/destroy.html.slim" timestamp="1465283945644">
         <mark key="[" line="0" column="0" />
@@ -2109,43 +2127,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
+        <text encoding="base64">ICAjIFRPRE86IOS8muWToeeZu+mMsuWujOWFqOenu+ihjOW+jOOBq+WJiumZpAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgIyDjg4fjg5Djg4PjgrDnlKgKICAjIG1lbWJlcuOBruaDheWgseOCkuWIneacn+WMlu+8iOODoeODvOODq+OCouODieODrOOCueiqjeiovOW+jOOBrueKtuaFi+OBq++8ieOBmeOCiwogIGRlZiBjbGVhcl9kYXRhIQogICAgcmV0dXJuIHVubGVzcyBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/CiAgICB0cmFuc2FjdGlvbiBkbwogICAgICBnZW5kZXIgPSBudWxsCiAgICAgIAogICAgZW5kCiAgZW5k</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAjIFRPRE86IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgIyDjg4fjg5Djg4PjgrDnlKgKICAjIG1lbWJlcuOBruaDheWgseOCkuWIneacn+WMlu+8iOODoeODvOODq+OCouODieODrOOCueiqjeiovOW+jOOBrueKtuaFi+OBq++8ieOBmeOCiwogIGRlZiBjbGVhcl9kYXRhIQogICAgcmV0dXJuIHVubGVzcyBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/CiAgICB0cmFuc2FjdGlvbiBkbwogICAgICBnZW5kZXIgPSBudWxsCiAgICAgIAogICAgZW5kCiAgZW5k</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmRlciA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImhvZ2UiCg==</text>
+        <text encoding="base64">ICAgIGdlbmRlciA9IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgaG9nZQo=</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2UiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
+        <text encoding="base64">ICAgIHAgaG9nZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMg44GE44Gj44Gf44KTYWNjb3VudCAtPiBteSAtPiBqb2J0YWxr5pys5L2T44G45rWB44GZCiAgICAjIHJlZGlyZWN0X3RvX3JlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICMg44GE44Gj44Gf44KTYWNjb3VudCAtPiBteSAtPiBqb2J0YWxr5pys5L2T44G45rWB44GZCiAgICAjIHJlZGlyZWN0X3RvX3JlZ2lzdGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgogICAgcmVkaXJlY3RfdG8gIi9jbGllbnQvcmVnaXN0cmF0aW9uIgogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0X3RvX215X3JlZ2lzdHJhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
