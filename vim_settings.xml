@@ -278,6 +278,7 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1495104003330" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/support/request_contexts.rb" timestamp="1473227401326">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="40" />
@@ -575,8 +576,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1495102042133">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1495104662417">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/.rubocop.yml" timestamp="1464683498091">
         <mark key="[" line="8" column="16" />
@@ -2026,8 +2029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/enhancers/layoutShow.js" />
-      <jump line="0" column="1" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/Edit.css" />
       <jump line="26" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/Edit.js" />
       <jump line="49" column="10" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/Edit.css" />
       <jump line="1" column="25" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/HireDate.js" />
@@ -2126,6 +2127,8 @@
       <jump line="87" column="5" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" />
       <jump line="71" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="29" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="151" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2135,60 +2138,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>complete</text>
+        <text>var_dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjIFRPRE86IOS8muWToeeZu+mMsuWujOWFqOenu+ihjOW+jOOBq+WJiumZpAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkID4gMSAmJiBpZCAlIDEwIDwgTVlfUkVHSVNUUkFUSU9OX1JBVEUgKyAxICMg6KiY6LyJ44GX44Gm44GC44KLaWQgPiAx44Gv44Oq44Oq44O844K55YmN44GrCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIFRPRE86IAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgIyDjg4fjg5Djg4PjgrDnlKgKICAjIG1lbWJlcuOBruaDheWgseOCkuWIneacn+WMlu+8iOODoeODvOODq+OCouODieODrOOCueiqjeiovOW+jOOBrueKtuaFi+OBq++8ieOBmeOCiwogIGRlZiBjbGVhcl9kYXRhIQogICAgcmV0dXJuIHVubGVzcyBSYWlscy5lbnYuZGV2ZWxvcG1lbnQ/CiAgICB0cmFuc2FjdGlvbiBkbwogICAgICBnZW5kZXIgPSBudWxsCiAgICAgIAogICAgZW5kCiAgZW5k</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyR0aGlzLT5hY3Rpb25IZWxwZXItPnJlZGlyZWN0U3RhdHVzUm91dGUoJHJvdXRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdlbmRlciA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImhvZ2UiCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAgaG9nZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoKWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGlmIEBhdXRoZW50aWNhdGVkLm1lbWJlciAlIDEwID09IDAgPyByZWRpcmVjdF90byBteV9qb2J0YWxrX3JlZ2lzdHJhdGlvbl9wYXRoIDogcmVkaXJlY3RfdG9fcmVnaXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMg44GE44Gj44Gf44KTYWNjb3VudCAtPiBteSAtPiBqb2J0YWxr5pys5L2T44G45rWB44GZCiAgICAjIHJlZGlyZWN0X3RvX3JlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>complete</last-search>
+      <last-search>var_dump</last-search>
       <last-offset />
-      <last-pattern>complete</last-pattern>
+      <last-pattern>var_dump</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tenure_from_date</entry>
         <entry>tenure_to_date</entry>
         <entry>re_from_date</entry>
         <entry>re_to_date</entry>
@@ -2208,15 +2210,14 @@
         <entry>'</entry>
         <entry>parse</entry>
         <entry>complete</entry>
+        <entry>var_dump</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Careers/CareerEntities/g</entry>
         <entry>vsplit</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>a</entry>
         <entry>%s/StandardAction/Action/gc</entry>
         <entry>%s/StandardAction/Action/g</entry>
-        <entry>e</entry>
         <entry>s/Field/Area</entry>
         <entry>s/Field/Area/g</entry>
         <entry>mpj</entry>
@@ -2228,8 +2229,10 @@
         <entry>s/'/&quot;/g</entry>
         <entry>lw</entry>
         <entry>.w</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>e</entry>
+        <entry>we</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
