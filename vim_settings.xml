@@ -575,7 +575,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1494911867366">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1495102042133">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/.rubocop.yml" timestamp="1464683498091">
@@ -1755,7 +1755,6 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/status/MemberAdvanceChanger.class.php" timestamp="1495009722950" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/reducers/control/desiredConditions/industries.ts" timestamp="1487841488032">
         <mark key="[" line="30" column="62" />
         <mark key="]" line="16" column="40" />
