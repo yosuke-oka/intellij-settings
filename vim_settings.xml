@@ -171,9 +171,9 @@
         <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/circle.yml" timestamp="1495528559020">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/factories/companies.rb" timestamp="1478659309427">
         <mark key="[" line="3" column="0" />
@@ -500,10 +500,9 @@
         <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/scripts/circleci/ecs/deploy.sh" timestamp="1495529819694">
-        <mark key="[" line="5" column="106" />
-        <mark key="]" line="8" column="92" />
-        <mark key="^" line="8" column="92" />
-        <mark key="." line="8" column="92" />
+        <mark key="]" line="2" column="92" />
+        <mark key="^" line="2" column="92" />
+        <mark key="." line="2" column="92" />
       </file>
       <file name="$USER_HOME$/work/ansible-prototype.jobtalk/vagrant/websites/jobtalk.jp/apps/frontend/lib/member/preference/MemberPreferenceIndustry.class.php" timestamp="1463379941820">
         <mark key="[" line="21" column="39" />
@@ -2207,7 +2206,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -2217,7 +2216,7 @@
       <last-replace>odyssey</last-replace>
       <last-substitute>ares</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2257,12 +2256,12 @@
         <entry>s/'/&quot;/g</entry>
         <entry>lw</entry>
         <entry>.w</entry>
-        <entry>noh</entry>
         <entry>e</entry>
         <entry>we</entry>
         <entry>%s/ARES/ODYSSEY/gc</entry>
         <entry>%s/ares/odyssey/g</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
