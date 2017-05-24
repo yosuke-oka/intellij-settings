@@ -171,9 +171,9 @@
         <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/circle.yml" timestamp="1495528559020">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/factories/companies.rb" timestamp="1478659309427">
         <mark key="[" line="3" column="0" />
@@ -1087,7 +1087,7 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/run_test.sh" timestamp="1495187412152">
+      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/run_test.sh" timestamp="1495605321173">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="57" />
@@ -2175,7 +2175,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>custom</text>
+        <text>ares</text>
       </register>
       <register name="/" type="4">
         <text>ares</text>
