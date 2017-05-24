@@ -1715,6 +1715,13 @@
         <mark key="." line="5" column="64" />
         <mark key="^" line="5" column="64" />
       </file>
+      <file name="$USER_HOME$/work/business.jobtalk.jp/app/models/job_posting.rb" timestamp="1495602801569">
+        <mark key="k" line="36" column="112" />
+        <mark key="[" line="34" column="117" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/careerSummary/edit/Position.tsx" timestamp="1489125025558">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="27" />
@@ -2167,46 +2174,46 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text encoding="base64">LT57IG1heGltdW06IDEwIH0=</text>
       </register>
       <register name="/" type="4">
         <text>ares</text>
       </register>
       <register name="0" type="4">
-        <text>CIRCLE_BRANCH</text>
+        <text encoding="base64">LT4oc3RyKSB7IHN0ci5nc3ViKC9cclxuLywgJycpIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBqb2J0YWxrL29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vam9idGFsay9vZHlzc2V5OiRDSVJDTEVfU0hBMQo=</text>
+        <text encoding="base64">ICBkZWYgaG9nZShzdHIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIyBUT0RPOiDku6XkuIvjga5iYXRjaOOBrumDqOWIhuOBhOOCieOBquOBhOOBruOBp+a2iOOBmQogICAgICAjIC0gdHlwZTogc2hlbGwKICAgICAgIyAgIG5hbWU6IGJhdGNoIGRlcGxveQogICAgICAjICAgY29tbWFuZDogfAogICAgICAjICAgICBpZiBbICIke0NJUkNMRV9CUkFOQ0h9IiA9PSAibWFzdGVyIiBdOyB0aGVuCiAgICAgICMgICAgICAgYmFzaCAtZSBzY3JpcHRzL2NpcmNsZWNpL2NvZGVkZXBsb3kvbWFzdGVyLnNoOwogICAgICAjICAgICBlbHNlCiAgICAgICMgICAgICAgYmFzaCAtZSBzY3JpcHRzL2NpcmNsZWNpL2NvZGVkZXBsb3kvYnJhbmNoLnNoOwogICAgICAjICAgICBmaQo=</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlc19sZW5ndGhfb2YgcmVjb3JkCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0ci5nc3ViKC9cUi8sICcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBvZHlzc2V5am9idGFsa2pwX29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vb2R5c3NleS9yYWlsczokQ0lSQ0xFX1NIQTEKZG9ja2VyIHB1c2ggNzE2MDgzOTkxNDM3LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9vZHlzc2V5L3JhaWxzOiRDSVJDTEVfU0hBMQpkb2NrZXIgdGFnIG9keXNzZXlqb2J0YWxranBfb2R5c3NleTpsYXRlc3QgNzE2MDgzOTkxNDM3LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9vZHlzc2V5L3JhaWxzOiRDSVJDTEVfQlJBTkNICmRvY2tlciBwdXNoIDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vb2R5c3NleS9yYWlsczokQ0lSQ0xFX0JSQU5DSAo=</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyBqb2J0YWxrL29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vam9idGFsay9vZHlzc2V5OiRDSVJDTEVfU0hBMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciBwdXNoIDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vam9idGFsay9vZHlzc2V5OiRDSVJDTEVfU0hBMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciB0YWcgb2R5c3NleWpvYnRhbGtqcF9vZHlzc2V5OmxhdGVzdCA3MTYwODM5OTE0MzcuZGtyLmVjci5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL29keXNzZXkvcmFpbHM6bGF0ZXN0CiAgICBkb2NrZXIgcHVzaCA3MTYwODM5OTE0MzcuZGtyLmVjci5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL29keXNzZXkvcmFpbHM6bGF0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgIyBUT0RPOiDku6XkuIvjga5iYXRjaOOBrumDqOWIhuOBhOOCieOBquOBhOOBruOBp+a2iOOBmQogICAgICAjIC0gdHlwZTogc2hlbGwKICAgICAgIyAgIG5hbWU6IGJhdGNoIGRlcGxveQogICAgICAjICAgY29tbWFuZDogfAogICAgICAjICAgICBpZiBbICIke0NJUkNMRV9CUkFOQ0h9IiA9PSAibWFzdGVyIiBdOyB0aGVuCiAgICAgICMgICAgICAgYmFzaCAtZSBzY3JpcHRzL2NpcmNsZWNpL2NvZGVkZXBsb3kvbWFzdGVyLnNoOwogICAgICAjICAgICBlbHNlCiAgICAgICMgICAgICAgYmFzaCAtZSBzY3JpcHRzL2NpcmNsZWNpL2NvZGVkZXBsb3kvYnJhbmNoLnNoOwogICAgICAjICAgICBmaQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciB0YWcgb2R5c3NleWpvYnRhbGtqcF9vZHlzc2V5OmxhdGVzdCA3MTYwODM5OTE0MzcuZGtyLmVjci5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL29keXNzZXkvcmFpbHM6JENJUkNMRV9TSEExCiAgICBkb2NrZXIgcHVzaCA3MTYwODM5OTE0MzcuZGtyLmVjci5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL29keXNzZXkvcmFpbHM6JENJUkNMRV9TSEExCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+bWVtYmVyLT5nZXRTdGF0dXMoKSk7Cg==</text>
+        <text encoding="base64">ZG9ja2VyIHRhZyBvZHlzc2V5am9idGFsa2pwX29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vb2R5c3NleS9yYWlsczokQ0lSQ0xFX1NIQTEKZG9ja2VyIHB1c2ggNzE2MDgzOTkxNDM3LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9vZHlzc2V5L3JhaWxzOiRDSVJDTEVfU0hBMQpkb2NrZXIgdGFnIG9keXNzZXlqb2J0YWxranBfb2R5c3NleTpsYXRlc3QgNzE2MDgzOTkxNDM3LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9vZHlzc2V5L3JhaWxzOiRDSVJDTEVfQlJBTkNICmRvY2tlciBwdXNoIDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vb2R5c3NleS9yYWlsczokQ0lSQ0xFX0JSQU5DSAo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2250,7 +2257,6 @@
         <entry>mpj</entry>
         <entry>%s/AyncLoad/LoadingAnimation/g</entry>
         <entry>%s/AsyncLoad/LoadingAnimation/g</entry>
-        <entry>q</entry>
         <entry>%s/key/name/gc</entry>
         <entry>'w</entry>
         <entry>s/'/&quot;/g</entry>
@@ -2260,8 +2266,9 @@
         <entry>we</entry>
         <entry>%s/ARES/ODYSSEY/gc</entry>
         <entry>%s/ares/odyssey/g</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
