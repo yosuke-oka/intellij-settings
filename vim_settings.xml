@@ -9,7 +9,6 @@
         <mark key="^" line="36" column="60" />
         <mark key="." line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/controllers/companies_controller.rb" timestamp="1496047419728" />
       <file name="$USER_HOME$/work/electron-jobtalk/static/index.css" timestamp="1482740207681">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -284,12 +283,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1495161017294">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="55" />
-        <mark key="^" line="17" column="55" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496119088235">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="19" column="91" />
+        <mark key="]" line="19" column="91" />
+        <mark key="." line="19" column="91" />
+        <mark key="^" line="19" column="91" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/support/request_contexts.rb" timestamp="1473227401326">
         <mark key="[" line="1" column="29" />
@@ -529,7 +528,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/models/event_mail_form.rb" timestamp="1496047217571" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/api-utils/requests2/index.js" timestamp="1486541295778">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="5" />
@@ -595,7 +593,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1495104662417">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1496118494855">
+        <mark key="'" line="198" column="38" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
@@ -2067,8 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/constants/ActionTypes/subscription.js" />
-      <jump line="13" column="27" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/reducers/control/subscriptions.js" />
       <jump line="14" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Show/mails.js" />
       <jump line="23" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Show/mails.js" />
       <jump line="22" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Show/mails.js" />
@@ -2167,6 +2164,8 @@
       <jump line="13" column="13" filename="$USER_HOME$/work/odyssey.jobtalk.jp/docker-compose-test.yml" />
       <jump line="12" column="35" filename="$USER_HOME$/work/odyssey.jobtalk.jp/docker-compose-test.yml" />
       <jump line="2" column="16" filename="$USER_HOME$/work/odyssey.jobtalk.jp/scripts/circleci/ecs/deploy.sh" />
+      <jump line="107" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="198" column="38" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2179,7 +2178,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>redirectstatus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZG9ja2VyIHRhZyBvZHlzc2V5am9idGFsa2pwX29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vam9idGFsay9vZHlzc2V5OiRDSVJDTEVfU0hBMQo=</text>
@@ -2215,13 +2214,13 @@
         <text encoding="base64">ICAjIHZhbGlkYXRlc19sZW5ndGhfb2YgOmpvYl9uYW1lLCAgICAgICAgICBtYXhpbXVtOiBTZXR0aW5ncy5qb2JfcG9zdGluZy5qb2JfbmFtZS5tYXhpbXVtLCAgICAgICAgICAgdG9rZW5pemVyOiBob2dlIFtbICBdXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>redirectstatus</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>redirectstatus</last-pattern>
       <last-replace>odyssey</last-replace>
       <last-substitute>ares</last-substitute>
       <last-dir>1</last-dir>
@@ -2229,7 +2228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>re_to_d</entry>
         <entry>re_from_d</entry>
         <entry>store</entry>
         <entry>night</entry>
@@ -2249,6 +2247,7 @@
         <entry>ARES</entry>
         <entry>ares</entry>
         <entry>form</entry>
+        <entry>redirectstatus</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -2269,8 +2268,8 @@
         <entry>%s/ARES/ODYSSEY/gc</entry>
         <entry>%s/ares/odyssey/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
