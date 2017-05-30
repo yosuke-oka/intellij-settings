@@ -283,11 +283,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496121136050">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496124928613">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/support/request_contexts.rb" timestamp="1473227401326">
         <mark key="[" line="1" column="29" />
@@ -592,12 +593,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1496123661854">
-        <mark key="'" line="127" column="46" />
-        <mark key="[" line="127" column="18" />
-        <mark key="]" line="127" column="18" />
-        <mark key="." line="127" column="18" />
-        <mark key="^" line="127" column="18" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1496124978716">
+        <mark key="'" line="125" column="54" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="247" column="35" />
+        <mark key="^" line="247" column="35" />
+        <mark key="." line="247" column="35" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/.rubocop.yml" timestamp="1464683498091">
         <mark key="[" line="8" column="16" />
@@ -1825,6 +1826,11 @@
         <mark key="^" line="118" column="16" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/member/route/MemberRegisterRouterTest.php" timestamp="1496125369471">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/desired_condition/locations_spec.rb" timestamp="1474965507297">
         <mark key="[" line="7" column="69" />
         <mark key="]" line="7" column="72" />
@@ -2066,7 +2072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Show/mails.js" />
       <jump line="22" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/subscription/Show/mails.js" />
       <jump line="19" column="61" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/subscriptions_spec.rb" />
       <jump line="35" column="16" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/apps/ProfileApp.js" />
@@ -2166,6 +2171,7 @@
       <jump line="107" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="198" column="38" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="127" column="46" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="125" column="54" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2175,43 +2181,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">JHRoaXMtPmdldFNlY3VyZURvbWFpbigpLg==</text>
       </register>
       <register name="/" type="4">
         <text>genconreg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+cmVkaXJlY3QoJHJvdXRlci0+Z2VuQ29tcGxldGVVcmwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfYXJyYXkoJHF1ZXJ5UGFyYW1zKSkgewogICAgICAgICAgICAkZ2VuVXJsIC49ICc/Jy5odHRwX2J1aWxkX3F1ZXJ5KCRxdWVyeVBhcmFtcyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZW1iZXJTdGF0dXNDb2x1bW46OkFQUFJPVkFMID0+IGFycmF5KCdtZW1iZXInLCAnY29tcGxldGUnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHQtPmV4ZWN1dGUoKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZG9ja2VyIHBzIC1hCg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZG9ja2VyIGltYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvY2tlciB0YWcgam9idGFsay9vZHlzc2V5OmxhdGVzdCA3MTYwODM5OTE0MzcuZGtyLmVjci5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tL2pvYnRhbGsvb2R5c3NleTpsYXRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpcy0+cmVkaXJlY3QoJHJvdXRlci0+Z2VuQ29tcGxldGVVcmwoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG9ja2VyIHRhZyBqb2J0YWxrL29keXNzZXk6bGF0ZXN0IDcxNjA4Mzk5MTQzNy5ka3IuZWNyLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20vam9idGFsay9vZHlzc2V5OiRDSVJDTEVfQlJBTkNICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IEdUTeOCv+OCsOOBruS7tuOAgeacquino+axuuOBquOBruOBp+OCs+ODoeODs+ODiOOCouOCpuODiAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOmpvYl9uYW1lLCBjdXN0b206IHsgbWF4aW11bTogTUFYWzpqb2JfbmFtZV0gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGh0dHBzOi8vY29uZmx1ZW5jZS5hZC5saXZlc2Vuc2UuY28uanAvcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD0xMzc5MTc5NzMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZXMgOmpvYl9uYW1lLCBjdXN0b206IHsgbWF4aW11bTogZ2V0X21heGltdW0oOmpvYl9uYW1lKSB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZW1iZXJTdGF0dXNDb2x1bW46OkFQUFJPVkFMID0+IGFycmF5KCdtZW1iZXInLCAnY29tcGxldGUnKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBob2dlID0gLT4ocmVjb3JkKXsgbWF4aW11bTogU2V0dGluZ3MucmVjb3JkLm1heGltdW0sIHRva2VuaXplcjogLT4oc3RyKXsgbGFkc2psIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2224,7 +2230,7 @@
       <last-replace>odyssey</last-replace>
       <last-substitute>ares</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
