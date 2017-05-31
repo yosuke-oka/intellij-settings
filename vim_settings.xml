@@ -217,6 +217,7 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/work/business.jobtalk.jp/spec/models/scout_message_spec.rb" timestamp="1496207979628" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/views/members/new.html.slim" timestamp="1471502567611">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="128" />
@@ -1717,13 +1718,6 @@
         <mark key="]" line="5" column="64" />
         <mark key="." line="5" column="64" />
         <mark key="^" line="5" column="64" />
-      </file>
-      <file name="$USER_HOME$/work/business.jobtalk.jp/app/models/job_posting.rb" timestamp="1495604161307">
-        <mark key="k" line="41" column="112" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/careerSummary/edit/Position.tsx" timestamp="1489125025558">
         <mark key="[" line="1" column="26" />
