@@ -1057,7 +1057,12 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1496302613039" />
+      <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1496305376838">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/factories/member_career_jobs.rb" timestamp="1484806716970">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="12" />
@@ -1070,6 +1075,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/partner/pasonacareer/partnerPasonacareerSetupDataTask.class.php" timestamp="1496305904191" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/selectors/store/control/index.js" timestamp="1487833958659">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="11" column="0" />
@@ -1194,6 +1200,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/partner/recruitAgent/partnerRecruitAgentSetupDataTask.class.php" timestamp="1496305941948">
+        <mark key="'" line="21" column="8" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/industries_controller_spec.rb" timestamp="1473830484862">
         <mark key="[" line="12" column="48" />
@@ -2076,14 +2085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="61" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/subscriptions_spec.rb" />
-      <jump line="35" column="16" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/apps/ProfileApp.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/menu/MenuLinks.js" />
-      <jump line="25" column="28" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/common/_scout_off.html+sp.slim" />
-      <jump line="107" column="12" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/common/_scout_off.html.slim" />
-      <jump line="72" column="18" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/jobs/_direct_result.html+sp.slim" />
-      <jump line="109" column="17" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/jobs/_direct_result.html.slim" />
-      <jump line="27" column="15" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/layouts/_header_slide_menu.html+sp.slim" />
       <jump line="28" column="30" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/scout_messages/_form.html+sp.slim" />
       <jump line="28" column="32" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/scout_messages/_form.html.slim" />
       <jump line="19" column="18" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/scout_messages/_index_right_column.html.slim" />
@@ -2176,6 +2177,14 @@
       <jump line="127" column="46" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="125" column="54" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="63" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="91" column="34" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="13" column="4" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="30" column="9" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="23" column="1" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/recruitAgent/partnerRecruitAgentSetupDataTask.class.php" />
+      <jump line="21" column="8" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/recruitAgent/partnerRecruitAgentSetupDataTask.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2185,63 +2194,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">44CA</text>
+        <text>ragent</text>
       </register>
       <register name="/" type="4">
-        <text>conreg</text>
+        <text>pasonacareer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNfYXJyYXkoJHF1ZXJ5UGFyYW1zKSkgewogICAgICAgICAgICAkZ2VuVXJsIC49ICc/Jy5odHRwX2J1aWxkX3F1ZXJ5KCRxdWVyeVBhcmFtcyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gdmFsaWRhdGVfbGVuZ3RoX29mKDpib2R5KS5pc19hdF9tb3N0KFNldHRpbmdzLnNjb3V0X21lc3NhZ2UuYm9keS5tYXhpbXVtKSB9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA3ZmMzM2NkODg5ODczZDkyNTk0NTZjNGY2MTkyZjUyYzBiZDk1MTBjCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxMX01FRElBPSgidHlwZSIgImVjYXJlZXIiICJteW5hdmkiICJkb2RhIiAiZmluZGpvYiIgInN0YWZmQiIgInBhc29uYWNhcmVlciIgIndvbWFuVHlwZSIgImpzdGFmZiIgInJhZ2VudCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHQtPmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGl0IHsgaXNfZXhwZWN0ZWQudG8gdmFsaWRhdGVfbGVuZ3RoX29mKDpib2R5KS5pc19hdF9tb3N0KFNldHRpbmdzLnNjb3V0X21lc3NhZ2UuYm9keS5tYXhpbXVtKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpcy0+cmVkaXJlY3QoJHJvdXRlci0+Z2VuQ29tcGxldGVVcmwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IEdUTeOCv+OCsOOBruS7tuOAgeacquino+axuuOBquOBruOBp+OCs+ODoeODs+ODiOOCouOCpuODiAo=</text>
+        <text encoding="base64">JHQtPmV4ZWN1dGUoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGh0dHBzOi8vY29uZmx1ZW5jZS5hZC5saXZlc2Vuc2UuY28uanAvcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD0xMzc5MTc5NzMK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZW1iZXJTdGF0dXNDb2x1bW46OkFQUFJPVkFMID0+IGFycmF5KCdtZW1iZXInLCAnY29tcGxldGUnKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conreg</last-search>
+      <last-search>pasonacareer</last-search>
       <last-offset />
-      <last-pattern>conreg</last-pattern>
-      <last-replace>odyssey</last-replace>
-      <last-substitute>ares</last-substitute>
+      <last-pattern>pasonacareer</last-pattern>
+      <last-replace>recruitAgent</last-replace>
+      <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Store</entry>
-        <entry>Companies</entry>
-        <entry>Career</entry>
-        <entry>Careers</entry>
         <entry>StandardAction</entry>
         <entry>Field</entry>
         <entry>AyncLoad</entry>
@@ -2258,12 +2263,12 @@
         <entry>genconreg</entry>
         <entry>cons</entry>
         <entry>conreg</entry>
+        <entry>no_feed</entry>
+        <entry>dotask</entry>
+        <entry>Pasonacareer</entry>
+        <entry>pasonacareer</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
-        <entry>%s/StandardAction/Action/gc</entry>
-        <entry>%s/StandardAction/Action/g</entry>
-        <entry>s/Field/Area</entry>
         <entry>s/Field/Area/g</entry>
         <entry>mpj</entry>
         <entry>%s/AyncLoad/LoadingAnimation/g</entry>
@@ -2277,8 +2282,12 @@
         <entry>we</entry>
         <entry>%s/ARES/ODYSSEY/gc</entry>
         <entry>%s/ares/odyssey/g</entry>
-        <entry>q</entry>
         <entry>noh</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
+        <entry>vsp</entry>
+        <entry>%s/Pasonacareer/RecruitAgent/g</entry>
+        <entry>%s/pasonacareer/recruitAgent/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
