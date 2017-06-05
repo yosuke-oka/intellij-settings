@@ -68,12 +68,12 @@
         <mark key="." line="216" column="24" />
         <mark key="^" line="216" column="24" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataConverter.class.php" timestamp="1496307441438">
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataConverter.class.php" timestamp="1496637868205">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="20" column="1" />
-        <mark key="." line="20" column="1" />
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="64" />
+        <mark key="^" line="12" column="64" />
+        <mark key="." line="12" column="64" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1496629602236">
         <mark key="'" line="63" column="56" />
@@ -95,6 +95,10 @@
         <mark key="]" line="11" column="78" />
         <mark key="." line="11" column="78" />
         <mark key="^" line="11" column="78" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/doda/PartnerDodaSetupDataConverter.class.php" timestamp="1496637678719">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="83" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/common/SelectCollection/index.tsx" timestamp="1488873151283">
         <mark key="[" line="34" column="28" />
@@ -130,6 +134,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/setup/PartnerSetupDataMover.class.php" timestamp="1496637852414" />
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1496390442824">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="17" column="11" />
@@ -299,43 +304,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>jobfeed</text>
+        <text>getImportRawZipDataFileName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUbXBEaXJQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmlsZVBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZignbmtmIC1TIC13IC1MdSAtLW92ZXJ3cml0ZSAlcyA+IC9kZXYvbnVsbCAyPiYxJywgJGZpbGVQYXRoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+d29ya0ltYWdlRmlsZU5hbWUgPSAkZmlsZU5hbWVzWyd3b3JrX2ltYWdlJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZigidW56aXAgJXMgLWQgJXMiLCAkZmlsZVBhdGgsICRjc3ZEYXRhRmlsZVBhdGgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SW1hZ2VGaWxlTmFtZSA9ICRmaWxlTmFtZXNbJ2NsaWVudF9pbWFnZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3N2RGF0YUZpbGVQYXRoID0gJHRoaXMtPmltcG9ydEVudmlyb25tZW50LT5nZXRDc3ZEYXRhRmlsZVBhdGgoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW1wb3J0UmF3WmlwRGF0YSA9ICRmaWxlTmFtZXNbJ2ltcG9ydF9yYXdfemlwX2RhdGEnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d29ya0ltYWdlRmlsZU5hbWUgPSAkZmlsZU5hbWVzWyd3b3JrX2ltYWdlJ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmlsZVBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SW1hZ2VGaWxlTmFtZSA9ICRmaWxlTmFtZXNbJ2NsaWVudF9pbWFnZSddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhvZ2VobyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW1wb3J0UmF3WmlwRGF0YSA9ICRmaWxlTmFtZXNbJ2ltcG9ydF9yYXdfemlwX2RhdGEnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZmlsZVBhdGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">dmFyX2R1bXAoImhvZ2VobyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGVycm9yX3dvcms6IGVycm9yX3dvcmsudHh0Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3ZmMzM2NkODg5ODczZDkyNTk0NTZjNGY2MTkyZjUyYzBiZDk1MTBjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
