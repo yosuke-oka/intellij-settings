@@ -61,7 +61,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/data/partner/config/import.yml" timestamp="1496397897839">
+      <file name="$USER_HOME$/work/jobtalk.jp/data/partner/config/import.yml" timestamp="1496626912420">
         <mark key="'" line="211" column="37" />
         <mark key="[" line="216" column="18" />
         <mark key="]" line="216" column="24" />
@@ -75,12 +75,12 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1496397951494">
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1496626938771">
         <mark key="'" line="63" column="56" />
         <mark key="[" line="65" column="46" />
-        <mark key="]" line="65" column="52" />
-        <mark key="." line="65" column="52" />
-        <mark key="^" line="65" column="52" />
+        <mark key="]" line="65" column="49" />
+        <mark key="." line="65" column="49" />
+        <mark key="^" line="65" column="49" />
         <mark key="n" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/components/answers/questionees/QuestioneeInputs.tsx" timestamp="1488963183524">
@@ -299,7 +299,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>wtype</text>
+        <text>jobfeed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUbXBEaXJQYXRoXD4=</text>
