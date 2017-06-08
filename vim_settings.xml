@@ -87,6 +87,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerClientIndustryLoadDataConverter.class.php" timestamp="1496888932476" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1484118644844">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1324,6 +1325,12 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentClientIndustryLoadDataConverter.class.php" timestamp="1496889500094">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/edit/apps/ProfileApp.js" timestamp="1481612011023">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="36" />
@@ -1772,7 +1779,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/bootstrap/datastoreUnit.php" timestamp="1496801529275" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/profile/Edit/AddressPref.js" timestamp="1488855309161">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="27" />
@@ -2061,7 +2067,7 @@
         <mark key="^" line="71" column="86" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataBuildFactory.class.php" timestamp="1496822522990">
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataBuildFactory.class.php" timestamp="1496888819897">
         <mark key="[" line="52" column="16" />
         <mark key="]" line="52" column="15" />
         <mark key="^" line="52" column="15" />
