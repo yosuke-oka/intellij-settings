@@ -1338,6 +1338,13 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_job.yml" timestamp="1496905549009">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/factories/job_categories.rb" timestamp="1477639848231">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="12" />
@@ -2168,8 +2175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
-      <jump line="151" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="80" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" />
       <jump line="7" column="3" filename="$USER_HOME$/work/odyssey.jobtalk.jp/docker-compose-test.yml" />
       <jump line="14" column="13" filename="$USER_HOME$/work/odyssey.jobtalk.jp/docker-compose-test.yml" />
@@ -2268,6 +2273,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_industry.yml" />
       <jump line="143" column="0" filename="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_industry.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_industry.yml" />
+      <jump line="537" column="0" filename="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_job.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/jobtalk.jp/data/partner/recruitAgent/map_job.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
