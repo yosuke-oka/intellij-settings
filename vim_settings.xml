@@ -182,11 +182,12 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/trait/PartnerRecruitAgentTestHelper.php" timestamp="1496824027719">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="28" column="1" />
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/trait/PartnerRecruitAgentTestHelper.php" timestamp="1496896958246">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/company.tsx" timestamp="1486099771356">
         <mark key="[" line="9" column="19" />
@@ -288,14 +289,6 @@
         <mark key="]" line="12" column="46" />
         <mark key="^" line="12" column="46" />
         <mark key="." line="12" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1496802269412">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="65" column="46" />
-        <mark key="]" line="65" column="49" />
-        <mark key="." line="65" column="49" />
-        <mark key="^" line="65" column="49" />
-        <mark key="n" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/doda/PartnerDodaSetupDataConverterTest.php" timestamp="1496640409382">
         <mark key="'" line="0" column="0" />
@@ -401,6 +394,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1496129424956">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="247" column="31" />
+        <mark key="]" line="247" column="34" />
+        <mark key="^" line="247" column="34" />
+        <mark key="." line="247" column="34" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/.rubocop.yml" timestamp="1464683498091">
         <mark key="[" line="8" column="16" />
@@ -914,7 +914,7 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" timestamp="1496640378488">
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" timestamp="1496896923721">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="79" column="16" />
@@ -1054,6 +1054,13 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataBuildFactory.class.php" timestamp="1496816208247">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataConverterTest.php" timestamp="1496896737734">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/spec/services/notifier/member_notifier_service_spec.rb" timestamp="1479290526666">
         <mark key="[" line="7" column="33" />
@@ -1324,6 +1331,13 @@
         <mark key="]" line="27" column="38" />
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496129249862">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="13" />
+        <mark key="." line="56" column="13" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentClientIndustryLoadDataConverter.class.php" timestamp="1496890176504">
         <mark key="[" line="21" column="13" />
@@ -1754,12 +1768,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataBuildFactoryTest.php" timestamp="1496815146243">
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataBuildFactoryTest.php" timestamp="1496896518950">
         <mark key="'" line="19" column="64" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+        <mark key="[" line="20" column="70" />
+        <mark key="]" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+        <mark key="^" line="20" column="71" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/industries_controller_spec.rb" timestamp="1473830484862">
         <mark key="[" line="12" column="48" />
@@ -2241,9 +2255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="15" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/ShowCareerBase.tsx" />
-      <jump line="10" column="2" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/show/index.tsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/career/career.stories.js" />
       <jump line="15" column="53" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" />
       <jump line="10" column="31" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/actions/CareerActions.ts" />
       <jump line="0" column="14" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/reducers/control/career.ts" />
@@ -2319,7 +2330,6 @@
       <jump line="59" column="62" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" />
       <jump line="63" column="56" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" />
       <jump line="27" column="52" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" />
       <jump line="6" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataConverterTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataConverterTest.php" />
       <jump line="12" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/doda/PartnerDodaSetupDataConverterTest.php" />
@@ -2341,6 +2351,10 @@
       <jump line="107" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/womanType/PartnerWomanTypeClientLoadDataBuildFactory.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/womanType/PartnerWomanTypeClientLoadDataBuildFactory.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentClinetLoadDataBuildFactory.class.php" />
+      <jump line="11" column="22" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverterTest.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataConverterTest.php" />
+      <jump line="2" column="23" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/trait/PartnerRecruitAgentTestHelper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2350,13 +2364,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>clieetIndustry</text>
+        <text>PartnerPasonacareerTestHelper</text>
       </register>
       <register name="/" type="4">
-        <text>code</text>
+        <text>Pasonacareer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRSRUFEX0RFTElNSVRFUiA9ICIsIjsKCiAgICBwcml2YXRlIHN0YXRpYyAkUkVBRF9FTkNMT1NVUkUgPSAnIic7CgogICAgcHJpdmF0ZSBzdGF0aWMgJEhBU19IRUFERVIgPSB0cnVlOwoKICAgIHByaXZhdGUgc3RhdGljICRSRUFEX0VTQ0FQRSA9ICciJzsK</text>
+        <text encoding="base64">PD9waHAKCnJlcXVpcmVfb25jZSBkaXJuYW1lKF9fRklMRV9fKS4nLy4uLy4uLy4uLy4uL2Jvb3RzdHJhcC9Qcm9wZWwucGhwJzsKcmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pLicvdHJhaXQvUGFydG5lclBhc29uYWNhcmVlclRlc3RIZWxwZXIucGhwJyk7CgojIHBocCBzeW1mb255IHRlc3Q6dW5pdCBQYXJ0bmVyUGFzb25hY2FyZWVyQ2xpZW50TG9hZERhdGFDb252ZXJ0ZXIKCmNsYXNzIFBhcnRuZXJQYXNvbmFjYXJlZXJDbGllbnRMb2FkRGF0YUNvbnZlcnRlclRlc3QgZXh0ZW5kcyBCYXNlVW5pdFRlc3QKewogICAgdXNlIFBhcnRuZXJQYXNvbmFjYXJlZXJUZXN0SGVscGVyOwogICAgcHJpdmF0ZSAkbWVkaWFDb2RlOwogICAgcHJpdmF0ZSAkY29udmVydGVyOwoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpCiAgICB7CiAgICAgICAgbG9hZERhdGEoc2ZDb25maWc6OmdldCgic2ZfdGVzdF9kaXIiKS4iL2ZpeHR1cmVzL3BhdHRlcm5fMDAxX2Jhc2ljLnltbCIpOwogICAgICAgICR0aGlzLT5tZWRpYUNvZGUgPSAncGMnOwogICAgICAgICR0aGlzLT5jb252ZXJ0ZXIgPSBuZXcgUGFydG5lclBhc29uYWNhcmVlckNsaWVudExvYWREYXRhQ29udmVydGVyKCR0aGlzLT5tZWRpYUNvZGUpOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiB0ZWFyRG93bigpIHt9CgogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RSZXBsYWNlQ29udmVydCgpCiAgICB7CiAgICAgICAgJGNsaWVudENkID0gJzg4OTk5OSc7CiAgICAgICAgJHBhcnRuZXJNZWRpYSA9IFBhcnRuZXJNZWRpYVBlZXI6OnJldHJpZXZlQnlDb2RlKCR0aGlzLT5tZWRpYUNvZGUpOwogICAgICAgICRwYXJ0bmVyQ2xpZW50ID0gUGFydG5lckNsaWVudFBlZXI6OnJldHJpZXZlQnlVbmlxdWVLeSgkcGFydG5lck1lZGlhLT5nZXRJZCgpLCAkY2xpZW50Q2QpOwogICAgICAgICRkYXRhID0gJHRoaXMtPmdldERhdGEoYXJyYXkoNDEgPT4gJGNsaWVudENkLCA0NiA9PiAn5LiA6Iis6LKh5Zuj5rOV5Lq644CA44Kr44Kx44Oz44OG44K544OI44K744Oz44K/44O8JykpOwoKICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNvbnZlcnRlci0+Y29udmVydCgkZGF0YSk7CgogICAgICAgICR0aGlzLT50LT5pc2Ffb2soJHJlc3VsdCwgJ1BhcnRuZXJDbGllbnQnKTsKICAgICAgICAkdGhpcy0+dC0+aXMoJHBhcnRuZXJDbGllbnQtPmdldElkKCksICRyZXN1bHQtPmdldElkKCksICdpZCBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcygkcGFydG5lckNsaWVudC0+Z2V0TmFtZSgpLCAkcmVzdWx0LT5nZXROYW1lKCksICdOYW1lIGNoZWNrJyk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RWYWxpZGF0ZUNvbnZlcnQoKQogICAgewogICAgICAgICRkYXRhID0gJHRoaXMtPmdldERhdGEoYXJyYXkoNDEgPT4gbnVsbCkpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmNvbnZlcnRlci0+Y29udmVydCgkZGF0YSk7CiAgICAgICAgICAgICR0aGlzLT50LT5mYWlsKCdycXVpcmUgY2hlY2sgTkcnKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgJHRoaXMtPnQtPnBhc3MoJ3JxdWlyZSBjaGVjayBPSycpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdE5ld0NvbnZlcnQoKQogICAgewogICAgICAgICRwYXJ0bmVyTWVkaWEgPSBQYXJ0bmVyTWVkaWFQZWVyOjpyZXRyaWV2ZUJ5Q29kZSgkdGhpcy0+bWVkaWFDb2RlKTsKICAgICAgICAvLyDjgqvjg6njg6Djgajjg4fjg7zjgr/jga7jg57jg4Pjg5Tjg7PjgrDjga9QYXJ0bmVyUGFzb25hY2FyZWVyQ2xpZW50TG9hZERhdGFDb252ZXJ0ZXLjgpLlj4LnhacKICAgICAgICAkZGF0YSA9ICR0aGlzLT5nZXREYXRhKCk7CiAgICAgICAgJHBrID0gQXBwS2V5UGVlcjo6cmV0cmlldmVCeUtleSgncGFydG5lcl9jbGllbnRfaWQnKTsKICAgICAgICAkcGsgPSBpc19udWxsKCRwaykgPyAxIDogJHBrLT5nZXRWYWx1ZSgpOwogICAgICAgICRyZXN1bHQgPSAkdGhpcy0+Y29udmVydGVyLT5jb252ZXJ0KCRkYXRhKTsKICAgICAgICAkdGhpcy0+dC0+aXMoJHBrLCAkcmVzdWx0LT5nZXRJZCgpLCAnSWQgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMoJHBhcnRuZXJNZWRpYS0+Z2V0SWQoKSwgJHJlc3VsdC0+Z2V0UGFydG5lck1lZGlhSWQoKSwgJ1BhcnRuZXJNZWRpYUlkIGNoZWNrJyk7CiAgICAgICAgJHRoaXMtPnQtPmlzKCI4MDIwNTUyMSIsICRyZXN1bHQtPmdldElkZW50aWZpY2F0aW9uQ29kZSgpLCAnSWRlbnRpZmljYXRpb25Db2RlIGNlaGNrJyk7CiAgICAgICAgJHRoaXMtPnQtPmlzKCLmoKrlvI/kvJrnpL7jg4vjg4jjg6oiLCAkcmVzdWx0LT5nZXROYW1lKCksICdOYW1lIGNoZWNrJyk7CiAgICAgICAgJHRoaXMtPnQtPmlzKCLjg4vjg4jjg6oiLCAkcmVzdWx0LT5nZXROYW1lUnVieSgpLCAnTmFtZVJ1YnkgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMobnVsbCwgJHJlc3VsdC0+Z2V0U2VjdXJpdGllc0NvZGUoKSwgJ1NlY3VyaXRpZXNDb2QgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMoIjE5NzIvMDMiLCAkcmVzdWx0LT5nZXRGb3VuZGF0aW9uRGF0ZSgpLCAnRm91bmRhdGlvbkRhdGUgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMoIuS8vOmzpeaYrembhCIsICRyZXN1bHQtPmdldFJlcHJlc2VudE5hbWUoKSwgJ1JlcHJlc2VudE5hbWUgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMoIjEwMDAg55m+5LiH5YaGIiwgJHJlc3VsdC0+Z2V0Q2FwaXRhbCgpLCAnQ2FwaXRhbCBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcygiMjc2OSDkuroiLCAkcmVzdWx0LT5nZXRFbXBsb3llZSgpLCAnRW1wbG95ZWUgY2hlY2snKTsKICAgICAgICAkdGhpcy0+dC0+aXMobnVsbCwgJHJlc3VsdC0+Z2V0QXZlcmFnZUFnZSgpLCAnQXZlcmFnZUFnZSBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcygiNDE3Mjg1IOeZvuS4h+WGhiIsICRyZXN1bHQtPmdldFNhbGVzKCksICdTYWxlcyBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcyhudWxsLCAkcmVzdWx0LT5nZXRQcm9maXQoKSwgJ1Byb2ZpdCBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcyhudWxsLCAkcmVzdWx0LT5nZXRHcm91cENvbXBhbnkoKSwgJ0dyb3VwQ29tcGFueSBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcyhudWxsLCAkcmVzdWx0LT5nZXRNYWluQ3VzdG9tZXIoKSwgJ01haW5DdXN0b21lciBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcyhudWxsLCAkcmVzdWx0LT5nZXRNYXJrZXQoKSwgJ01hcmtldCBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcygiaHR0cDovL3d3dy5uaXRvcmkuY28uanAiLCAkcmVzdWx0LT5nZXRVcmwoKSwgJ1VybCBjaGVjaycpOwogICAgICAgICR0aGlzLT50LT5pcygiPOaXpeacrOWIneOBruOAjOS9j+eUn+a0u+aPkOahiOS8gealreOAjT48YnIgLz7ilqDlrrblhbfjg7vjgqTjg7Pjg4bjg6rjgqLnlKjlk4Hjga7kvIHnlLvosqnlo7I8YnIgLz7ilqDkuIDoiKzkvY/lroXjga7jgqTjg7Pjg4bjg6rjgqLjgrPjg7zjg4fjgqPjg43jg7zjg4jmpa3li5njgIHosqnlo7I8YnIgLz7ilqDmj5DmkLrkvY/lroXjg6Hjg7zjgqvjg7zlpZHntITogIXjga7jgqTjg7Pjg4bjg6rjgqLjgrPjg7zjg4fjgqPjg43jg7zjg4jmpa3li5njgIHosqnlo7I8YnIgLz7ilqDjg6Ljg4fjg6vjg4/jgqbjgrnjga7jgqTjg7Pjg4bjg6rjgqLjgrPjg7zjg4fjgqPjg43jg7zjg4jmj5DmoYjjgIHntI3lk4E8YnIgLz7ilqDjg57jg7Pjgrfjg6fjg7Pjg6Ljg4fjg6vjg6vjg7zjg6Djga7jgqTjg7Pjg4bjg6rjgqLjgrPjg7zjg4fjgqPjg43jg7zjg4jmj5DmoYjjgIHntI3lk4Eg44Gq44GpIiwgJHJlc3VsdC0+Z2V0QnVzaW5lc3MoKSwgJ0J1c2luZXNzIGNoZWNrJyk7CiAgICAgICAgJHRoaXMtPnQtPmlzKCLljJfmtbfpgZMg5pyt5bmM5biC5YyX5Yy65paw55C05Ly85LiD5p2h5LiA5LiB55uuMueVqjM55Y+3IiwgJHJlc3VsdC0+Z2V0T2ZmaWNlKCksICdPZmZpY2UgY2hlY2snKTsKICAgIH0KfQoKJHRlc3QgPSBuZXcgUGFydG5lclBhc29uYWNhcmVlckNsaWVudExvYWREYXRhQ29udmVydGVyVGVzdChuZXcgbGltZV90ZXN0KCkpOwokdGVzdC0+ZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2393,18 +2407,16 @@
       </register>
     </registers>
     <search>
-      <last-search>code</last-search>
+      <last-search>Pasonacareer</last-search>
       <last-offset />
-      <last-pattern>code</last-pattern>
+      <last-pattern>Pasonacareer</last-pattern>
       <last-replace>RecruitAgent</last-replace>
-      <last-substitute>WomanType</last-substitute>
+      <last-substitute>Pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pasonacareer</entry>
-        <entry>test</entry>
         <entry>dir</entry>
         <entry>image</entry>
         <entry>import</entry>
@@ -2423,6 +2435,8 @@
         <entry>womanType</entry>
         <entry>WomanType</entry>
         <entry>code</entry>
+        <entry>pasonacareer</entry>
+        <entry>Pasonacareer</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -2433,8 +2447,6 @@
         <entry>%s/womanType/recruitAgent</entry>
         <entry>s/womanType/recruitAgent</entry>
         <entry>s/womanType/recruitAgent/g</entry>
-        <entry>%s/Pasonacareer/RecruitAgent/g</entry>
-        <entry>%s/pasonacareer/recruitAgent/g</entry>
         <entry>e</entry>
         <entry>%s/Doda/RecruitAgent/gc</entry>
         <entry>%s/doda/recruitAgent</entry>
@@ -2443,7 +2455,9 @@
         <entry>%s/womanType/recruitAgent/gc</entry>
         <entry>%s/womanType/recruitAgent/g</entry>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
+        <entry>%s/pasonacareer/recruitAgent/g</entry>
         <entry>noh</entry>
+        <entry>%s/Pasonacareer/RecruitAgent/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
