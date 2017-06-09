@@ -493,7 +493,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -503,7 +503,7 @@
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -544,11 +544,11 @@
         <entry>%s/WomanType/RecruitAgent/gc</entry>
         <entry>%s/Pasonacareer/RecruitAgent/g</entry>
         <entry>%s/pasonacareer/recruitAgent/g</entry>
-        <entry>noh</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
