@@ -464,7 +464,7 @@
         <text encoding="base64">Y2xhc3MgU2FsYXJ5TG9hZERhdGFDb252ZXJ0RXhjZXB0aW9uIGV4dGVuZHMgRXhjZXB0aW9uIHsgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -474,7 +474,7 @@
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -518,8 +518,8 @@
         <entry>e</entry>
         <entry>%s/Pasonacareer/RecruitAgent/g</entry>
         <entry>%s/pasonacareer/recruitAgent/g</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
