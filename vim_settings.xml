@@ -676,7 +676,6 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/work/project/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1498116035934" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/constants/StoreTypes/data/member/careers.ts" timestamp="1486970513827">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="21" />
@@ -1661,6 +1660,7 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/work/project/jobtalk.jp/lib/task/waitSlaveReflectionTask.class.php" timestamp="1498119552617" />
       <file name="$USER_HOME$/work/member-worker.jobtalk.jp/app/serializers/member_serializer.rb" timestamp="1478593647753">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="9" column="33" />
