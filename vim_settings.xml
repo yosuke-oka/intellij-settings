@@ -376,6 +376,7 @@
         <mark key="^" line="26" column="92" />
         <mark key="." line="26" column="92" />
       </file>
+      <file name="$USER_HOME$/work/project/jobtalk.jp/lib/partner/build/PartnerClientLoadDataBuilder.class.php" timestamp="1498121036197" />
       <file name="$USER_HOME$/work/electron-jobtalk/src/menuTray.ts" timestamp="1482818130644">
         <mark key="[" line="3" column="100" />
         <mark key="]" line="3" column="100" />
@@ -1636,6 +1637,7 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="57" />
       </file>
+      <file name="$USER_HOME$/work/project/jobtalk.jp/lib/task/partner/partnerUpdatePostEndDateTask.class.php" timestamp="1498120601950" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/industries_spec.rb" timestamp="1474956779372">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="56" />
@@ -2167,6 +2169,7 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/work/project/jobtalk.jp/lib/task/partner/partnerClientCreateLoadDataTask.class.php" timestamp="1498120755761" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/concerns/token_validator.rb" timestamp="1464762598654">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="6" />
@@ -2428,7 +2431,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGltaXRzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -2473,9 +2476,7 @@
         <entry>%s/womanType/recruitAgent/gc</entry>
         <entry>%s/womanType/recruitAgent/g</entry>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
-        <entry>sp</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>pasona</entry>
         <entry>'w</entry>
         <entry>w'</entry>
@@ -2484,6 +2485,8 @@
         <entry>%s/pasonacareer/recruitAgent/g</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
