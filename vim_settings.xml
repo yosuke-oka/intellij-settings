@@ -170,10 +170,11 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" timestamp="1498203717560">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/difference/PartnerDifferenceRemoveReflection.class.php" timestamp="1498461680163">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/difference/PartnerDifferenceRemoveReflection.class.php" timestamp="1498463481783">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="39" column="33" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/build/PartnerWorkLoadDataBuilder.class.php" timestamp="1498203060944">
         <mark key="[" line="106" column="0" />
