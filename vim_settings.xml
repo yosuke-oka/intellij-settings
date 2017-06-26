@@ -24,8 +24,8 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="11" column="78" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1498193725070">
-        <mark key="'" line="356" column="1" />
+      <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1498450609216">
+        <mark key="'" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerImportEnvironment.class.php" timestamp="1497949880651">
         <mark key="'" line="0" column="0" />
@@ -245,6 +245,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAndAddressAggregator.class.php" timestamp="1498450715430" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1497949882815">
         <mark key="'" line="91" column="37" />
         <mark key="[" line="77" column="0" />
@@ -256,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="90" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="83" column="37" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="84" column="10" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="85" column="19" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
@@ -356,6 +356,7 @@
       <jump line="59" column="150" filename="$USER_HOME$/work/jobtalk.jp/cron/schedule.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/config/app-server.yml" />
       <jump line="976" column="20" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
+      <jump line="5" column="14" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +369,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text>aggre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcGFydG5lcldvcmstPnNldFVwZGF0ZWRBdChuZXcgRGF0ZVRpbWUoKSk7Cg==</text>
@@ -404,13 +405,13 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2xpZW50SW1hZ2VGaXNlTmFtZSA9ICRlbnZpcm9ubWVudC0+Z2V0Q2xpZW50SW1hZ2VGaWxlTmFtZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>publish</last-search>
+      <last-search>aggre</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern>aggre</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>=</entry>
         <entry>-</entry>
         <entry>answersPost</entry>
         <entry>ra</entry>
@@ -438,6 +438,7 @@
         <entry>import</entry>
         <entry>aws</entry>
         <entry>publish</entry>
+        <entry>aggre</entry>
       </history-search>
       <history-cmd>
         <entry>%s/womanType/recruitAgent</entry>
@@ -458,8 +459,8 @@
         <entry>e</entry>
         <entry>%s/Pasonacareer/RecruitAgent/g</entry>
         <entry>%s/pasonacareer/recruitAgent/g</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
