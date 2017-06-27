@@ -167,8 +167,11 @@
         <mark key="." line="382" column="18" />
         <mark key="^" line="382" column="18" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" timestamp="1498203717560">
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" timestamp="1498532319560">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/difference/PartnerDifferenceRemoveReflection.class.php" timestamp="1498463481783">
         <mark key="[" line="39" column="33" />
@@ -268,8 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="57" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="151" column="35" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="152" column="35" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="153" column="43" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="154" column="35" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
@@ -368,6 +369,8 @@
       <jump line="55" column="36" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
       <jump line="57" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
       <jump line="96" column="31" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
+      <jump line="47" column="26" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,57 +383,56 @@
         <text encoding="base64">JHRoaXMtPmV4ZWN1dGVTdGF0ZW1lbnQ=</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmV4ZWN1dGVTdGF0ZW1lbnQoJ0RFTEVURSBGUk9NICcgLiAkbWFwLT5nZXRUYWJsZU5hbWUoKSAuICcgV0hFUkUgJyAuICRtYXAtPmdldFdoZXJlQ2xhdXNlKCRkYXRhKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkcGFydG5lcldvcmstPnNldFB1Ymxpc2hTdGF0dXMoUGFydG5lcldvcmtQdWJsaXNoU3RhdHVzQ29sdW1uOjpTVEFUVVNfQUNUSVZFKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy0+ZXhlY3V0ZVN0YXRlbWVudCgnREVMRVRFIEZST00gJyAuICRtYXAtPmdldFRhYmxlTmFtZSgpIC4gJyBXSEVSRSAnIC4gJG1hcC0+Z2V0V2hlcmVDbGF1c2UoJGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDlv4XopoHvvJ8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUGVlcjo6ZG9VcGRhdGUoJHNlbGVjdENyaXRlcmlhLCAkdXBkYXRlVmFsdWVzLCAkY29uKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2VsZWN0Q3JpdGVyaWEtPnRvU3RyaW5nKCksICR1cGRhdGVWYWx1ZXMtPnRvU3RyaW5nKCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFydG5lcldvcmtJZHMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFydG5lcldvcmtJZHMpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IjIwMTYwMjI1LTEzMy0wMS0wMTAiLCIxMTAwMDAwMDAwIiwiU0UiLCLvv73vv73vv73vv73vv73Mi++/vXPvv71F77+977+977+924FF77+9Su+/vVvvv71o77+977+90ILJgu+/ve+/ve+/ve+/ve+/vcSXcO+/vUAv77+9xpbvv73vv71W77+9WO+/vWXvv73vv73vv73Mikrvv73vv73vv73vv70K77+977+977+977+977+977+977+9Q++/ve+/ve+/ve+/ve+/vdyC77+977+9Qu+/vcSM77+977+9zYvvv73vv71a77+9bu+/ve+/ve+/ve+/ve+/ve+/ve+/vVPvv73Mgu+/vTjvv73vv73vv73vv73vv71477+977+977+934LEgu+/ve+/vdyC77+977+9Qgrvv71lUGp077+9yYLvv73vv73vv73vv73Egs2Xdu+/ve+/ve+/ve+/vWDvv71g77+9Xu+/vXAv77+9247nk5nvv73vv73vv73vv73vv73vv71077+9Ru+/vVvvv71Z77+9zIjEjO+/vSIsIu+/ve+/ve+/ve+/ve+/ve+/vdyC77+977+9zILFgUHvv73vv73vv73vv73vv73Qgu+/ve+/ve+/ve+/ve+/ve+/vcmJ77+977+977+977+9xIN877+9V++/vVbvv73vv73vv73vv73vv73vv73vv73vv73vv71w77+904Lvv73vv73cgu+/ve+/vUJQagp077+977+977+91ILNimXvv71Y77+9xYLvv73vv73vv73vv71BMTDvv71O77+9yI/jk6/vv73vv71QanTvv73WjlHvv73mgrXvv73Egu+/ve+/ve+/vdKC77+977+977+977+977+93ILvv73vv71C77+977+977+977+9Cu+/vdCCxYLNjtCI77+977+9zINY77+9TO+/ve+/ve+/vUHvv71i77+9du+/vcmXzYLvv73vv73vv73vv73Egu+/ve+/ve+/vUHvv71177+9Tu+/vcmC77+977+977+977+977+977+9yILvv73vv71Y77+9TO+/ve+/ve+/vXYK77+977+9Z++/vcmCwoLvv73vv73vv73vv73vv73mgqTvv71F77+977+9T0pU77+977+9xpbvv73vv71J77+977+977+977+9yZXXi++/ve+/ve+/ve+/ve+/vUrvv73vv73vv73vv73vv71a77+9xpbvv73vv71t77+977+9Cu+/ve+/ve+/ve+/ve+/vdqOd++/ve+/ve+/vcSC77+977+93ILvv73vv71C77+977+977+977+9zYnvv73QkVPvv73MgsWNWO+/vcmQ77+95ZCr77+977+977+977+977+92o5377+977+977+914LMiu+/vQrvv73vv73vv73vv73vv73vv73vv71z77+977+977+9xILvv73vv73vv73vv71c77+977+9xYLvv73vv71CIiwi77+9ee+/vUvvv71777+9eu+/vUnvv71b77+9du+/ve+/ve+/ve+/ve+/ve+/vcmC77+977+977+977+977+9Su+/ve+/ve+/vW/vv73vv70K77+9ee+/ve+/ve+/vX3vv71677+977+977+9Wu+/ve+/ve+/ve+/vcyLxpbvv73vv71t77+977+9Cijvv73vv71z77+9bu+/vcWCzYFB77+977+977+9yYrvv73vv73vv73WmEHvv71B77+924zvv73vv71u77+9xYLNkFbvv71f77+977+9Qe+/vduRU++/vdaYQSkiLCItLS0tLS0tLS0t77+9yInvv73vv73MguaCpO+/vciC77+977+9de+/ve+/ve+/vcyV77+977+9yZTvv73vv73Jg33vv71i77+9YO+/ve+/ve+/vcSC77+977+93ILvv70tLS0tLS0tLS0tCu+/ve+/ve+/ve+/vUvvv73NiMSM77+977+9yYxn77+977+977+9yILvv73vv73vv71Y77+9TO+/ve+/ve+/vUHvv71i77+9du+/ve+/ve+/ve+/ve+/vcSC77+977+977+977+977+977+977+9Cu+/ve+/ve+/vU7vv73Jgu+/ve+/ve+/ve+/ve+/ve+/vciC77+977+9be+/ve+/vS/vv71a77+9cO+/ve+/vWfvv73JgsKC77+977+977+977+977+977+9aU9KVO+/veKMpO+/vUPvv73Fg1Tvv71877+9W++/vWfvv71qCu+/ve+/ve+/vdCI77+977+977+977+9c++/vWnvv73vv73Qle+/ve+/vVPvv71q77+977+9Tu+/ve+/ve+/vXXvv73vv73vv73vv73vv73IgseO0JPvv73vv73vv73vv71K77+977+95Y6W77+9yYLvv73vv73vv73vv73vv70K77+977+977+977+977+96IK177+977+977+9wovvv73vv73MjO+/ve+/vcWT77+977+977+977+977+977+977+977+977+977+977+977+9ae+/vWPvv73Gj++/ve+/vciC77+977+9Re+/ve+/ve+/vdiL77+977+9b++/vWPvv71qCu+/ve+/ve+/ve+/ve+/ve+/ve+/vcyK77+977+977+977+977+977+9xoLvv73vv73Eie+/vdCCzI3vv73vv73vv73vv73JitaC77+977+977+9xILvv73vv73vv73vv73vv73vv73vv70iLCJDMDYiLCLvv73vv73vv73vv70iLCI0MDDvv71gIDU1MCIsIjExOCIsIjA5OjAw77+9YCAxNzozMCIsIijvv73vv70p77+9XO+/vXTvv71n77+9Re+/vUbvv71B77+9VO+/vVvvv71y77+9WCIsIjExMDYiLCJTSWVyKO+/vcaX77+977+9bikiLCIyMDgiLCIoMSnvv71B77+9du+/ve+/ve+/vVDvv71b77+9Vu+/ve+/ve+/ve+/ve+/vVzvv71077+9Z++/vcyQ3Yx277+9Re+/vUrvv73vv73vv71F77+977+977+977+977+9eO+/ve+/ve+/vUXvv73bju+/vSgyKVdlYu+/vdaYQe+/vVzvv71077+9Z++/vcyKSu+/ve+/vQooMynvv71O77+977+977+9Q++/vUHvv73vv73vv71nL++/vVTvv71b77+9b++/vVvvv71W77+9WO+/vWXvv73vv73vv73Mikrvv73vv70oNCnvv71s77+9Yu+/vWfvv73vv73vv71b77+9Tu+/vVTvv71b77+9b++/vd2Mdizvv71c77+9eizvv71e77+9cO+/vcSO77+9LO+/vduO77+9LO+/vXfvv73vv73vv71277+9Zu+/vVjvv71O77+9ee+/vcaO77+9eu+/ve+/ve+/vVoo77+977+9cy/vv71N77+977+9L++/ve+/ve+/ve+/ve+/ve+/vS/vv71O77+977+977+9V++/vWLvv71nLO+/ve+/vSks77+977+977+977+9LO+/ve+/ve+/ve+/ve+/ve+/vSzvv73vv73vv73vv70iLCIiLCLvv71d77+9xojvv73vv73vv70xMDDvv71gOTk577+9bCIsIiIsIiIsIiIsIu+/ve+/ve+/ve+/ve+/vXPvv73vv73vv71j77+95pW977+9zZLvv73vv71R77+9fO+/vVDvv71V77+9fO+/vVDvv73vv73vv73Nku+/ve+/vVjvv71e77+977+977+9WyIsIjIwMTcvMDIvMjAiCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ0RFTEVURSBGUk9NICcgLiAkbWFwLT5nZXRUYWJsZU5hbWUoKSAuICcgV0hFUkUgJyAuICRtYXAtPmdldFdoZXJlQ2xhdXNlKCRkYXRhKSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy0+ZXhlY3V0ZVN0YXRlbWVudCgnREVMRVRFIEZST00gJyAuICRtYXAtPmdldFRhYmxlTmFtZSgpIC4gJyBXSEVSRSAnIC4gJG1hcC0+Z2V0V2hlcmVDbGF1c2UoJGRhdGEpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCYXNlUGVlcjo6ZG9VcGRhdGUoJHNlbGVjdENyaXRlcmlhLCAkdXBkYXRlVmFsdWVzLCAkY29uKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2VsZWN0Q3JpdGVyaWEtPnRvU3RyaW5nKCksICR1cGRhdGVWYWx1ZXMtPnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFydG5lcldvcmtJZHMpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFydG5lcldvcmtJZHMpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IjIwMTYwMjI1LTEzMy0wMS0wMTAiLCIxMTAwMDAwMDAwIiwiU0UiLCLvv73vv73vv73vv73vv73Mi++/vXPvv71F77+977+977+924FF77+9Su+/vVvvv71o77+977+90ILJgu+/ve+/ve+/ve+/ve+/vcSXcO+/vUAv77+9xpbvv73vv71W77+9WO+/vWXvv73vv73vv73Mikrvv73vv73vv73vv70K77+977+977+977+977+977+977+9Q++/ve+/ve+/ve+/ve+/vdyC77+977+9Qu+/vcSM77+977+9zYvvv73vv71a77+9bu+/ve+/ve+/ve+/ve+/ve+/ve+/vVPvv73Mgu+/vTjvv73vv73vv73vv73vv71477+977+977+934LEgu+/ve+/vdyC77+977+9Qgrvv71lUGp077+9yYLvv73vv73vv73vv73Egs2Xdu+/ve+/ve+/ve+/vWDvv71g77+9Xu+/vXAv77+9247nk5nvv73vv73vv73vv73vv73vv71077+9Ru+/vVvvv71Z77+9zIjEjO+/vSIsIu+/ve+/ve+/ve+/ve+/ve+/vdyC77+977+9zILFgUHvv73vv73vv73vv73vv73Qgu+/ve+/ve+/ve+/ve+/ve+/vcmJ77+977+977+977+9xIN877+9V++/vVbvv73vv73vv73vv73vv73vv73vv73vv73vv71w77+904Lvv73vv73cgu+/ve+/vUJQagp077+977+977+91ILNimXvv71Y77+9xYLvv73vv73vv73vv71BMTDvv71O77+9yI/jk6/vv73vv71QanTvv73WjlHvv73mgrXvv73Egu+/ve+/ve+/vdKC77+977+977+977+977+93ILvv73vv71C77+977+977+977+9Cu+/vdCCxYLNjtCI77+977+9zINY77+9TO+/ve+/ve+/vUHvv71i77+9du+/vcmXzYLvv73vv73vv73vv73Egu+/ve+/ve+/vUHvv71177+9Tu+/vcmC77+977+977+977+977+977+9yILvv73vv71Y77+9TO+/ve+/ve+/vXYK77+977+9Z++/vcmCwoLvv73vv73vv73vv73vv73mgqTvv71F77+977+9T0pU77+977+9xpbvv73vv71J77+977+977+977+9yZXXi++/ve+/ve+/ve+/ve+/vUrvv73vv73vv73vv73vv71a77+9xpbvv73vv71t77+977+9Cu+/ve+/ve+/ve+/ve+/vdqOd++/ve+/ve+/vcSC77+977+93ILvv73vv71C77+977+977+977+9zYnvv73QkVPvv73MgsWNWO+/vcmQ77+95ZCr77+977+977+977+977+92o5377+977+977+914LMiu+/vQrvv73vv73vv73vv73vv73vv73vv71z77+977+977+9xILvv73vv73vv73vv71c77+977+9xYLvv73vv71CIiwi77+9ee+/vUvvv71777+9eu+/vUnvv71b77+9du+/ve+/ve+/ve+/ve+/ve+/vcmC77+977+977+977+977+9Su+/ve+/ve+/vW/vv73vv70K77+9ee+/ve+/ve+/vX3vv71677+977+977+9Wu+/ve+/ve+/ve+/vcyLxpbvv73vv71t77+977+9Cijvv73vv71z77+9bu+/vcWCzYFB77+977+977+9yYrvv73vv73vv73WmEHvv71B77+924zvv73vv71u77+9xYLNkFbvv71f77+977+9Qe+/vduRU++/vdaYQSkiLCItLS0tLS0tLS0t77+9yInvv73vv73MguaCpO+/vciC77+977+9de+/ve+/ve+/vcyV77+977+9yZTvv73vv73Jg33vv71i77+9YO+/ve+/ve+/vcSC77+977+93ILvv70tLS0tLS0tLS0tCu+/ve+/ve+/ve+/vUvvv73NiMSM77+977+9yYxn77+977+977+9yILvv73vv73vv71Y77+9TO+/ve+/ve+/vUHvv71i77+9du+/ve+/ve+/ve+/ve+/vcSC77+977+977+977+977+977+977+9Cu+/ve+/ve+/vU7vv73Jgu+/ve+/ve+/ve+/ve+/ve+/vciC77+977+9be+/ve+/vS/vv71a77+9cO+/ve+/vWfvv73JgsKC77+977+977+977+977+977+9aU9KVO+/veKMpO+/vUPvv73Fg1Tvv71877+9W++/vWfvv71qCu+/ve+/ve+/vdCI77+977+977+977+9c++/vWnvv73vv73Qle+/ve+/vVPvv71q77+977+9Tu+/ve+/ve+/vXXvv73vv73vv73vv73vv73IgseO0JPvv73vv73vv73vv71K77+977+95Y6W77+9yYLvv73vv73vv73vv73vv70K77+977+977+977+977+96IK177+977+977+9wovvv73vv73MjO+/ve+/vcWT77+977+977+977+977+977+977+977+977+977+977+977+9ae+/vWPvv73Gj++/ve+/vciC77+977+9Re+/ve+/ve+/vdiL77+977+9b++/vWPvv71qCu+/ve+/ve+/ve+/ve+/ve+/ve+/vcyK77+977+977+977+977+977+9xoLvv73vv73Eie+/vdCCzI3vv73vv73vv73vv73JitaC77+977+977+9xILvv73vv73vv73vv73vv73vv73vv70iLCJDMDYiLCLvv73vv73vv73vv70iLCI0MDDvv71gIDU1MCIsIjExOCIsIjA5OjAw77+9YCAxNzozMCIsIijvv73vv70p77+9XO+/vXTvv71n77+9Re+/vUbvv71B77+9VO+/vVvvv71y77+9WCIsIjExMDYiLCJTSWVyKO+/vcaX77+977+9bikiLCIyMDgiLCIoMSnvv71B77+9du+/ve+/ve+/vVDvv71b77+9Vu+/ve+/ve+/ve+/ve+/vVzvv71077+9Z++/vcyQ3Yx277+9Re+/vUrvv73vv73vv71F77+977+977+977+977+9eO+/ve+/ve+/vUXvv73bju+/vSgyKVdlYu+/vdaYQe+/vVzvv71077+9Z++/vcyKSu+/ve+/vQooMynvv71O77+977+977+9Q++/vUHvv73vv73vv71nL++/vVTvv71b77+9b++/vVvvv71W77+9WO+/vWXvv73vv73vv73Mikrvv73vv70oNCnvv71s77+9Yu+/vWfvv73vv73vv71b77+9Tu+/vVTvv71b77+9b++/vd2Mdizvv71c77+9eizvv71e77+9cO+/vcSO77+9LO+/vduO77+9LO+/vXfvv73vv73vv71277+9Zu+/vVjvv71O77+9ee+/vcaO77+9eu+/ve+/ve+/vVoo77+977+9cy/vv71N77+977+9L++/ve+/ve+/ve+/ve+/ve+/vS/vv71O77+977+977+9V++/vWLvv71nLO+/ve+/vSks77+977+977+977+9LO+/ve+/ve+/ve+/ve+/ve+/vSzvv73vv73vv73vv70iLCIiLCLvv71d77+9xojvv73vv73vv70xMDDvv71gOTk577+9bCIsIiIsIiIsIiIsIu+/ve+/ve+/ve+/ve+/vXPvv73vv73vv71j77+95pW977+9zZLvv73vv71R77+9fO+/vVDvv71V77+9fO+/vVDvv73vv73vv73Nku+/ve+/vVjvv71e77+977+977+9WyIsIjIwMTcvMDIvMjAiCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ra</entry>
         <entry>recruit</entry>
         <entry>work</entry>
         <entry>salary</entry>
@@ -450,6 +452,7 @@
         <entry>aggre</entry>
         <entry>search</entry>
         <entry>delete</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>s/womanType/recruitAgent/g</entry>
@@ -468,10 +471,10 @@
         <entry>%s/Pasonacareer/RecruitAgent/g</entry>
         <entry>%s/pasonacareer/recruitAgent/g</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
