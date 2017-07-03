@@ -17,7 +17,6 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/partnerS3DownloadTask.class.php" timestamp="1498717322535" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataMover.class.php" timestamp="1496629463748">
         <mark key="'" line="14" column="1" />
         <mark key="[" line="11" column="71" />
@@ -93,11 +92,9 @@
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/aws/s3/S3Util.class.php" timestamp="1498717421816" />
       <file name="$USER_HOME$/work/jobtalk.jp/config/app-server.yml" timestamp="1498193863146">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataMoverTest.php" timestamp="1498542299223" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkJobLoadDataConverterTest.php" timestamp="1498543277446">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="17" column="0" />
@@ -142,6 +139,7 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="46" column="45" />
       </file>
+      <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/job_posting_entries_controller.rb" timestamp="1499049478854" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkEmployLoadDataConverterTest.php" timestamp="1498543006868">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="40" column="73" />
@@ -195,6 +193,9 @@
         <mark key="." line="39" column="33" />
         <mark key="^" line="39" column="33" />
       </file>
+      <file name="/Ruby Console" timestamp="1499049304876">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" timestamp="1498545257887">
         <mark key="'" line="96" column="31" />
         <mark key="[" line="121" column="0" />
@@ -209,7 +210,6 @@
         <mark key="." line="31" column="11" />
         <mark key="^" line="31" column="11" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/namebasedAggregation/companyAndPartnerClientTask.class.php" timestamp="1498191637442" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496129249862">
         <mark key="'" line="85" column="4" />
         <mark key="[" line="56" column="13" />
@@ -243,6 +243,15 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/fragment.rb" timestamp="1499050039354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/members_controller.rb" timestamp="1499049948698">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/fixtures/pattern_001_basic.yml" timestamp="1498543584927">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="170" column="84" />
@@ -264,21 +273,18 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerWorkCreateLoadDataTask.class.php" timestamp="1498202333923" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataConverter.class.php" timestamp="1497948296546">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentEnvironmentTest.php" timestamp="1498542225951" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverterTest.php" timestamp="1498548365655">
         <mark key="[" line="42" column="22" />
         <mark key="]" line="42" column="40" />
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="27" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAndAddressAggregator.class.php" timestamp="1498450715430" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1498542499257">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="48" column="0" />
@@ -408,34 +414,34 @@
         <text encoding="base64">ICAgICAgICAkcGFydG5lckNsaWVudC0+c2V0VXBkYXRlZEF0KG5ldyBEYXRlVGltZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZigiJXM8YnIgLz4lcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhW3NlbGY6OiRDT0xfTlVNX0VNUExPWUVFXSwKICAgICAgICAgICAgICAgICAgICAgICAgJGRhdGFbc2VsZjo6JENPTF9OVU1fRVRDMV0pOwo=</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZigiJXM8YnIgLz4lcyIsCiAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhW3NlbGY6OiRDT0xfTlVNX0VNUExPWUVFXSwKICAgICAgICAgICAgICAgICAgICAgICAgJGRhdGFbc2VsZjo6JENPTF9OVU1fRVRDMV0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL+OAgOOBqOOCiuOBguOBiOOBmuaUueihjOOBp+Wun+ijhQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZigiJXM8YnIgLz4lcyIsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL+OAgOOBqOOCiuOBguOBiOOBmuaUueihjOOBp+Wun+ijhQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3ByaW50ZigiJXM8YnIgLz4lcyIsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbc2VsZjo6JENPTF9OVU1fSE9MSURBWV9ERVRBSUxdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbc2VsZjo6JENPTF9OVU1fSE9MSURBWV9ERVRBSUxdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGhvbGlkYXksCiAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhW3NlbGY6OiRDT0xfTlVNX0hPTElEQVlfREVUQUlMXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGhvbGlkYXksCiAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhW3NlbGY6OiRDT0xfTlVNX0hPTElEQVlfREVUQUlMXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
