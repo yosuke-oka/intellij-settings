@@ -29,7 +29,7 @@
         <mark key="]" line="47" column="53" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1499065631420">
-        <mark key="'" line="308" column="36" />
+        <mark key="'" line="303" column="36" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerImportEnvironment.class.php" timestamp="1497949880651">
         <mark key="'" line="0" column="0" />
@@ -294,6 +294,12 @@
         <mark key="]" line="42" column="40" />
         <mark key="." line="51" column="27" />
         <mark key="^" line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAndAddressAggregator.class.php" timestamp="1499142258484">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" timestamp="1498542499257">
         <mark key="'" line="4" column="13" />
