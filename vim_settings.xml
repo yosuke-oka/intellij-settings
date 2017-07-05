@@ -24,10 +24,6 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="11" column="78" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerClientLoadDataConverter.class.php" timestamp="1498551708179">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="53" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1499065631420">
         <mark key="'" line="303" column="36" />
       </file>
@@ -145,11 +141,10 @@
         <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/job_posting_entries_controller.rb" timestamp="1499049478854" />
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAggregator.class.php" timestamp="1499235273034">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAggregator.class.php" timestamp="1499236948767">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkEmployLoadDataConverterTest.php" timestamp="1498543006868">
         <mark key="'" line="49" column="0" />
@@ -220,11 +215,10 @@
         <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/test/BaseTest.class.php" timestamp="1499233786999" />
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/namebasedAggregation/CompanyPartnerClientNameAggregatorTest.php" timestamp="1499235155000">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="24" />
-        <mark key="." line="55" column="24" />
-        <mark key="^" line="55" column="24" />
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/namebasedAggregation/CompanyPartnerClientNameAggregatorTest.php" timestamp="1499237107724">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/member/route/MemberRegisterRouter.class.php" timestamp="1496129249862">
         <mark key="'" line="85" column="4" />
@@ -268,6 +262,12 @@
         <mark key="]" line="170" column="83" />
         <mark key="." line="170" column="83" />
         <mark key="^" line="170" column="83" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyNameFormat.class.php" timestamp="1499237093976">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/pasonacareer/PartnerPasonacareerWorkLoadDataConverter.class.php" timestamp="1498203713410">
         <mark key="'" line="21" column="30" />
@@ -408,7 +408,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>pasona</text>
@@ -417,34 +417,34 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYnVpbHRQYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZSIsICRwYXJ0bmVyQ2xpZW50LT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgIC8vICjmoKop44Gu44KI44GG44Gq44CB55yB55Wl6KiY5rOV44KS5bGV6ZaL44GX44Gm6L+U44GZCiAgICAvLyDnj77nirYg44Oq44Kv44Or44O844OI44Ko44O844K444Kn44Oz44OI5bCC55So44Gu44KC44Gu44Gr44Gq44KL44CC5Y+W44KK6L6844G/5pmC5Lul5aSW44Gu5Yil44OQ44OD44OB44Gq44Gp44Gr56e744GX44Gf44G744GG44GM44CB6Imv44GE44GL44KC44GX44KM44Gq44GECiAgICBwcml2YXRlIGZ1bmN0aW9uIGV4cGFuZEFiYnJldmlhdGVOb3RhdGlvbigkbmFtZSkKICAgIHsKICAgICAgICAkcGF0dGVybnMgPSBbCiAgICAgICAgICAgICcvWyjvvIhd5qCqWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeaciVsp77yJXS91JywKICAgICAgICAgICAgJy9bKO+8iF3lraZbKe+8iV0vdScsCiAgICAgICAgICAgICcvWyjvvIhd56iOWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeWMu1sp77yJXS91JwogICAgICAgIF07CiAgICAgICAgJHJlcGxhY2VtZW50cyA9IFsKICAgICAgICAgICAgIuagquW8j+S8muekviIsCiAgICAgICAgICAgICLmnInpmZDkvJrnpL4iLAogICAgICAgICAgICAi5a2m5qCh5rOV5Lq6IiwKICAgICAgICAgICAgIueojueQhuWjq+azleS6uiIsCiAgICAgICAgICAgICLljLvnmYLms5XkuroiCiAgICAgICAgXTsKICAgICAgICByZXR1cm4gcHJlZ19yZXBsYWNlKCRwYXR0ZXJucywgJHJlcGxhY2VtZW50cywgJG5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZWwpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChzZWxmOjokdGVzdERhdGFBcnJheSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYXJncyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbmFtZSA9ICR0aGlzLT5leHBhbmRBYmJyZXZpYXRlTm90YXRpb24oJG5hbWUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYnVpbHRQYXJhbXMpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbmFtZSA9IHByZWdfcmVwbGFjZSgnL1so77yIXeagqlsp77yJXS8nLCAi5qCq5byP5Lya56S+IiwgJG5hbWUpOwogICAgICAgICRuYW1lID0gcHJlZ19yZXBsYWNlKCcvWyjvvIhd5pyJWynvvIldLycsICLmnInpmZDkvJrnpL4iLCAkbmFtZSk7CiAgICAgICAgJG5hbWUgPSBwcmVnX3JlcGxhY2UoJy9bKO+8iF3lraZbKe+8iV0vJywgIuWtpuagoeazleS6uiIsICRuYW1lKTsKICAgICAgICAkbmFtZSA9IHByZWdfcmVwbGFjZSgnL1so77yIXeeojlsp77yJXS8nLCAi56iO55CG5aOr5rOV5Lq6IiwgJG5hbWUpOwogICAgICAgICRuYW1lID0gcHJlZ19yZXBsYWNlKCcvWyjvvIhd5Yy7WynvvIldLycsICLljLvnmYLms5XkuroiLCAkbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbW9kZWwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
