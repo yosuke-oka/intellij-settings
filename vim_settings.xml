@@ -51,7 +51,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" timestamp="1499233068990" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" timestamp="1499310759262">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentSetupDataBuildFactory.class.php" timestamp="1496307271291">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="10" column="26" />
@@ -141,11 +146,10 @@
         <mark key="^" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/job_posting_entries_controller.rb" timestamp="1499049478854" />
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAggregator.class.php" timestamp="1499308994214">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAggregator.class.php" timestamp="1499310639732">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkEmployLoadDataConverterTest.php" timestamp="1498543006868">
         <mark key="'" line="49" column="0" />
@@ -269,7 +273,7 @@
         <mark key="." line="170" column="83" />
         <mark key="^" line="170" column="83" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/NameBasedAggregator.class.php" timestamp="1499308585452">
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/NameBasedAggregator.class.php" timestamp="1499310503386">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -307,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="2" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="356" column="1" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/schedule.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/schedule.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/schedule.rb" />
       <jump line="14" column="2" filename="$USER_HOME$/work/jobtalk.jp/cron/schedule.rb" />
@@ -407,6 +408,9 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="7" column="17" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="349" column="5" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
+      <jump line="42" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
+      <jump line="15" column="43" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
+      <jump line="18" column="33" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,49 +423,49 @@
         <text>sprintf('TASK START at %s', date('Y-m-d H:i:s'</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>find</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmV4ZWN1dGVBZ2dyZWdhdG9yKG5ldyBDb21wYW55UGFydG5lckNsaWVudE5hbWVBZ2dyZWdhdG9yKCR0aGlzLT5wYXJ0bmVyQ2xpZW50LCAkdGhpcy0+Y29uKSkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChCYXNlUGVlcjo6Y3JlYXRlU2VsZWN0U3FsKCRjKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+ZmluZCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRwYXJ0bmVyQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgkYy0+dG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChCYXNlUGVlcjo6Y3JlYXRlU2VsZWN0U3FsKCRjKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3V0cHV0TWVzc2FnZSgiaG9nZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRwYXJ0bmVyQ2xpZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRwYXJ0bmVyQ2xpZW50ID0gJHRoaXMtPmNyZWF0ZSgnUGFydG5lckNsaWVudCcsIGFycmF5KCduYW1lJyA9PiAnKOagqinjg6rjg5bjgrvjg7PjgrknKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZSIsICRwYXJ0bmVyQ2xpZW50LT5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3V0cHV0TWVzc2FnZSgiaG9nZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICjmoKop44Gu44KI44GG44Gq44CB55yB55Wl6KiY5rOV44KS5bGV6ZaL44GX44Gm6L+U44GZCiAgICAvLyDnj77nirYg44Oq44Kv44Or44O844OI44Ko44O844K444Kn44Oz44OI5bCC55So44Gu44KC44Gu44Gr44Gq44KL44CC5Y+W44KK6L6844G/5pmC5Lul5aSW44Gu5Yil44OQ44OD44OB44Gq44Gp44Gr56e744GX44Gf44G744GG44GM44CB6Imv44GE44GL44KC44GX44KM44Gq44GECiAgICBwcml2YXRlIGZ1bmN0aW9uIGV4cGFuZEFiYnJldmlhdGVOb3RhdGlvbigkbmFtZSkKICAgIHsKICAgICAgICAkcGF0dGVybnMgPSBbCiAgICAgICAgICAgICcvWyjvvIhd5qCqWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeaciVsp77yJXS91JywKICAgICAgICAgICAgJy9bKO+8iF3lraZbKe+8iV0vdScsCiAgICAgICAgICAgICcvWyjvvIhd56iOWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeWMu1sp77yJXS91JwogICAgICAgIF07CiAgICAgICAgJHJlcGxhY2VtZW50cyA9IFsKICAgICAgICAgICAgIuagquW8j+S8muekviIsCiAgICAgICAgICAgICLmnInpmZDkvJrnpL4iLAogICAgICAgICAgICAi5a2m5qCh5rOV5Lq6IiwKICAgICAgICAgICAgIueojueQhuWjq+azleS6uiIsCiAgICAgICAgICAgICLljLvnmYLms5XkuroiCiAgICAgICAgXTsKICAgICAgICByZXR1cm4gcHJlZ19yZXBsYWNlKCRwYXR0ZXJucywgJHJlcGxhY2VtZW50cywgJG5hbWUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyRwYXJ0bmVyQ2xpZW50ID0gJHRoaXMtPmNyZWF0ZSgnUGFydG5lckNsaWVudCcsIGFycmF5KCduYW1lJyA9PiAnKOagqinjg6rjg5bjgrvjg7PjgrknKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZSIsICRwYXJ0bmVyQ2xpZW50LT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICjmoKop44Gu44KI44GG44Gq44CB55yB55Wl6KiY5rOV44KS5bGV6ZaL44GX44Gm6L+U44GZCiAgICAvLyDnj77nirYg44Oq44Kv44Or44O844OI44Ko44O844K444Kn44Oz44OI5bCC55So44Gu44KC44Gu44Gr44Gq44KL44CC5Y+W44KK6L6844G/5pmC5Lul5aSW44Gu5Yil44OQ44OD44OB44Gq44Gp44Gr56e744GX44Gf44G744GG44GM44CB6Imv44GE44GL44KC44GX44KM44Gq44GECiAgICBwcml2YXRlIGZ1bmN0aW9uIGV4cGFuZEFiYnJldmlhdGVOb3RhdGlvbigkbmFtZSkKICAgIHsKICAgICAgICAkcGF0dGVybnMgPSBbCiAgICAgICAgICAgICcvWyjvvIhd5qCqWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeaciVsp77yJXS91JywKICAgICAgICAgICAgJy9bKO+8iF3lraZbKe+8iV0vdScsCiAgICAgICAgICAgICcvWyjvvIhd56iOWynvvIldL3UnLAogICAgICAgICAgICAnL1so77yIXeWMu1sp77yJXS91JwogICAgICAgIF07CiAgICAgICAgJHJlcGxhY2VtZW50cyA9IFsKICAgICAgICAgICAgIuagquW8j+S8muekviIsCiAgICAgICAgICAgICLmnInpmZDkvJrnpL4iLAogICAgICAgICAgICAi5a2m5qCh5rOV5Lq6IiwKICAgICAgICAgICAgIueojueQhuWjq+azleS6uiIsCiAgICAgICAgICAgICLljLvnmYLms5XkuroiCiAgICAgICAgXTsKICAgICAgICByZXR1cm4gcHJlZ19yZXBsYWNlKCRwYXR0ZXJucywgJHJlcGxhY2VtZW50cywgJG5hbWUpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
@@ -469,7 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>task</entry>
         <entry>image</entry>
         <entry>exit</entry>
         <entry>s3</entry>
@@ -489,6 +492,7 @@
         <entry>debase</entry>
         <entry>pasona</entry>
         <entry>name</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>%s/doda/recruitAgent</entry>
