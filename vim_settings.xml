@@ -95,6 +95,13 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/test/fixtures/pattern_001_basic.yml" timestamp="1499668669843">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="170" column="84" />
+        <mark key="]" line="170" column="83" />
+        <mark key="." line="170" column="83" />
+        <mark key="^" line="170" column="83" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/NameBasedAggregator.class.php" timestamp="1499310503386">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -105,7 +112,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499664560165" />
+      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499668672602" />
     </filemarks>
     <jumps>
       <jump line="311" column="36" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
