@@ -17,16 +17,23 @@
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1499239875417">
         <mark key="'" line="349" column="5" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/test/lib/factory/TestDataFactory.class.php" timestamp="1499234270726">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/partner/actions/actions.class.php" timestamp="1499662312067">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/filter/mySessionManageFilter.class.php" timestamp="1499669376147">
+        <mark key="'" line="119" column="34" />
+        <mark key="[" line="119" column="83" />
+        <mark key="]" line="119" column="15" />
+        <mark key="^" line="119" column="15" />
+        <mark key="." line="119" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/test/lib/factory/TestDataBase.class.php" timestamp="1499234989235">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" timestamp="1499310759262">
         <mark key="'" line="18" column="33" />
@@ -49,11 +56,6 @@
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/partner_works/_partner_apply_btn.html+sp.slim" timestamp="1499661412401" />
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/job_posting_entries_controller.rb" timestamp="1499049478854" />
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAggregator.class.php" timestamp="1499310639732">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentApplicationUrlGenerator.class.php" timestamp="1499662879613">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="24" />
@@ -73,6 +75,7 @@
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/home/templates/_partnerLogoList.php" timestamp="1499669473921" />
       <file name="/Ruby Console" timestamp="1499058170955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,10 +84,10 @@
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/models/company.rb" timestamp="1499662019319">
         <mark key="'" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/namebasedAggregation/CompanyPartnerClientNameAggregatorTest.php" timestamp="1499238157560">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/task/namebasedAggregation/companyAndPartnerClientTask.class.php" timestamp="1499240388420">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1499050039354">
         <mark key="[" line="0" column="0" />
@@ -102,22 +105,19 @@
         <mark key="." line="170" column="83" />
         <mark key="^" line="170" column="83" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/NameBasedAggregator.class.php" timestamp="1499310503386">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/application/PartnerApplicationUrlGeneratorFactory.class.php" timestamp="1499662887424">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499668672602" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientNameAndAddressAggregator.class.php" timestamp="1499144806623">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="36" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="313" column="63" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="314" column="36" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="135" column="42" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
       <jump line="55" column="36" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
       <jump line="57" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
@@ -215,6 +215,9 @@
       <jump line="53" column="32" filename="$USER_HOME$/work/career.jobtalk.jp/app/models/company.rb" />
       <jump line="54" column="11" filename="$USER_HOME$/work/career.jobtalk.jp/app/models/company.rb" />
       <jump line="18" column="27" filename="$USER_HOME$/work/career.jobtalk.jp/app/models/company.rb" />
+      <jump line="15" column="6" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/filter/mySessionManageFilter.class.php" />
+      <jump line="99" column="51" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/filter/mySessionManageFilter.class.php" />
+      <jump line="119" column="34" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/filter/mySessionManageFilter.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +230,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>high</text>
+        <text>error</text>
       </register>
       <register name="0" type="4">
         <text>https://www.r-agent.com/kensaku/kyujin/#{identification_code}.html?vos=nragjobtalk00001&quot;</text>
@@ -263,13 +266,13 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+ZmluZCgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>high</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>high</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
@@ -277,8 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>aws</entry>
         <entry>publish</entry>
         <entry>aggre</entry>
         <entry>search</entry>
@@ -297,6 +298,8 @@
         <entry>apply</entry>
         <entry>evalu</entry>
         <entry>high</entry>
+        <entry>503</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>%s/doda/recruitAgent</entry>
@@ -317,8 +320,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>begin</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
