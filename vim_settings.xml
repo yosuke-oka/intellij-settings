@@ -9,7 +9,19 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/services/forms/namebased_aggregate/search_query_builder.rb" timestamp="1500432310502" />
-      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/helpers/namebased_aggregate_helper.rb" timestamp="1500432686866" />
+      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/Gemfile" timestamp="1500442658060">
+        <mark key="'" line="57" column="6" />
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/helpers/namebased_aggregate_helper.rb" timestamp="1500443632070">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="11" column="77" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="11" column="77" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/test/lib/factory/TestDataFactory.class.php" timestamp="1499234270726">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -62,11 +74,12 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" timestamp="1500432856439">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="74" />
-        <mark key="." line="32" column="74" />
-        <mark key="^" line="32" column="74" />
+      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" timestamp="1500443652261">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/members_controller.rb" timestamp="1499049948698">
         <mark key="[" line="6" column="0" />
@@ -179,10 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
-      <jump line="96" column="31" filename="$USER_HOME$/work/jobtalk.jp/lib/task/partner/partnerExecuteLoadDataTask.class.php" />
-      <jump line="47" column="26" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverter.class.php" />
       <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" />
       <jump line="4" column="13" filename="$USER_HOME$/work/jobtalk.jp/lib/partner/recruitAgent/PartnerRecruitAgentImportEnvironment.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/fixtures/pattern_001_basic.yml" />
@@ -279,6 +288,10 @@
       <jump line="119" column="34" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/filter/mySessionManageFilter.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/odyssey.jobtalk.jp/config/settings.yml" />
       <jump line="142" column="8" filename="$USER_HOME$/work/odyssey.jobtalk.jp/config/settings.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/odyssey.jobtalk.jp/Gemfile" />
+      <jump line="57" column="6" filename="$USER_HOME$/work/odyssey.jobtalk.jp/Gemfile" />
+      <jump line="30" column="24" filename="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -288,13 +301,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>select_tag_existence(:exists_work)</text>
+        <text>(:partner_media_id_eq)</text>
       </register>
       <register name="/" type="4">
-        <text>solr</text>
+        <text>ransack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwCiAgICAgICAgICAgID0gZi5sYWJlbCA6ZXhpc3RzX3dvcmssICLmjrLovInkuK3msYLkuroiLCBjbGFzczogImNvbC1sZy0yIGNvbnRyb2wtbGFiZWwiCiAgICAgICAgICAgIC5jb2wtbGctMTAKICAgICAgICAgICAgICA9IHNlbGVjdF90YWdfZXhpc3RlbmNlKDpleGlzdHNfd29yaykK</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWdyb3VwCiAgICAgICAgICAgID0gZi5sYWJlbCA6aWRfZXEsICJJRCIsIGNsYXNzOiAiY29sLWxnLTIgY29udHJvbC1sYWJlbCIKICAgICAgICAgICAgLmNvbC1sZy0xMAogICAgICAgICAgICAgID0gZi50ZXh0X2ZpZWxkIDppZF9lcSwgY2xhc3M6ICJmb3JtLWNvbnRyb2wiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
@@ -331,17 +344,16 @@
       </register>
     </registers>
     <search>
-      <last-search>solr</last-search>
+      <last-search>ransack</last-search>
       <last-offset />
-      <last-pattern>solr</last-pattern>
+      <last-pattern>ransack</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aggre</entry>
         <entry>search</entry>
         <entry>delete</entry>
         <entry>todo</entry>
@@ -361,6 +373,7 @@
         <entry>503</entry>
         <entry>error</entry>
         <entry>solr</entry>
+        <entry>ransack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/doda/recruitAgent</entry>
