@@ -79,11 +79,11 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" timestamp="1500448009641">
+      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" timestamp="1500449555767">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
         <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/members_controller.rb" timestamp="1499049948698">
