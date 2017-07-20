@@ -21,12 +21,6 @@
         <mark key="^" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/helpers/namebased_aggregate_helper.rb" timestamp="1500447830196">
-        <mark key="[" line="12" column="114" />
-        <mark key="]" line="12" column="128" />
-        <mark key="^" line="12" column="128" />
-        <mark key="." line="12" column="128" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/test/lib/factory/TestDataFactory.class.php" timestamp="1499234270726">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -81,9 +75,6 @@
       </file>
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/views/namebased_aggregate/index.html.slim" timestamp="1500449555767">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="30" column="70" />
-        <mark key="." line="30" column="70" />
         <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/members_controller.rb" timestamp="1499049948698">
