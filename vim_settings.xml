@@ -31,11 +31,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/services/direct_scout/indexer_access_service.rb" timestamp="1501134144735" />
-      <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1501135563365">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentClientLoadDataConverterTest.php" timestamp="1500879938351">
         <mark key="[" line="65" column="41" />
         <mark key="]" line="65" column="40" />
@@ -80,7 +75,7 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1501134238841">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1501136416689">
         <mark key="'" line="56" column="21" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
