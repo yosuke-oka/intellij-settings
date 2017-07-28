@@ -294,7 +294,7 @@
         <text encoding="base64">ZGlyZWN0X3Njb3V0Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -304,7 +304,7 @@
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -330,7 +330,6 @@
         <entry>direct</entry>
       </history-search>
       <history-cmd>
-        <entry>doda</entry>
         <entry>%s/womanType/recruitAgent/gc</entry>
         <entry>%s/womanType/recruitAgent/g</entry>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
@@ -345,11 +344,12 @@
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>sp</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>lw</entry>
         <entry>w</entry>
+        <entry>nooh</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
