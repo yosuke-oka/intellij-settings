@@ -73,6 +73,9 @@
         <mark key="^" line="32" column="104" />
         <mark key="." line="32" column="104" />
       </file>
+      <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/job_postings/_column_left.html.slim" timestamp="1501221208072">
+        <mark key="'" line="28" column="30" />
+      </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/job_referral_forms/_job_template_apply_btn.html+sp.slim" timestamp="1501229092419">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="15" />
@@ -195,6 +198,9 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/Gemfile" timestamp="1502181859316">
+        <mark key="'" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/config/settings/test.yml" timestamp="1501135534022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -266,8 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1417" column="25" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
-      <jump line="1426" column="60" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
       <jump line="1427" column="19" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
       <jump line="1430" column="51" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
       <jump line="1432" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BasePartnerWork.php" />
@@ -366,6 +370,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/config/environments/development.rb" />
       <jump line="28" column="30" filename="$USER_HOME$/work/career.jobtalk.jp/app/views/job_postings/_column_left.html.slim" />
       <jump line="9" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/careers_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/Gemfile" />
+      <jump line="30" column="5" filename="$USER_HOME$/work/my.jobtalk.jp/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -378,7 +384,7 @@
         <text>career</text>
       </register>
       <register name="/" type="4">
-        <text>@</text>
+        <text>aws</text>
       </register>
       <register name="0" type="4">
         <text>job_posting_entries.validate_and_create!</text>
@@ -418,17 +424,16 @@
       </register>
     </registers>
     <search>
-      <last-search>@</last-search>
+      <last-search>aws</last-search>
       <last-offset />
-      <last-pattern>@</last-pattern>
+      <last-pattern>aws</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fix</entry>
         <entry>agent</entry>
         <entry>date</entry>
         <entry>begin</entry>
@@ -448,6 +453,7 @@
         <entry>publication</entry>
         <entry>application</entry>
         <entry>@</entry>
+        <entry>aws</entry>
       </history-search>
       <history-cmd>
         <entry>%s/womanType/recruitAgent/gc</entry>
