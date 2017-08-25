@@ -84,7 +84,6 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1503472112848" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/answers_controller.rb" timestamp="1502095841243">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -195,10 +194,11 @@
         <mark key="^" line="16" column="106" />
         <mark key="." line="16" column="99" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1503565431401">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1503646620203">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" timestamp="1503565642631">
         <mark key="'" line="256" column="46" />
@@ -217,7 +217,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityAll.class.php" timestamp="1503564973576" />
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/controllers/application_controller.rb" timestamp="1500368910085">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -455,7 +454,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnZXIgPSAkYW5zd2Vyc1NlYXJjaGVyLT5nZXRQYWdlcigkcGFnZSwgQ29tcGFueU1lbWJlclBvc3RVdGlsOjpnZXRNYXhOdW1PZlBvc3RzUGVyUGFnZSgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -465,7 +464,7 @@
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -508,9 +507,9 @@
         <entry>nooh</entry>
         <entry>e</entry>
         <entry>nph</entry>
-        <entry>w</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
