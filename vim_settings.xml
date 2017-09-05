@@ -86,6 +86,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" timestamp="1504599152595">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/cell/job_referral_forms/common/reputation.rb" timestamp="1501660459257">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="26" />
@@ -110,7 +116,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504598011135">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/application_controller.rb" timestamp="1504599286322">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504598845950">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="69" />
         <mark key="^" line="10" column="69" />
@@ -150,8 +161,17 @@
         <mark key="'" line="251" column="46" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/application_controller.rb" timestamp="1503904237820" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/sessions_controller.rb" timestamp="1504599207287">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/desired_conditions_controller.rb" timestamp="1503907122241" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/skills_controller.rb" timestamp="1503905783452" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/authenticate.js" timestamp="1504599011582">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/Gemfile" timestamp="1502181859316">
         <mark key="'" line="30" column="5" />
       </file>
@@ -173,6 +193,7 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/mynavi/PartnerMynaviClientLoadDataConverter.class.php" timestamp="1503652301838">
         <mark key="'" line="47" column="27" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/datastore.js" timestamp="1504599460124" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499852192175">
         <mark key="[" line="79" column="50" />
         <mark key="]" line="80" column="3" />
@@ -185,6 +206,7 @@
         <mark key="." line="68" column="7" />
         <mark key="^" line="68" column="7" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/components/LoginForm.js" timestamp="1504599747348" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverterTest.php" timestamp="1500880129964">
         <mark key="[" line="81" column="43" />
         <mark key="]" line="81" column="61" />
@@ -203,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
       <jump line="15" column="43" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
       <jump line="18" column="33" filename="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorBase.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -303,6 +324,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
       <jump line="43" column="18" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/config/app.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/authenticate.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,60 +334,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>ActionController::API</text>
       </register>
       <register name="/" type="4">
-        <text>ana</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBhZ2VyID0gJGFuc3dlcnNTZWFyY2hlci0+Z2V0UGFnZXIoJHBhZ2UsIENvbXBhbnlNZW1iZXJQb3N0VXRpbDo6Z2V0TWF4TnVtT2ZQb3N0c1BlclBhZ2UoNTAsIDI1KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgYWRkX2xhX3RyYWNraW5nX2Nvb2tpZShtZW1iZXIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpKSA/Pgo=</text>
+        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6bnVsbF9zZXNzaW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Vmlld0xpbWl0QUJUZXN0aW5nLT5nZXRUeXBlKCkpIHsKICAgICAgICAgICAgY2FzZSAiZGlzYWI=</text>
+      <register name="4" type="2">
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGFuc3dlcikgeyAvLyBUT0RPOiBhYuODhuOCueODiOOBruOChOOCiuaWuQogICAgICAgICAgICAkdGhpcy0+cGFnZXIgPSAkYW5zd2Vyc1NlYXJjaGVyLT5nZXRQYWdlcigkcGFnZSwgQ29tcGFueU1lbWJlclBvc3RVdGlsOjpnZXRNYXhOdW1PZlBvc3RzUGVyUGFnZSg1MCwgMjUpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgIH0K</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpKSA/Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpKSA/Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsICRhbnN3ZXJWaWV3TGltaXRBQlRlc3RpbmcpID8+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Vmlld0xpbWl0QUJUZXN0aW5nLT5nZXRUeXBlKCkpIHsKICAgICAgICAgICAgY2FzZSAiZGlzYWI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnBhZ2VyID0gJGFuc3dlcnNTZWFyY2hlci0+Z2V0UGFnZXIoJHBhZ2UsIENvbXBhbnlNZW1iZXJQb3N0VXRpbDo6Z2V0TWF4TnVtT2ZQb3N0c1BlclBhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGFuc3dlcikgeyAvLyBUT0RPOiBhYuODhuOCueODiOOBruOChOOCiuaWuQogICAgICAgICAgICAkdGhpcy0+cGFnZXIgPSAkYW5zd2Vyc1NlYXJjaGVyLT5nZXRQYWdlcigkcGFnZSwgQ29tcGFueU1lbWJlclBvc3RVdGlsOjpnZXRNYXhOdW1PZlBvc3RzUGVyUGFnZSg1MCwgMjUpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ana</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>ana</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>recruitAgent</last-replace>
       <last-substitute>pasonacareer</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry>solr</entry>
         <entry>ransack</entry>
         <entry>direct</entry>
@@ -385,6 +406,7 @@
         <entry>mynavi</entry>
         <entry>delete</entry>
         <entry>ana</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>%s/womanType/recruitAgent/g</entry>
