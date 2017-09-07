@@ -34,6 +34,12 @@
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/templates/_laABTestTracking.php" timestamp="1503990462086" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/tk-platform/supportedCheck.ts" timestamp="1503904029457" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/maskCheckerCondition/AnswerMaskRegistrartionBonus.class.php" timestamp="1504777273908">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/test/lib/factory/TestDataFactory.class.php" timestamp="1499234270726">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -229,7 +235,7 @@
         <mark key="^" line="16" column="106" />
         <mark key="." line="16" column="99" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1503646620203">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1504776833298">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
@@ -328,6 +334,7 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/maskChecker/RegistrationBonusAnswerMaskChecker.class.php" timestamp="1504776877220" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499852192175">
         <mark key="[" line="79" column="50" />
         <mark key="]" line="80" column="3" />
@@ -473,7 +480,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>&quot;approval&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
