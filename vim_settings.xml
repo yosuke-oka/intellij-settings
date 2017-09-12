@@ -10,8 +10,8 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1505115268087">
-        <mark key="'" line="329" column="4" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1505183067383">
+        <mark key="'" line="409" column="56" />
         <mark key="[" line="409" column="57" />
         <mark key="]" line="409" column="57" />
         <mark key="^" line="409" column="57" />
@@ -108,18 +108,18 @@
         <mark key="." line="65" column="40" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcFooter.php" timestamp="1505112570956" />
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" timestamp="1505122312117">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="50" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" timestamp="1505183256460">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" timestamp="1505121950999">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" timestamp="1505182935909">
         <mark key="'" line="96" column="9" />
-        <mark key="[" line="173" column="19" />
-        <mark key="]" line="173" column="19" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
         <mark key="^" line="183" column="8" />
-        <mark key="." line="173" column="19" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/AnswerViewLimitABTesting.class.php" timestamp="1503647606474">
         <mark key="[" line="12" column="26" />
@@ -146,7 +146,11 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1505110572801" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1505183110761">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="51" column="5" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/common/PartnerMediaChecker.class.php" timestamp="1499662747691">
         <mark key="[" line="29" column="34" />
         <mark key="]" line="31" column="36" />
@@ -285,10 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="7" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="230" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="231" column="42" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="234" column="16" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="239" column="7" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="227" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="97" column="31" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
@@ -385,6 +385,10 @@
       <jump line="330" column="44" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="52" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" />
       <jump line="329" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
+      <jump line="409" column="56" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
+      <jump line="7" column="28" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" />
+      <jump line="2" column="32" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -397,58 +401,56 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>ranke</text>
+        <text>answers</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oJGNvbXBhbnkpIHsKICAgICAgICAgICAgcmV0dXJuICRjb21wYW55LT5nZXRSZWNlbnRBbnN3ZXIoKTsKICAgICAgICB9Ow==</text>
+      <register name="0" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYy1jb21wYW55LWNvbnRlbnRzIj4KICA8aDMgY2xhc3M9ImNvbnRlbnRzLXRpdGxlIj4KICAgIDxzcGFuIGNsYXNzPSJncmVlbi1oaWdobGlnaHRlZCI+6KmV5YikPC9zcGFuPuOChOekvumiqDxzcGFuIGNsYXNzPSJjb21wYW55LW5hbWUiPiAvIDw/cGhwIGgoJGNvbXBhbnktPmdldE5hbWUoKSkgPz48L3NwYW4+CiAgPC9oMz4KCiAgPGRpdiBjbGFzcz0ibC1jb21wYW55LXJldmlldyBjb21wYW55LXJldmlld3MiPgogICAgPGRpdiBjbGFzcz0iYy1yZXZpZXdzIj4KICAgICAgPD9waHAgaWYoY291bnQoJGFuc3dlcnMpID4gMCk6ID8+CiAgICAgICAgPD9waHAgZm9yZWFjaCAoJGFuc3dlcnMgYXMgJGFuc3dlcik6ID8+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJhbnN3ZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbmVlLXN0YXR1cyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iam9iLXR5cGUiPjw/cGhwIGgoJGFuc3dlclsnam9iVHlwZSddKSA/PjwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im90aGVyLXN0YXR1cyI+CiAgICAgICAgICAgICAgICA8c3Bhbj48P3BocCBoKCRhbnN3ZXJbJ2FnZVJhbmdlJ10pID8+PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4+PD9waHAgaCgkYW5zd2VyWydwb3NpdGlvbiddKSA/Pjwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbnN3ZXItZmFjZS1pY29uIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbW90aW9uYWwtcmF0aW5nIHJhdGluZy08P3BocCBoKCRhbnN3ZXJbJ3JhdGluZyddKSA/PiI+PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbnN3ZXItYm9keSI+CiAgICAgICAgICAgICAgPD9waHAgaWYoJGFuc3dlclsncmF0aW5nJ10pOiA/PgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJhdGluZy1zdGFycyI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yICgkaiA9IDA7ICRqIDwgNTsgJGorKyk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJzdGFyLTw/IGgoJGogPCAkYW5zd2VyWydyYXRpbmcnXSA/ICJvbiIgOiAib2ZmIikgPz4iPuKYhTwvaT4KICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRmb3I7ID8+CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgICAgICAgICAgPD9waHAgaCgkYW5zd2VyWydyZXZpZXcnXSk7ID8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlc3QtdGV4dCI+KOWFqDw/cGhwIGgoJGFuc3dlclsncmV2aWV3Q291bnQnXSkgPz7mloflrZcpPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgIDw/cGhwIGVsc2U6ID8+CiAgICAgICAgPD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdjb21wYW55L3NwTm9SZXZpZXcnKTsgPz4KICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPGRpdiBjbGFzcz0icGFnZS1saW5rLWJveCI+CiAgICA8YSBjbGFzcz0icGFnZS1saW5rIiBocmVmPSI8P3BocCByZWNobyh1cmxfZm9yKCdAY29tcGFueV9yZXB1dGF0aW9ucz9pZD0nLiRjb21wYW55LT5nZXRJZCgpKSkgPz4iPgogICAgICDjgoLjgaPjgajoqZXliKTjgoTnpL7poqjjgpLopovjgosKICAgICAgPD9waHAgJGFuc3dlcnNDb3VudCA9ICRjb21wYW55LT5nZXRBbnN3ZXJzQ291bnRlcigpLT5nZXRFdmFsdWF0ZUNvdW50KCk7ID8+CiAgICAgIDw/cGhwIGlmKCRhbnN3ZXJzQ291bnQgPiAwKTogPz4KICAgICAgICA8c3BhbiBjbGFzcz0iYWxsLWFuc3dlci1jb3VudCI+CiAgICAgICAgICAgIDw/cGhwIHJlY2hvKCRhbnN3ZXJzQ291bnQpID8+5Lu2CiAgICAgICAgPC9zcGFuPgogICAgICA8P3BocCBlbmRpZjsgPz4KICAgIDwvYT4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAgcmVjaG8oJHJlbGF0ZWRDb21wYW55QW5zd2Vyc1swXVsncmV2aWV3J10pID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzKTsK</text>
+        <text encoding="base64">PD9waHAgcmVjaG8oJHJlbGF0ZWRDb21wYW55QW5zd2Vyc1swXVsncmV2aWV3J10pID8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAgdmFyX2R1bXAoJHJlbGF0ZWRDb21wYW55QW5zd2VycykgPz4K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBob2dlKCRjb21wYW55KSB7IHZhcl9kdW1wKCRjb21wYW55KTsKICAgICAgICByZXR1cm4gJGNvbXBhbnktPmdldFJlY2VudEFuc3dlcigpOwogICAgfQo=</text>
+        <text encoding="base64">PD9waHAgcmVjaG8oJHJlbGF0ZWRDb21wYW55QW5zd2Vyc1swXVsncmV2aWV3J10pID8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZCkK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZXB1dGF0aW9u44Gg44GR44Gr6ZmQ44KL44GL77yfCg==</text>
+        <text encoding="base64">PD9waHAgdmFyX2R1bXAoJHJlbGF0ZWRDb21wYW55QW5zd2VycykgPz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBob2dlKCRjb21wYW55KSB7IHZhcl9kdW1wKCRjb21wYW55KTsKICAgICAgICByZXR1cm4gJGNvbXBhbnktPmdldFJlY2VudEFuc3dlcigpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyR0aGlzLT5yZWxhdGVkQ29tcGFueUFuc3dlcnMgPSBhcnJheSgpOwogICAgICAgIC8vZm9yZWFjaCAoJHRoaXMtPnJlbGF0ZWRDb21wYW5pZXMgYXMgJGNvbXBhbnkpIHsKICAgICAgICAvLyAgICAkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzIFtdPSAkY29tcGFueS0+Z2V0UmVjZW50QW5zd2VyKCk7CiAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiByZXB1dGF0aW9u44Gg44GR44Gr6ZmQ44KL44GL77yfCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ranke</last-search>
+      <last-search>answers</last-search>
       <last-offset />
-      <last-pattern>ranke</last-pattern>
-      <last-replace>recruitAgent</last-replace>
-      <last-substitute>pasonacareer</last-substitute>
+      <last-pattern>answers</last-pattern>
+      <last-replace>relatedCompanyAnswers</last-replace>
+      <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>s3</entry>
-        <entry>mynavi</entry>
         <entry>delete</entry>
         <entry>ana</entry>
         <entry>set</entry>
@@ -467,9 +469,10 @@
         <entry>company_recommended_companies_api</entry>
         <entry>ranked</entry>
         <entry>ranke</entry>
+        <entry>spheader</entry>
+        <entry>answers</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/womanType/recruitAgent/g</entry>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
         <entry>pasona</entry>
         <entry>w'</entry>
@@ -486,9 +489,10 @@
         <entry>e</entry>
         <entry>vsp</entry>
         <entry>'w</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/answers/relatedCompanyAnswers/gc</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
