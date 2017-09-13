@@ -50,12 +50,12 @@
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/mynavi/PartnerMynaviSetupDataReceiver.class.php" timestamp="1503653554354" />
       <file name="$USER_HOME$/work/jobtalk.jp/data/iceberg/control_group_companies_ids/earns.yml" timestamp="1505270124118" />
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" timestamp="1505288510965">
-        <mark key="'" line="52" column="12" />
-        <mark key="[" line="103" column="35" />
-        <mark key="]" line="104" column="46" />
-        <mark key="." line="104" column="46" />
-        <mark key="^" line="104" column="46" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" timestamp="1505292899606">
+        <mark key="'" line="95" column="9" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="27" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/answers_controller.rb" timestamp="1502095841243">
         <mark key="[" line="8" column="17" />
@@ -66,10 +66,10 @@
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/job_postings/_column_left.html.slim" timestamp="1501221208072">
         <mark key="'" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_answers.php" timestamp="1505281938783">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_answers.php" timestamp="1505292446124">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/job_referral_forms/_job_template_apply_btn.html+sp.slim" timestamp="1501229092419">
         <mark key="[" line="6" column="11" />
@@ -94,7 +94,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedAnswers.php" timestamp="1505111493353">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedAnswers.php" timestamp="1505292880942">
+        <mark key="'" line="11" column="9" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -127,13 +128,8 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1504776833298">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" timestamp="1505281571622">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" timestamp="1505291682686">
+        <mark key="'" line="23" column="23" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
@@ -241,17 +237,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/maskChecker/AnswerMaskContainer.class.php" timestamp="1505292714190" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/concerns/authenticatable.rb" timestamp="1503904369321" />
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/controllers/ratings_controller.rb" timestamp="1501045972593">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_noAnswers.php" timestamp="1505111636568">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/namebasedAggregation/CompanyPartnerClientAggregatorExecuter.class.php" timestamp="1499922014617">
         <mark key="[" line="36" column="0" />
@@ -284,11 +275,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" timestamp="1505288450184">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" timestamp="1505292443480">
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" timestamp="1505290194301">
         <mark key="'" line="165" column="27" />
@@ -328,11 +317,6 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1505184619705">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="38" column="7" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1505281643763">
         <mark key="'" line="93" column="12" />
         <mark key="[" line="93" column="13" />
@@ -346,12 +330,6 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504689170112">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="7" column="7" />
-      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/config/settings/development.yml" timestamp="1501135523385">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -364,6 +342,12 @@
         <mark key="." line="16" column="99" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/application_controller.rb" timestamp="1503904237820" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/sessions_controller.rb" timestamp="1504690520243">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/desired_conditions_controller.rb" timestamp="1503907122241" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/skills_controller.rb" timestamp="1503905783452" />
       <file name="$USER_HOME$/work/odyssey.jobtalk.jp/app/controllers/application_controller.rb" timestamp="1500368910085">
@@ -444,11 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="18" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/config/app.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/authenticate.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/sessions_controller.rb" />
-      <jump line="70" column="2" filename="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/sessions_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/sessions_controller.rb" />
       <jump line="1" column="12" filename="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" />
@@ -544,6 +523,11 @@
       <jump line="161" column="69" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="165" column="27" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="90" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
+      <jump line="23" column="23" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedAnswers.php" />
+      <jump line="11" column="9" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedAnswers.php" />
+      <jump line="35" column="22" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" />
+      <jump line="95" column="9" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -553,52 +537,52 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Index</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>usemask</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PD9waHAgcmVjaG8oJGluZHVzdHJ5KSA/PualreeVjCDDlyA8P3BocCByZWNobygkcHJlZik=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8P3BocCBoKCR2aXNpYmxlTGltaXQpID8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzKTsK</text>
+        <text encoding="base64">ICAgIDw/cGhwIGgoJHZpc2libGVMaW1pdCkgPz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlc3Rpb25Db2RlcyA9IFF1ZXN0aW9uc1BlZXI6OnJldHJpZXZlQ29kZXNCeUdyb3VwKCR0aGlzLT5xdWVzdGlvbkdyb3VwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+cmVsYXRlZENvbXBhbnlBbnN3ZXJzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2Pui/keOBj+OBruWQjOalreS7luekvuOCr+ODgeOCs+ODnzwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAkcXVlc3Rpb25Db2RlcyA9IFF1ZXN0aW9uc1BlZXI6OnJldHJpZXZlQ29kZXNCeUdyb3VwKCR0aGlzLT5xdWVzdGlvbkdyb3VwKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8P3BocCBoKCRhbnN3ZXItPmdldENvbXBhbnkoKSkgPz4K</text>
+        <text encoding="base64">ICA8ZGl2Pui/keOBj+OBruWQjOalreS7luekvuOCr+ODgeOCs+ODnzwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+YW5zd2VyKTsK</text>
+        <text encoding="base64">ICA8P3BocCBoKCRhbnN3ZXItPmdldENvbXBhbnkoKSkgPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PD9waHAgLy/jg63jgrDjgqTjg7PmmYLjgIHoqZXliKQv5bm05Y+OL+mdouaOpeOCv+ODluOBrjHjg5rjg7zjgrjnm67jga7lhYjpoK0x5Lu244Gv44Kv44OB44Kz44Of44KS5YWs6ZaL44GZ44KLID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+YW5zd2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDw/cGhwIC8v44Ot44Kw44Kk44Oz5pmC44CB6KmV5YikL+W5tOWPji/pnaLmjqXjgr/jg5bjga4x44Oa44O844K455uu44Gu5YWI6aCtMeS7tuOBr+OCr+ODgeOCs+ODn+OCkuWFrOmWi+OBmeOCiyA/PgogICAgPD9waHAgaW5jbHVkZV9jb21wb25lbnQoJ2Fuc3dlcnMnLCAnYW5zd2VyJywgYXJyYXkoCiAgICAgICAgICAgICdhbnN3ZXInID0+ICRhbnN3ZXIsCiAgICAgICAgICAgICd1c2VNYXNrJyA9PiAkaXRlbVVzZU1hc2sKICAgICAgICApCiAgICApPz4K</text>
+        <text encoding="base64">PD9waHAgLy/jg63jgrDjgqTjg7PmmYLjgIHoqZXliKQv5bm05Y+OL+mdouaOpeOCv+ODluOBrjHjg5rjg7zjgrjnm67jga7lhYjpoK0x5Lu244Gv44Kv44OB44Kz44Of44KS5YWs6ZaL44GZ44KLID8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDw/cGhwIC8v44Ot44Kw44Kk44Oz5pmC44CB6KmV5YikL+W5tOWPji/pnaLmjqXjgr/jg5bjga4x44Oa44O844K455uu44Gu5YWI6aCtMeS7tuOBr+OCr+ODgeOCs+ODn+OCkuWFrOmWi+OBmeOCiyA/PgogICAgPD9waHAgaW5jbHVkZV9jb21wb25lbnQoJ2Fuc3dlcnMnLCAnYW5zd2VyJywgYXJyYXkoCiAgICAgICAgICAgICdhbnN3ZXInID0+ICRhbnN3ZXIsCiAgICAgICAgICAgICd1c2VNYXNrJyA9PiAkaXRlbVVzZU1hc2sKICAgICAgICApCiAgICApPz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAgdmFyX2R1bXAoJHRoaXMtPmFuc3dlcnMpID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>usemask</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>usemask</last-pattern>
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
@@ -606,9 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recommendcompa</entry>
-        <entry>recommned</entry>
-        <entry>recommend</entry>
         <entry>company_recommended_companies_api</entry>
         <entry>ranked</entry>
         <entry>ranke</entry>
@@ -626,6 +607,9 @@
         <entry>related</entry>
         <entry>first</entry>
         <entry>group</entry>
+        <entry>visible</entry>
+        <entry>useMask</entry>
+        <entry>usemask</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
@@ -645,9 +629,9 @@
         <entry>'w</entry>
         <entry>lw</entry>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
