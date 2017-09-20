@@ -1,14 +1,15 @@
 <scheme name="Material Theme - Darker copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Myrica M" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
@@ -31,7 +32,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
