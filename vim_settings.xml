@@ -189,6 +189,7 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" timestamp="1506930093138">
         <mark key="'" line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/templates/_blurMask.php" timestamp="1507014783026" />
       <file name="$USER_HOME$/work/jobtalk.jp/assets/sass/sp/application.scss" timestamp="1506927886066">
         <mark key="'" line="32" column="30" />
         <mark key="[" line="61" column="0" />
@@ -230,6 +231,9 @@
         <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcMainColumnFooter.php" timestamp="1506924266790" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/account_jobtalk/AccountJobtalkPath.class.php" timestamp="1507014829667">
+        <mark key="'" line="45" column="4" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/questions_controller.rb" timestamp="1502099165474">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -361,8 +365,9 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1505281643763">
-        <mark key="'" line="93" column="12" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/templates/_restText.php" timestamp="1507014776903" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1507014387095">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="93" column="13" />
         <mark key="]" line="93" column="3" />
         <mark key="^" line="93" column="3" />
@@ -404,8 +409,12 @@
         <mark key="^" line="16" column="106" />
         <mark key="." line="16" column="99" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" timestamp="1506929072075">
-        <mark key="'" line="121" column="32" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" timestamp="1507014486308">
+        <mark key="'" line="2" column="24" />
+        <mark key="[" line="124" column="9" />
+        <mark key="]" line="124" column="35" />
+        <mark key="^" line="124" column="8" />
+        <mark key="." line="124" column="8" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spReviews.php" timestamp="1506933005860">
         <mark key="[" line="51" column="28" />
@@ -491,6 +500,7 @@
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/member.rb" timestamp="1503904332028">
         <mark key="'" line="43" column="18" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answersGuide/templates/indexSuccess.php" timestamp="1507014447225" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/convert/PartnerClientLoadDataConverter.class.php" timestamp="1500877863557">
         <mark key="[" line="65" column="4" />
         <mark key="]" line="65" column="13" />
@@ -504,10 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4199" column="16" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
-      <jump line="4200" column="38" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
-      <jump line="4210" column="31" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
-      <jump line="4212" column="16" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4213" column="70" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4214" column="42" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4218" column="19" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
@@ -604,6 +610,10 @@
       <jump line="166" column="26" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
       <jump line="169" column="91" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
       <jump line="171" column="24" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
+      <jump line="126" column="39" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" />
+      <jump line="2" column="24" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="45" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/account_jobtalk/AccountJobtalkPath.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,13 +623,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>url_for_post_guide_register</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>register</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDw/cGhwIGluY2x1ZGVfY29tcG9uZW50KCdjb21wYW55JywgJ3NwUmV2aWV3cycgICAgICAsIGFycmF5KCdjb21wYW55JyA9PiAkY29tcGFueSkpID8+Cg==</text>
+      <register name="0" type="4">
+        <text>url_for_post_guide_register</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIDw/cGhwIHZhcl9kdW1wKGNvdW50KCRhbnN3ZXJzQ291bnQpKSA/Pgo=</text>
@@ -652,13 +662,13 @@
         <text encoding="base64">ICAgICAgICAgIDw/cGhwIGluY2x1ZGVfY29tcG9uZW50KCdjb21wYW55JywgJ3BjRGV0YWlsSW5mbycsIFsiY29tcGFueSIgPT4gJGNvbXBhbnldKSA/Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
@@ -666,11 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>group</entry>
-        <entry>visible</entry>
-        <entry>useMask</entry>
-        <entry>usemask</entry>
-        <entry>pushla</entry>
         <entry>laABTest</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvcFBhZ2VXaGVuRW1wdHlQYWdlXD4=</entry>
         <entry>pager</entry>
@@ -686,6 +691,11 @@
         <entry>post</entry>
         <entry>question</entry>
         <entry>company</entry>
+        <entry>post_guid</entry>
+        <entry>answerguide</entry>
+        <entry>answersguide</entry>
+        <entry>regiter</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
@@ -704,10 +714,10 @@
         <entry>lw</entry>
         <entry>vsp</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>e</entry>
         <entry>'w</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
