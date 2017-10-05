@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" timestamp="1506929914546">
         <mark key="'" line="63" column="34" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1507177409246">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1507179796622">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="105" column="49" />
         <mark key="]" line="105" column="49" />
@@ -661,7 +661,7 @@
         <text encoding="base64">ICAgICAgPD9waHAgZWxzZTogPz4KICAgICAgICA8P3BocCBpbmNsdWRlX3BhcnRpYWwoIm5vQW5zd2VycyIsIFsKICAgICAgICAgICAgImNvbXBhbnkiID0+ICRjb21wYW55LAogICAgICAgICAgICAiY3VycmVudFF1ZXN0aW9uQ29kZSIgPT4gJHF1ZXN0aW9uQ29kZQogICAgICAgIF0pID8+CiAgICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -671,7 +671,7 @@
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -713,10 +713,10 @@
         <entry>lw</entry>
         <entry>e</entry>
         <entry>'w</entry>
-        <entry>noh</entry>
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
