@@ -143,8 +143,8 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" timestamp="1507266092799">
-        <mark key="'" line="166" column="13" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" timestamp="1508119903035">
+        <mark key="'" line="95" column="0" />
         <mark key="[" line="54" column="35" />
         <mark key="]" line="54" column="35" />
         <mark key="^" line="54" column="35" />
@@ -536,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4245" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4250" column="31" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4252" column="25" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4262" column="31" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
@@ -636,6 +635,7 @@
       <jump line="177" column="35" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="59" column="30" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="184" column="53" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
+      <jump line="95" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -648,7 +648,7 @@
         <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>executeAnswer</text>
+        <text>visible</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8P3BocCB2YXJfZHVtcCgkaW5kZXgpID8+Cg==</text>
@@ -688,17 +688,16 @@
       </register>
     </registers>
     <search>
-      <last-search>executeAnswer</last-search>
+      <last-search>visible</last-search>
       <last-offset />
-      <last-pattern>executeAnswer</last-pattern>
+      <last-pattern>visible</last-pattern>
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rcre</entry>
         <entry>filter</entry>
         <entry>newanswer</entry>
         <entry>company-content-relation</entry>
@@ -718,6 +717,7 @@
         <entry>answer</entry>
         <entry>answers</entry>
         <entry>executeAnswer</entry>
+        <entry>visible</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
