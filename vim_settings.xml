@@ -11,7 +11,8 @@
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" timestamp="1506929914546">
         <mark key="'" line="63" column="34" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1507179796622">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1508315350435">
+        <mark key="'" line="253" column="10" />
         <mark key="[" line="105" column="49" />
         <mark key="]" line="105" column="49" />
         <mark key="^" line="105" column="49" />
@@ -60,9 +61,9 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.php" timestamp="1508314746703">
-        <mark key="[" line="42" column="73" />
-        <mark key="]" line="42" column="15" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.php" timestamp="1508315398199">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="91" />
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
@@ -386,11 +387,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" timestamp="1507800548545">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="40" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" timestamp="1508315404503">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/view/job_referral_forms/common/reputation.slim" timestamp="1501659390889">
         <mark key="[" line="16" column="99" />
@@ -501,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4348" column="44" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4354" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4364" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
       <jump line="4366" column="27" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseCompany.php" />
@@ -601,6 +601,7 @@
       <jump line="55" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" />
       <jump line="78" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="157" column="29" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
+      <jump line="253" column="10" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,10 +614,10 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>visible</text>
+        <text>ranked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAgaWYoISRzZl91c2VyLT5pc0F1dGhlbnRpY2F0ZWQoKSk6ID8+CiAgICA8P3BocCBpbmNsdWRlX3BhcnRpYWwoJ2dsb2JhbC9sYUFCVGVzdFRyYWNraW5nJywgYXJyYXkoJ2FiVGVzdCcgPT4gJHJlc3RUZXh0QUJUZXN0aW5nKSkgPz4KPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAndmlzaWJsZUxpbWl0JyA9PiAkdXNlTWFzayA/IDAgOiA1IC8vIOmWoumAo+S8gealreOCr+ODgeOCs+ODn+OBrm1heOOBrzXjgILjg57jgrjjg4Pjgq/jg4rjg7Pjg5Djg7zku6XlpJbjga7mm7jjgY3mlrnjgYzmsZrjgZ3jgYbjgaDjgYvjgonoqLHjgZfjgaYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">amQKICAgICAgICAkdGhpcy0+dmlzaWJsZUxpbWl0ID0gJHRoaXMtPnVzZU1hc2sgPyAwIDogNTsK</text>
@@ -653,17 +654,16 @@
       </register>
     </registers>
     <search>
-      <last-search>visible</last-search>
+      <last-search>ranked</last-search>
       <last-offset />
-      <last-pattern>visible</last-pattern>
+      <last-pattern>ranked</last-pattern>
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>company</entry>
         <entry>post_guid</entry>
         <entry>answerguide</entry>
         <entry>answersguide</entry>
@@ -683,6 +683,7 @@
         <entry>answerreview</entry>
         <entry>auth</entry>
         <entry>visible</entry>
+        <entry>ranked</entry>
       </history-search>
       <history-cmd>
         <entry>%s/WomanType/RecruitAgent/gc</entry>
