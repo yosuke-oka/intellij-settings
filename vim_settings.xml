@@ -10,7 +10,7 @@
         <mark key="^" line="105" column="49" />
         <mark key="." line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" timestamp="1509008453607">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" timestamp="1509070888923">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="35" column="37" />
@@ -90,12 +90,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509069351903">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509072086967">
         <mark key="'" line="12" column="37" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="83" column="4" />
-        <mark key="^" line="82" column="62" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="81" column="57" />
+        <mark key="]" line="81" column="56" />
+        <mark key="^" line="81" column="56" />
+        <mark key="." line="81" column="56" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/CompanyTopRelatedAnswerABTesting.class.php" timestamp="1507086053749">
         <mark key="[" line="6" column="5" />
@@ -178,6 +178,12 @@
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/spec/requests/api/members_spec.rb" timestamp="1509071538859">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="66" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/careers_controller.rb" timestamp="1502271877241">
         <mark key="'" line="9" column="0" />
@@ -484,43 +490,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;このメールアドレスは既に登録されています。ログインをお試しください。&quot;</text>
+        <text>.by(1)</text>
       </register>
       <register name="/" type="4">
         <text>last_modifi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZW1haWxfY2Fubm90X2JlX2R1cGxpY2F0ZWQKICAgIG1lc3NhZ2UgPSAi44GT44Gu44Oh44O844Or44Ki44OJ44Os44K544Gv5pei44Gr55m76Yyy44GV44KM44Gm44GE44G+44GZ44CC44Ot44Kw44Kk44Oz44KS44GK6Kmm44GX44GP44Gg44GV44GE44CCIgogICAgICBlcnJvcnMuYWRkKDpiYXNlLCBtZXNzYWdlKSBpZiBNZW1iZXIuZmluZF9ieShlbWFpbDogZW1haWwpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QgZG8KICAgICAgICAgIHN1YmplY3QKICAgICAgICBlbmQudG8gY2hhbmdlKE1lbWJlciwgOmNvdW50KS5ieSgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIE1lbWJlci5maW5kX2J5KGVtYWlsOiBlbWFpbCkK</text>
+        <text encoding="base64">ICAgICAgY29udGV4dCAi5YWl5Yqb44GV44KM44Gf44Oh44O844Or44Ki44OJ44Os44K544GMY29uZmlybWVk44Gu44Go44GNIiBkbwogICAgICAgIGl0ICI0MDnjgYzov5TjgaPjgabjgY/jgosiIGRvCiAgICAgICAgICBzdWJqZWN0CiAgICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGhhdmVfaHR0cF9zdGF0dXMoOmNvbmZsaWN0KQogICAgICAgIGVuZAoKICAgICAgICBpdCAi44Oh44O844Or44Ki44OJ44Os44K56KqN6Ki844Oh44O844Or44GM6YCB5L+h44GV44KM44KLIiBkbwogICAgICAgICAgYWxsb3coQ29uZmlybWF0aW9uTWFpbGVyKS50byByZWNlaXZlX21lc3NhZ2VfY2hhaW4oOmNvbmZpcm0sIDpkZWxpdmVyX25vdykKICAgICAgICAgIHN1YmplY3QKICAgICAgICAgIGV4cGVjdChDb25maXJtYXRpb25NYWlsZXIuY29uZmlybSkudG8gaGF2ZV9yZWNlaXZlZCg6ZGVsaXZlcl9ub3cpCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgY29udGV4dCAi5YWl5Yqb44GV44KM44Gf44Oh44O844Or44Ki44OJ44Os44K544GMY29uZmlybWVk44GY44KD44Gq44GE44Go44GNIiBkbwogICAgICAgIGxldCg6dW5jb25maXJtZWRfYWRkcmVzcykgeyAiY2hhbmdlQGFkZHJlc3MuY29tIiB9CiAgICAgICAgbGV0ISg6dW5jb25maXJtZWRfbWVtYmVyX2VtYWlsKSBkbwogICAgICAgICAgY3JlYXRlKDptZW1iZXJfZW1haWwsIGVtYWlsOiB1bmNvbmZpcm1lZF9hZGRyZXNzLCBjb25maXJtZWRfYXQ6IG5pbCkKICAgICAgICBlbmQKICAgICAgICBzdWJqZWN0IHsgcG9zdCAiL2FwaS9tZW1iZXIiLCBwYXJhbXM6IHsgZW1haWw6IHVuY29uZmlybWVkX2FkZHJlc3MsIHBsYWluX3Bhc3N3b3JkOiAiaG9nZSIgfSB9CgogICAgICAgIGl0ICI0MDnjgYzov5TjgaPjgabjgY/jgosiIGRvCiAgICAgICAgICBzdWJqZWN0CiAgICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvIGhhdmVfaHR0cF9zdGF0dXMgOmNvbmZsaWN0CiAgICAgICAgZW5kCgogICAgICAgIGl0ICLjg6Hjg7zjg6vjgqLjg4njg6zjgrnoqo3oqLzjg6Hjg7zjg6vjgYzpgIHkv6HjgZXjgozjgosiIGRvCiAgICAgICAgICBhbGxvdyhDb25maXJtYXRpb25NYWlsZXIpLnRvIHJlY2VpdmVfbWVzc2FnZV9jaGFpbig6Y29uZmlybSwgOmRlbGl2ZXJfbm93KQogICAgICAgICAgc3ViamVjdAogICAgICAgICAgZXhwZWN0KENvbmZpcm1hdGlvbk1haWxlci5jb25maXJtKS50byBoYXZlX3JlY2VpdmVkKDpkZWxpdmVyX25vdykKICAgICAgICBlbmQKCiAgICAgICAgaXQgIuODiOODvOOCr+ODs+OBjOODquOCu+ODg+ODiOOBleOCjOOCiyIgZG8KICAgICAgICAgIHN1YmplY3QKICAgICAgICAgIGV4cGVjdCh1bmNvbmZpcm1lZF9tZW1iZXJfZW1haWwuY29uZmlybWF0aW9uX3Rva2VuKS5ub3RfdG8gZXEodW5jb25maXJtZWRfbWVtYmVyX2VtYWlsLnJlbG9hZC5jb25maXJtYXRpb25fdG9rZW4pCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGVtYWlsLmZpbmQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIOaWsOimj+eZu+mMsuOBr+ODoeODvOODq+iqjeiovOOCkuOCueOCreODg+ODl+OBl+OBpuOCguOBhOOBhOOBk+OBqOOBqOOBmXMK</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgIC8vIOaWsOimj+eZu+mMsuOBr+ODoeODvOODq+iqjeiovOOCkuOCueOCreODg+ODl+OBl+OBpuOCguOBhOOBhOOBk+OBqOOBqOOBmQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIE1lbWJlci5maW5kX2J5KGVtYWlsOiBlbWFpbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmIGVtYWlsLmZpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChfcmVzLnN0YXR1cyA9PT0gNDA5KSB7CiAgICAgICAgICAgIGxvY2F0aW9uLmhyZWYgPSAiL21lbWJlcnMvY29tcGxldGUiCiAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOaWsOimj+eZu+mMsuOBr+ODoeODvOODq+iqjeiovOOCkuOCueOCreODg+ODl+OBl+OBpuOCguOBhOOBhOOBk+OBqOOBqOOBmXMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChfcmVzLnN0YXR1cyA9PT0gNDA5KSB7CiAgICAgICAgICAgIGxvY2F0aW9uLmhyZWYgPSAiL21lbWJlcnMvY29tcGxldGUiCiAgICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgIC8vIOaWsOimj+eZu+mMsuOBr+ODoeODvOODq+iqjeiovOOCkuOCueOCreODg+ODl+OBl+OBpuOCguOBhOOBhOOBk+OBqOOBqOOBmQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
