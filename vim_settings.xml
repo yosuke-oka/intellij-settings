@@ -90,12 +90,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509072086967">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509080834734">
         <mark key="'" line="12" column="37" />
-        <mark key="[" line="81" column="57" />
-        <mark key="]" line="81" column="56" />
-        <mark key="^" line="81" column="56" />
-        <mark key="." line="81" column="56" />
+        <mark key="[" line="81" column="53" />
+        <mark key="]" line="81" column="16" />
+        <mark key="^" line="81" column="16" />
+        <mark key="." line="81" column="16" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/CompanyTopRelatedAnswerABTesting.class.php" timestamp="1507086053749">
         <mark key="[" line="6" column="5" />
@@ -260,12 +260,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" timestamp="1509007813890">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" timestamp="1509081215363">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/cell/job_referral_forms/common/reputation.rb" timestamp="1501660459257">
         <mark key="[" line="17" column="6" />
@@ -342,6 +342,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="34" column="51" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/members/simple_registrations_controller.rb" timestamp="1509080660494" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/CompanyAnswersRestTextABTesting.class.php" timestamp="1508726477290">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="12" column="48" />
@@ -490,7 +491,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>.by(1)</text>
+        <text>。このメールアドレスは既に登録されている可能性があります。ログインをお試しください。</text>
       </register>
       <register name="/" type="4">
         <text>last_modifi</text>
