@@ -168,6 +168,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/config/database.yml" timestamp="1509344307634">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="144" column="36" />
@@ -658,7 +662,7 @@
         <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QgZG8KICAgICAgICAgIHN1YmplY3QKICAgICAgICBlbmQudG8gY2hhbmdlKE1lbWJlciwgOmNvdW50KS5ieSgxKQo=</text>
+        <text encoding="base64">ICBzb2NrZXQ6IC92YXIvbGliL215c3FsL215c3FsLnNvY2sK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
