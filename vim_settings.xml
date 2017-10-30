@@ -15,11 +15,12 @@
         <mark key="^" line="105" column="49" />
         <mark key="." line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" timestamp="1509070888923">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" timestamp="1509331030840">
+        <mark key="'" line="40" column="24" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="40" column="15" />
+        <mark key="." line="41" column="27" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/maskCheckerCondition/AnswerMaskRegistrartionBonus.class.php" timestamp="1504777273908">
         <mark key="[" line="25" column="22" />
@@ -120,12 +121,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509091923031">
-        <mark key="'" line="12" column="37" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509331485203">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/CompanyTopRelatedAnswerABTesting.class.php" timestamp="1507086053749">
         <mark key="[" line="6" column="5" />
@@ -542,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" />
       <jump line="35" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" />
       <jump line="37" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" />
       <jump line="63" column="34" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Answers.php" />
@@ -642,6 +642,7 @@
       <jump line="81" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
       <jump line="104" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
       <jump line="12" column="37" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
+      <jump line="40" column="24" filename="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -651,10 +652,10 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>。このメールアドレスは既に登録されている可能性があります。ログインをお試しください。</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>last_modifi</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QgZG8KICAgICAgICAgIHN1YmplY3QKICAgICAgICBlbmQudG8gY2hhbmdlKE1lbWJlciwgOmNvdW50KS5ieSgxKQo=</text>
@@ -694,9 +695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last_modifi</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>last_modifi</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>relatedCompanyAnswers</last-replace>
       <last-substitute>answers</last-substitute>
       <last-dir>1</last-dir>
@@ -704,7 +705,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regiter</entry>
         <entry>register</entry>
         <entry>abtest</entry>
         <entry>nothing</entry>
@@ -724,6 +724,7 @@
         <entry>executeAnswer</entry>
         <entry>var</entry>
         <entry>last_modifi</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -740,11 +741,11 @@
         <entry>94</entry>
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
-        <entry>noh</entry>
         <entry>'w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>vsp</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
