@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1508736641247">
         <mark key="'" line="58" column="51" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/My.tsx" timestamp="1509609388741">
+        <mark key="[" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/views/layouts/hoge.slim" timestamp="1500541657163">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -701,7 +704,7 @@
         <text encoding="base64">ICBkZXNjcmliZSAiI2R1cGxpY2F0ZV9lbWFpbF9lcnJvcj8iIGRvCiAgICBsZXQoOm1lbWJlcikgeyBjcmVhdGUoOm1lbWJlcikgfQogICAgc3ViamVjdCB7IG1lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/IH0KCiAgICBjb250ZXh0ICLml6LjgavlkIzjgZjjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYznmbvpjLLjgZXjgozjgabjgYTjgovjgajjgY0iIGRvCiAgICAgIGxldCg6ZHVwbGljYXRlZF9tZW1iZXIpIHsgYnVpbGRfc3R1YmJlZCg6bWVtYmVyLCBlbWFpbDogbWVtYmVyLmVtYWlsKSB9CiAgICAgIHN1YmplY3QgeyBkdXBsaWNhdGVkX21lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/IH0KCiAgICAgIGl0ICJ0cnVl44GM6L+U44Gj44Gm44GP44KLIiBkbwogICAgICAgIGR1cGxpY2F0ZWRfbWVtYmVyLnZhbGlkPwogICAgICAgIGV4cGVjdChkdXBsaWNhdGVkX21lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/KS50byBiZSB0cnVlCiAgICAgIGVuZAoKICAgICAgY29udGV4dCAiZW1haWwgdGFrZW7jgajku5bjga5lcnJvcuOBjOOBguOCi+OBqOOBjSIgZG8KICAgICAgICBpdCBkbwogICAgICAgICAgZHVwbGljYXRlZF9tZW1iZXIucGxhaW5fcGFzc3dvcmQgPSAiYSIKICAgICAgICAgIGR1cGxpY2F0ZWRfbWVtYmVyLnZhbGlkPwogICAgICAgICAgaXNfZXhwZWN0ZWQudG8gYmUgdHJ1ZQogICAgICAgIGVuZAogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIuWQjOOBmOODoeODvOODq+OCouODieODrOOCueOBjOeZu+mMsuOBleOCjOOBpuOBhOOBquOBhOOBqOOBjSIgZG8KICAgICAgaXQgZG8KICAgICAgICBtZW1iZXIudmFsaWQ/CiAgICAgICAgaXNfZXhwZWN0ZWQudG8gYmUgZmFsc2UKICAgICAgZW5kCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -755,8 +758,8 @@
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>vsp</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
