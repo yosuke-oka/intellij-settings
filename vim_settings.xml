@@ -454,6 +454,11 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/components/answers/AnswerInputs.tsx" timestamp="1510046008396">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/view/job_referral_forms/common/reputation.slim" timestamp="1501659390889">
         <mark key="[" line="16" column="99" />
         <mark key="]" line="16" column="99" />
@@ -682,34 +687,34 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QobWVtYmVyLm5ld19yZWNvcmQ/KS50byBiZSB0cnVlCiAgICAgICAgaXNfZXhwZWN0ZWQubm90X3RvIGJlX3ZhbGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZSA6Y29tcGxldGUsIG9ubHk6IDpzaG93Cg==</text>
+        <text encoding="base64">ICAgIDxSYXRpbmdSb3cgeyAuLi57IGFuc3dlciwgYWN0aW9ucyB9IH0gLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpc19leHBlY3RlZC5ub3RfdG8gYmVfdmFsaWQK</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZSA6Y29tcGxldGUsIG9ubHk6IDpzaG93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc19leHBlY3RlZC5ub3RfdG8gYmVfdmFsaWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIOS8muWToeOBruacieWKueOBqkXjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgpLov5TjgZkKICBkZWYgcHJpbWFyeV9lbWFpbAogICAgbWVtYmVyX2VtYWlscy5jb25maXJtZWQuZmlyc3QKICBlbmQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAjIOS8muWToeOBruacieWKueOBqkXjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgpLov5TjgZkKICBkZWYgcHJpbWFyeV9lbWFpbAogICAgbWVtYmVyX2VtYWlscy5jb25maXJtZWQuZmlyc3QKICBlbmQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiI2R1cGxpY2F0ZV9lbWFpbF9lcnJvcj8iIGRvCiAgICBsZXQoOm1lbWJlcikgeyBjcmVhdGUoOm1lbWJlcikgfQogICAgc3ViamVjdCB7IG1lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/IH0KCiAgICBjb250ZXh0ICLml6LjgavlkIzjgZjjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYznmbvpjLLjgZXjgozjgabjgYTjgovjgajjgY0iIGRvCiAgICAgIGxldCg6ZHVwbGljYXRlZF9tZW1iZXIpIHsgYnVpbGRfc3R1YmJlZCg6bWVtYmVyLCBlbWFpbDogbWVtYmVyLmVtYWlsKSB9CiAgICAgIHN1YmplY3QgeyBkdXBsaWNhdGVkX21lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/IH0KCiAgICAgIGl0ICJ0cnVl44GM6L+U44Gj44Gm44GP44KLIiBkbwogICAgICAgIGR1cGxpY2F0ZWRfbWVtYmVyLnZhbGlkPwogICAgICAgIGV4cGVjdChkdXBsaWNhdGVkX21lbWJlci5kdXBsaWNhdGVfZW1haWxfZXJyb3I/KS50byBiZSB0cnVlCiAgICAgIGVuZAoKICAgICAgY29udGV4dCAiZW1haWwgdGFrZW7jgajku5bjga5lcnJvcuOBjOOBguOCi+OBqOOBjSIgZG8KICAgICAgICBpdCBkbwogICAgICAgICAgZHVwbGljYXRlZF9tZW1iZXIucGxhaW5fcGFzc3dvcmQgPSAiYSIKICAgICAgICAgIGR1cGxpY2F0ZWRfbWVtYmVyLnZhbGlkPwogICAgICAgICAgaXNfZXhwZWN0ZWQudG8gYmUgdHJ1ZQogICAgICAgIGVuZAogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIuWQjOOBmOODoeODvOODq+OCouODieODrOOCueOBjOeZu+mMsuOBleOCjOOBpuOBhOOBquOBhOOBqOOBjSIgZG8KICAgICAgaXQgZG8KICAgICAgICBtZW1iZXIudmFsaWQ/CiAgICAgICAgaXNfZXhwZWN0ZWQudG8gYmUgZmFsc2UKICAgICAgZW5kCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
