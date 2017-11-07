@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" timestamp="1508736641247">
         <mark key="'" line="58" column="51" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/My.tsx" timestamp="1510034417393">
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/My.tsx" timestamp="1510035507959">
         <mark key="'" line="11" column="14" />
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/views/layouts/hoge.slim" timestamp="1500541657163">
         <mark key="[" line="8" column="0" />
