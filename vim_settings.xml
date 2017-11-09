@@ -182,11 +182,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" timestamp="1510219073486">
-        <mark key="[" line="51" column="6" />
-        <mark key="]" line="51" column="12" />
-        <mark key="." line="51" column="12" />
-        <mark key="^" line="51" column="12" />
+      <file name="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" timestamp="1510220435224">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/config/routes.rb" timestamp="1509604515855">
         <mark key="[" line="20" column="0" />
@@ -695,7 +695,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>dis_max</text>
       </register>
       <register name="/" type="4">
         <text>elasticsearch</text>
