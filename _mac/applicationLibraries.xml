@@ -1664,6 +1664,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.13.6/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.0, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/bundler-1.16.0/man" />
+      </SOURCES>
+    </library>
     <library name="byebug (v5.0.0, rbenv: 2.1.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/5.0.0" />
@@ -3037,6 +3050,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v2.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch (v2.0.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/elasticsearch-2.0.2/lib" />
@@ -3064,6 +3086,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.0/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v2.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.2/utils" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-api-2.0.2/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-api (v2.0.2, rbenv: 2.3.1) [gem]">
@@ -3124,6 +3157,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-transport-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v2.0.2, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-transport-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/elasticsearch-transport-2.0.2/lib" />
       </SOURCES>
     </library>
     <library name="elasticsearch-transport (v2.0.2, rbenv: 2.3.1) [gem]">
@@ -3527,6 +3569,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faraday-0.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.13.1, rbenv: 2.3.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faraday-0.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/faraday-0.13.1/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.1, rbenv: 2.1.2) [gem]">
