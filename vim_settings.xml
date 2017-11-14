@@ -15,7 +15,6 @@
         <mark key="^" line="105" column="49" />
         <mark key="." line="105" column="49" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/routing/AnswerPostRouting.tsx" timestamp="1510558161771" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" timestamp="1509331030840">
         <mark key="'" line="40" column="24" />
         <mark key="[" line="41" column="27" />
@@ -338,7 +337,7 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1510561190094">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1510645477038">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" timestamp="1508388811343">
@@ -519,6 +518,9 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" timestamp="1510645130493">
+        <mark key="'" line="67" column="15" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/authenticate.js" timestamp="1504764337594">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -595,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="111" column="13" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="19" column="55" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="21" column="55" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
       <jump line="25" column="8" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
       <jump line="26" column="58" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
       <jump line="28" column="55" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
@@ -695,6 +693,10 @@
       <jump line="73" column="2" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
       <jump line="81" column="4" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="104" column="6" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
+      <jump line="108" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
+      <jump line="9" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
+      <jump line="67" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -707,7 +709,7 @@
         <text>, per_page: 20</text>
       </register>
       <register name="/" type="4">
-        <text>provisional</text>
+        <text>userpersonal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QobWVtYmVyLm5ld19yZWNvcmQ/KS50byBiZSB0cnVlCiAgICAgICAgaXNfZXhwZWN0ZWQubm90X3RvIGJlX3ZhbGlkCg==</text>
@@ -743,21 +745,20 @@
         <text encoding="base64">ICAgICMgZW5kcG9pbnQgPSAiaHR0cDovLyN7U2V0dGluZ3Muc29sci5ob3N0fToje1NldHRpbmdzLnNvbHIucG9ydH0vc29sci9jb21wYW55IgogICAgIyBAY29ubmVjdGlvbiA9IFJTb2xyLmNvbm5lY3QodXJsOiBlbmRwb2ludCwgcmVhZF90aW1lb3V0OiAxMCwgb3Blbl90aW1lb3V0OiAxMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>provisional</last-search>
+      <last-search>userpersonal</last-search>
       <last-offset />
-      <last-pattern>provisional</last-pattern>
+      <last-pattern>userpersonal</last-pattern>
       <last-replace>elastic_search</last-replace>
       <last-substitute>elasticsearch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nothing</entry>
         <entry>la</entry>
         <entry>answer</entry>
         <entry>getcompany</entry>
@@ -777,6 +778,7 @@
         <entry>_</entry>
         <entry>elasticsearch</entry>
         <entry>provisional</entry>
+        <entry>userpersonal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/pasonacareer/recruitAgent/g</entry>
@@ -789,8 +791,6 @@
         <entry>lw</entry>
         <entry>e</entry>
         <entry>94</entry>
-        <entry>split</entry>
-        <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>'w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>vsp</entry>
@@ -799,6 +799,8 @@
         <entry>%s/elasticsearch/elastic_search/gc</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>split</entry>
+        <entry>Unite -start-insert file_rec/async:!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
