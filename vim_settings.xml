@@ -94,6 +94,24 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" timestamp="1511155340206">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" timestamp="1511155470126">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/user/MemcachePersonalAttributeStore.class.php" timestamp="1511155392811">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/common/PartnerMediaChecker.class.php" timestamp="1499662747691">
         <mark key="[" line="29" column="34" />
         <mark key="]" line="31" column="36" />
@@ -105,6 +123,11 @@
         <mark key="]" line="64" column="51" />
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" timestamp="1511155429145">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/application_controller.rb" timestamp="1504690445450">
         <mark key="[" line="2" column="0" />
@@ -175,10 +198,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/config/database.yml" timestamp="1509344307634">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
@@ -342,8 +361,11 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1510652020787">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1511155301999">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" timestamp="1508388811343">
         <mark key="'" line="216" column="24" />
@@ -466,7 +488,13 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" timestamp="1511144276678" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" timestamp="1511155360697">
+        <mark key="'" line="59" column="9" />
+        <mark key="[" line="76" column="89" />
+        <mark key="]" line="76" column="87" />
+        <mark key="." line="76" column="87" />
+        <mark key="^" line="76" column="87" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504689170112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -490,8 +518,10 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" timestamp="1511153759263">
-        <mark key="'" line="14" column="32" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" timestamp="1511155450854">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/view/job_referral_forms/common/reputation.slim" timestamp="1501659390889">
         <mark key="[" line="16" column="99" />
@@ -527,8 +557,11 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" timestamp="1510645130493">
-        <mark key="'" line="67" column="15" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" timestamp="1511155271639">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/authenticate.js" timestamp="1504764337594">
         <mark key="'" line="0" column="0" />
@@ -552,6 +585,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/logger/LoggerParamsBuilder.php" timestamp="1511155320151">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/config/app.yml" timestamp="1505110054905">
         <mark key="'" line="20" column="60" />
@@ -606,28 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="60" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="119" column="47" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="125" column="48" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="127" column="53" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="128" column="9" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="130" column="11" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="131" column="16" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="12" column="56" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="14" column="55" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/AnswersPeer.php" />
-      <jump line="9" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="34" column="21" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="36" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="99" column="19" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="101" column="16" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="164" column="94" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="166" column="26" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="169" column="91" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="171" column="24" filename="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/om/BaseAnswers.php" />
-      <jump line="126" column="39" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" />
-      <jump line="2" column="24" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/helper/InflowSourceHelper.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="45" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/account_jobtalk/AccountJobtalkPath.class.php" />
       <jump line="166" column="13" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="121" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="56" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" />
@@ -701,11 +717,33 @@
       <jump line="9" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
       <jump line="67" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
       <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="54" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="20" column="38" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
+      <jump line="179" column="13" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="152" column="29" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="125" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="59" column="9" filename="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" />
+      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/user/MemcachePersonalAttributeStore.class.php" />
+      <jump line="26" column="25" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="22" column="13" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="66" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="68" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="107" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="109" column="22" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="119" column="44" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="100" column="30" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
+      <jump line="54" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
       <jump line="56" column="41" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
       <jump line="84" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
       <jump line="86" column="34" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="14" column="32" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="77" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="79" column="34" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
+      <jump line="14" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -724,34 +762,34 @@
         <text encoding="base64">ICAgICAgICBleHBlY3QobWVtYmVyLm5ld19yZWNvcmQ/KS50byBiZSB0cnVlCiAgICAgICAgaXNfZXhwZWN0ZWQubm90X3RvIGJlX3ZhbGlkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1dHMgYm9keQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0VHJhY2tpbmdNZW1iZXJJZCgpCiAgICB7CiAgICAgICAgaWYgKCRwZXJzb25hbEF0dHJpYnV0ZSA9IHNlbGY6OmdldFBlcnNvbmFsQXR0cmlidXRlKCkpIHsKICAgICAgICAgICAgcmV0dXJuICRwZXJzb25hbEF0dHJpYnV0ZS0+Z2V0VHJhY2tpbmdNZW1iZXJJZCgpOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1cmw6IGR1bW15Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VtICdyc29scicsICd+PiAxLjEnCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc3RvcmVUcmFja2luZ01lbWJlcklkKCR0cmFja2luZ01lbWJlcklkKQogICAgewogICAgICAgIGlmICgkcGVyc29uYWxBdHRyaWJ1dGUgPSBzZWxmOjpnZXRQZXJzb25hbEF0dHJpYnV0ZSgpKSB7CiAgICAgICAgICAgICRwZXJzb25hbEF0dHJpYnV0ZS0+c2V0VHJhY2tpbmdNZW1iZXJJZCgkdHJhY2tpbmdNZW1iZXJJZCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXI6IHsKICAgICAgICAgIHRlcm06IHsKICAgICAgICAgICAgaXNfcHVibGljOiAxCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRUcmFja2luZ01lbWJlcklkKCR2YWx1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+c2V0RGF0YUJ5S2V5KHNlbGY6OlRSQUNLSU5HX01FTUJFUl9JRCwgJHZhbHVlKTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUcmFja2luZ01lbWJlcklkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldERhdGFCeUtleShzZWxmOjpUUkFDS0lOR19NRU1CRVJfSUQpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFRSQUNLSU5HX01FTUJFUl9JRCA9ICd0cmFja2luZ19tZW1iZXJfaWQnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhY2tpbmdNZW1iZXJJZCA9ICRkYXRhLT5nZXRUcmFja2luZ01lbWJlcklkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -768,9 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answer</entry>
-        <entry>getcompany</entry>
-        <entry>pager</entry>
         <entry>rest</entry>
         <entry>answerre</entry>
         <entry>request</entry>
@@ -787,6 +822,9 @@
         <entry>elasticsearch</entry>
         <entry>provisional</entry>
         <entry>userpersonal</entry>
+        <entry>track</entry>
+        <entry>storeTracking</entry>
+        <entry>store</entry>
         <entry>tracking</entry>
       </history-search>
       <history-cmd>
