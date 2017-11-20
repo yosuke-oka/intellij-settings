@@ -55,7 +55,6 @@
         <mark key="." line="4" column="61" />
         <mark key="^" line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-post-answer/PostAnswerRouter.tsx" timestamp="1510726665763" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/answers_controller.rb" timestamp="1502095841243">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -95,7 +94,6 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/containers/Root.tsx" timestamp="1510652220419" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/common/PartnerMediaChecker.class.php" timestamp="1499662747691">
         <mark key="[" line="29" column="34" />
         <mark key="]" line="31" column="36" />
@@ -468,6 +466,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" timestamp="1511144276678" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504689170112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -762,7 +761,7 @@
       <last-replace>elastic_search</last-replace>
       <last-substitute>elasticsearch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
