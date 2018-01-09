@@ -342,6 +342,12 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" timestamp="1515478229912">
+        <mark key="[" line="4" column="95" />
+        <mark key="]" line="4" column="126" />
+        <mark key="^" line="4" column="126" />
+        <mark key="." line="4" column="126" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_noAnswers.php" timestamp="1505293504169">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="14" />
@@ -637,9 +643,9 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/companies_controller.rb" timestamp="1502099061399">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/companies_controller.rb" timestamp="1515478137075">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="74" />
         <mark key="." line="11" column="17" />
       </file>
     </filemarks>
@@ -753,13 +759,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;id&quot;</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text>tracking</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QobWVtYmVyLm5ld19yZWNvcmQ/KS50byBiZSB0cnVlCiAgICAgICAgaXNfZXhwZWN0ZWQubm90X3RvIGJlX3ZhbGlkCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlKEV4Y2VwdGlvbnM6OkFwaVJlcXVlc3RFcnJvciwgIuaknOe0ouaWh+Wtl+WIl+OBjOW/heimgeOBp+OBmSIpIHVubGVzcyBwYXJhbXNbOnF1ZXJ5XQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0VHJhY2tpbmdNZW1iZXJJZCgpCiAgICB7CiAgICAgICAgaWYgKCRwZXJzb25hbEF0dHJpYnV0ZSA9IHNlbGY6OmdldFBlcnNvbmFsQXR0cmlidXRlKCkpIHsKICAgICAgICAgICAgcmV0dXJuICRwZXJzb25hbEF0dHJpYnV0ZS0+Z2V0VHJhY2tpbmdNZW1iZXJJZCgpOwogICAgICAgIH0KICAgIH0KCg==</text>
@@ -802,7 +808,7 @@
       <last-replace>elastic_search</last-replace>
       <last-substitute>elasticsearch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
