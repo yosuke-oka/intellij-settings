@@ -33,11 +33,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/My.tsx" timestamp="1510035507959">
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-      </file>
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/views/layouts/hoge.slim" timestamp="1500541657163">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -133,6 +128,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/serializers/questionee_serializer.rb" timestamp="1515480677767">
+        <mark key="[" line="1" column="121" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/view/job_referral_forms/partner_works/plain_application_button.slim" timestamp="1501229079562">
         <mark key="[" line="12" column="13" />
@@ -342,11 +343,11 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" timestamp="1515478229912">
-        <mark key="[" line="4" column="95" />
-        <mark key="]" line="4" column="126" />
-        <mark key="^" line="4" column="126" />
-        <mark key="." line="4" column="126" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" timestamp="1515480306301">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_noAnswers.php" timestamp="1505293504169">
         <mark key="[" line="9" column="0" />
@@ -759,7 +760,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>tracking</text>
