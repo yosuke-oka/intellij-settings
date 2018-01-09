@@ -218,6 +218,12 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="33" column="43" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/config/routes.rb" timestamp="1515483316798">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/config/routes.rb" timestamp="1509604515855">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -343,12 +349,12 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" timestamp="1515481618117">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" timestamp="1515484026656">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_noAnswers.php" timestamp="1505293504169">
         <mark key="[" line="9" column="0" />
@@ -652,8 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" />
       <jump line="102" column="24" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" />
       <jump line="177" column="35" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="59" column="30" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
@@ -752,6 +756,8 @@
       <jump line="14" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
       <jump line="69" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
       <jump line="5" column="23" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
+      <jump line="6" column="42" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
+      <jump line="4" column="15" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -761,7 +767,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text># アプリケーション的には1:1なので、システム的に制約が無いがfind_by先頭を取得している</text>
       </register>
       <register name="/" type="4">
         <text>tracking</text>
@@ -770,34 +776,34 @@
         <text encoding="base64">ICAgIHJhaXNlKEV4Y2VwdGlvbnM6OkFwaVJlcXVlc3RFcnJvciwgIuaknOe0ouaWh+Wtl+WIl+OBjOW/heimgeOBp+OBmSIpIHVubGVzcyBwYXJhbXNbOnF1ZXJ5XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0VHJhY2tpbmdNZW1iZXJJZCgpCiAgICB7CiAgICAgICAgaWYgKCRwZXJzb25hbEF0dHJpYnV0ZSA9IHNlbGY6OmdldFBlcnNvbmFsQXR0cmlidXRlKCkpIHsKICAgICAgICAgICAgcmV0dXJuICRwZXJzb25hbEF0dHJpYnV0ZS0+Z2V0VHJhY2tpbmdNZW1iZXJJZCgpOwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHBheXNsaXBfcXVlc3Rpb25lZSA9IHBheXNsaXBfYW5zd2VyLnF1ZXN0aW9uZWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBheXNsaXBfcXVlc3Rpb25lZSA9IHBheXNsaXBfYW5zd2VyLnF1ZXN0aW9uZWUgIyDjgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7PnmoTjgavjga8xOjHjgarjga7jgafjgIHjgrfjgrnjg4bjg6DnmoTjgavliLbntITjgYznhKHjgYTjgYxmaW5kX2J55YWI6aCt44KS5Y+W5b6X44GX44Gm44GE44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc3RvcmVUcmFja2luZ01lbWJlcklkKCR0cmFja2luZ01lbWJlcklkKQogICAgewogICAgICAgIGlmICgkcGVyc29uYWxBdHRyaWJ1dGUgPSBzZWxmOjpnZXRQZXJzb25hbEF0dHJpYnV0ZSgpKSB7CiAgICAgICAgICAgICRwZXJzb25hbEF0dHJpYnV0ZS0+c2V0VHJhY2tpbmdNZW1iZXJJZCgkdHJhY2tpbmdNZW1iZXJJZCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0VHJhY2tpbmdNZW1iZXJJZCgpCiAgICB7CiAgICAgICAgaWYgKCRwZXJzb25hbEF0dHJpYnV0ZSA9IHNlbGY6OmdldFBlcnNvbmFsQXR0cmlidXRlKCkpIHsKICAgICAgICAgICAgcmV0dXJuICRwZXJzb25hbEF0dHJpYnV0ZS0+Z2V0VHJhY2tpbmdNZW1iZXJJZCgpOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRUcmFja2luZ01lbWJlcklkKCR2YWx1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+c2V0RGF0YUJ5S2V5KHNlbGY6OlRSQUNLSU5HX01FTUJFUl9JRCwgJHZhbHVlKTsKICAgIH0KCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc3RvcmVUcmFja2luZ01lbWJlcklkKCR0cmFja2luZ01lbWJlcklkKQogICAgewogICAgICAgIGlmICgkcGVyc29uYWxBdHRyaWJ1dGUgPSBzZWxmOjpnZXRQZXJzb25hbEF0dHJpYnV0ZSgpKSB7CiAgICAgICAgICAgICRwZXJzb25hbEF0dHJpYnV0ZS0+c2V0VHJhY2tpbmdNZW1iZXJJZCgkdHJhY2tpbmdNZW1iZXJJZCk7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUcmFja2luZ01lbWJlcklkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldERhdGFCeUtleShzZWxmOjpUUkFDS0lOR19NRU1CRVJfSUQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRUcmFja2luZ01lbWJlcklkKCR2YWx1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+c2V0RGF0YUJ5S2V5KHNlbGY6OlRSQUNLSU5HX01FTUJFUl9JRCwgJHZhbHVlKTsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFRSQUNLSU5HX01FTUJFUl9JRCA9ICd0cmFja2luZ19tZW1iZXJfaWQnOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUcmFja2luZ01lbWJlcklkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldERhdGFCeUtleShzZWxmOjpUUkFDS0lOR19NRU1CRVJfSUQpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhY2tpbmdNZW1iZXJJZCA9ICRkYXRhLT5nZXRUcmFja2luZ01lbWJlcklkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
