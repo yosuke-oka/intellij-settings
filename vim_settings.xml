@@ -280,12 +280,12 @@
         <mark key="." line="68" column="7" />
         <mark key="^" line="68" column="7" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" timestamp="1515567620255">
+      <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" timestamp="1515573171694">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/assets/javascripts/front/modules/layout/laABTestTracking.js" timestamp="1505885647023">
         <mark key="[" line="9" column="0" />
@@ -449,6 +449,11 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/models/answer.rb" timestamp="1515573507642">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" timestamp="1508467145877">
         <mark key="'" line="278" column="24" />
@@ -783,43 +788,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>questioneeが取得できる</text>
+        <text>not_found</text>
       </register>
       <register name="/" type="4">
         <text>member</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgbG9naW5fYXMgYW5zd2VyLm1lbWJlciB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoOm5vdF9mb3VuZCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIHN1YmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIHN1YmplY3QK</text>
+        <text encoding="base64">ICBzY29wZSA6cXVlc3Rpb25fY29kZSwgLT4oY29kZSkgeyBqb2lucyg6cXVlc3Rpb24pLndoZXJlKHF1ZXN0aW9uczogeyBjb2RlOiBjb2RlIH0pIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgbG9naW5fYXMgbWVtYmVyIH0K</text>
+        <text encoding="base64">ICAgICAgICBpdCB7IGlzX30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgbG9naW5fYXMgYW5zd2VyLm1lbWJlciB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIHN1YmplY3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGFuc3dlci50b19qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIHN1YmplY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0ISg6bWVtYmVyKSB7IGNyZWF0ZSg6bWVtYmVyLCA6ZnVsbF9wcm9maWxlKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgbG9naW5fYXMgbWVtYmVyIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCEoOm1lbWJlcikgeyBjcmVhdGUoOm1lbWJlciwgOmZ1bGxfcHJvZmlsZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgbG9naW5fYXMgYW5zd2VyLm1lbWJlciB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSB7IGxvZ2luX2FzIG1lbWJlciB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGFuc3dlci50b19qc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcXVlc3Rpb24gOnBheXNsaXAK</text>
+        <text encoding="base64">ICAgICAgbGV0ISg6bWVtYmVyKSB7IGNyZWF0ZSg6bWVtYmVyLCA6ZnVsbF9wcm9maWxlKSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
