@@ -427,7 +427,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/components/answers/AnswerForm.tsx" timestamp="1510047782140">
+      <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/components/answers/AnswerForm.tsx" timestamp="1515558593756">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="31" />
         <mark key="^" line="45" column="31" />
@@ -822,7 +822,7 @@
         <text encoding="base64">ICAgICAgICBsZXQhKDptZW1iZXIpIHsgY3JlYXRlKDptZW1iZXIsIDpmdWxsX3Byb2ZpbGUpIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -872,12 +872,12 @@
         <entry>q</entry>
         <entry>%s/elasticsearch/elastic_search</entry>
         <entry>%s/elasticsearch/elastic_search/gc</entry>
-        <entry>split</entry>
-        <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>sp</entry>
         <entry>noh</entry>
         <entry>t</entry>
         <entry>w</entry>
+        <entry>split</entry>
+        <entry>Unite -start-insert file_rec/async:!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
