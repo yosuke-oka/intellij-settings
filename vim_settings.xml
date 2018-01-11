@@ -203,12 +203,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/spec/factories/answers.rb" timestamp="1515493093558">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="36" />
-        <mark key="^" line="34" column="36" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="144" column="36" />
@@ -788,13 +782,13 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>not_found</text>
+        <text>eviewTextArea</text>
       </register>
       <register name="/" type="4">
         <text>member</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIGhhdmVfaHR0cF9zdGF0dXMoOm5vdF9mb3VuZCkgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmV2aWV3VGV4dEFyZWEgfSBmcm9tICJhcHAtYW5zd2VyLXBvc3QvY29tcG9uZW50cy9hbnN3ZXJzL3Jldmlldy9SZXZpZXdUZXh0QXJlYSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
