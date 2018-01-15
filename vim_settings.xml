@@ -385,8 +385,8 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1511155301999">
-        <mark key="'" line="125" column="0" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1516009440612">
+        <mark key="'" line="101" column="29" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
@@ -497,7 +497,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1507014387095">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1516009459660">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="93" column="13" />
         <mark key="]" line="93" column="3" />
@@ -673,10 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
-      <jump line="91" column="48" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
-      <jump line="79" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
-      <jump line="77" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="72" column="65" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="68" column="17" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="55" column="17" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
@@ -773,6 +769,10 @@
       <jump line="28" column="44" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
       <jump line="6" column="22" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" />
+      <jump line="110" column="25" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="101" column="29" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -785,7 +785,7 @@
         <text>eviewTextArea</text>
       </register>
       <register name="/" type="4">
-        <text>member</text>
+        <text>mail_sub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgUmV2aWV3VGV4dEFyZWEgfSBmcm9tICJhcHAtYW5zd2VyLXBvc3QvY29tcG9uZW50cy9hbnN3ZXJzL3Jldmlldy9SZXZpZXdUZXh0QXJlYSIK</text>
@@ -825,18 +825,16 @@
       </register>
     </registers>
     <search>
-      <last-search>member</last-search>
+      <last-search>mail_sub</last-search>
       <last-offset />
-      <last-pattern>member</last-pattern>
+      <last-pattern>mail_sub</last-pattern>
       <last-replace>elastic_search</last-replace>
       <last-substitute>elasticsearch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>answerre</entry>
-        <entry>request</entry>
         <entry>answerreview</entry>
         <entry>auth</entry>
         <entry>ranked</entry>
@@ -855,6 +853,8 @@
         <entry>store</entry>
         <entry>tracking</entry>
         <entry>member</entry>
+        <entry>mail</entry>
+        <entry>mail_sub</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
