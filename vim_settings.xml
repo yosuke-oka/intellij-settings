@@ -191,6 +191,12 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/retention_mail_task/follow_company.rb" timestamp="1516251916649">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="144" column="36" />
@@ -204,6 +210,12 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="33" column="43" />
       </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/magazine/base/simple_deliver.rb" timestamp="1516250867409">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/cf_recommend_mail.text.erb" timestamp="1516177754178">
         <mark key="'" line="0" column="0" />
       </file>
@@ -212,6 +224,9 @@
         <mark key="]" line="30" column="35" />
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" timestamp="1516251472785">
+        <mark key="'" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/members_controller.rb" timestamp="1499049948698">
         <mark key="[" line="6" column="0" />
@@ -470,13 +485,6 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/weekly_recommend_mail.html.erb" timestamp="1516177625641">
-        <mark key="'" line="61" column="38" />
-        <mark key="[" line="61" column="38" />
-        <mark key="]" line="61" column="38" />
-        <mark key="^" line="61" column="38" />
-        <mark key="." line="61" column="38" />
-      </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/concepts/view/job_referral_forms/common/reputation.slim" timestamp="1501659390889">
         <mark key="[" line="16" column="99" />
         <mark key="]" line="16" column="99" />
@@ -561,12 +569,9 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/lib/tasks/retention_mail.rake" timestamp="1516250940653" />
     </filemarks>
     <jumps>
-      <jump line="205" column="37" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" />
-      <jump line="208" column="30" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" />
-      <jump line="215" column="24" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
       <jump line="212" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
       <jump line="229" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
@@ -663,6 +668,10 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/spec/mailers/event_mail_mailer_spec.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/spec/mailers/event_mail_mailer_spec.rb" />
       <jump line="40" column="59" filename="$USER_HOME$/work/ares.jobtalk.jp/spec/mailers/event_mail_mailer_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
+      <jump line="57" column="2" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
+      <jump line="58" column="12" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -672,56 +681,56 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>member/mail_subscription</text>
+        <text>5425261</text>
       </register>
       <register name="/" type="4">
-        <text>jobtalk_mail</text>
+        <text>mail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHJlcXVlc3QtPmdldFBhdGhJbmZvQXJyYXkoKVsiUkVESVJFQ1RfUVVFUllfU1RSSU5HIl0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cm1lbWJlcl9tYWlsX3N1YnNjcmlwdGlvbjoKICB1cmw6IC9tZW1iZXIvbWFpbF9zdWJzY3JpcHRpb24uaHRtbAogIHBhcmFtOiB7IG1vZHVsZTogYWNjb3VudCwgYWN0aW9uOiBtYWlsU3Vic2NyaXB0aW9uIH0KICBvcHRpb25zOiB7IGV4dHJhX3BhcmFtZXRlcnNfYXNfcXVlcnlfc3RyaW5nOiB0cnVlIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWVtYmVyX21haWxfc3Vic2NyaXB0aW9uOgogIHVybDogL21lbWJlci9tYWlsX3N1YnNjcmlwdGlvbi5odG1sCiAgcGFyYW06IHsgbW9kdWxlOiBhY2NvdW50LCBhY3Rpb246IG1haWxTdWJzY3JpcHRpb24gfQogIG9wdGlvbnM6IHsgZXh0cmFfcGFyYW1ldGVyc19hc19xdWVyeV9zdHJpbmc6IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBKQVNU6IKJ44OV44Kn44K5OiDjgrnjgqvjgqbjg4jjga7lj5fkv6HoqK3lrprjgoLjgZPjga7jg5rjg7zjgrjjgafjgafjgY3jgovjgojjgYbjgavjgZfjgZ/jgYTjgYzjgIFQSFLjga7jg6Hjg7zjg6vjgpLlpInmm7TjgZfjgarjgYTjgajjgYTjgZHjgarjgYTjga7jgacKICAgICAgICAvLyDkuIDml6bjgZPjgozjgb7jgafpgJrjgorjg63jgrDjgqTjg7PjgZfjgZ/kuIrjgafjgoTjgaPjgabjgoLjgonjgYbjgIIK</text>
+        <text encoding="base64">ICAgICAgICBbTWVtYmVyLmZpbmQoNTQyNTA2MSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXF1ZXN0LT5nZXRVcmkoKSk7CiAgICAgICAgZHVtcCgkcmVxdWVzdC0+Z2V0UGF0aEluZm9BcnJheSgpWyJSRURJUkVDVF9RVUVSWV9TVFJJTkciXSk7Cgo=</text>
+        <text encoding="base64">ICAgIG0gPSBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVxdWVzdC0+Z2V0UXVlcnlTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cm1lbWJlcl9tYWlsX3N1YnNjcmlwdGlvbjoKICB1cmw6IC9tZW1iZXIvbWFpbF9zdWJzY3JpcHRpb24uaHRtbAogIHBhcmFtOiB7IG1vZHVsZTogYWNjb3VudCwgYWN0aW9uOiBtYWlsU3Vic2NyaXB0aW9uIH0KICBvcHRpb25zOiB7IGV4dHJhX3BhcmFtZXRlcnNfYXNfcXVlcnlfc3RyaW5nOiB0cnVlIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPQo=</text>
+        <text encoding="base64">bWVtYmVyX21haWxfc3Vic2NyaXB0aW9uOgogIHVybDogL21lbWJlci9tYWlsX3N1YnNjcmlwdGlvbi5odG1sCiAgcGFyYW06IHsgbW9kdWxlOiBhY2NvdW50LCBhY3Rpb246IG1haWxTdWJzY3JpcHRpb24gfQogIG9wdGlvbnM6IHsgZXh0cmFfcGFyYW1ldGVyc19hc19xdWVyeV9zdHJpbmc6IHRydWUgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzY29wZSA6cXVlc3Rpb25fY29kZSwgLT4oY29kZSkgeyBqb2lucyg6cXVlc3Rpb24pLndoZXJlKHF1ZXN0aW9uczogeyBjb2RlOiBjb2RlIH0pIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBKQVNU6IKJ44OV44Kn44K5OiDjgrnjgqvjgqbjg4jjga7lj5fkv6HoqK3lrprjgoLjgZPjga7jg5rjg7zjgrjjgafjgafjgY3jgovjgojjgYbjgavjgZfjgZ/jgYTjgYzjgIFQSFLjga7jg6Hjg7zjg6vjgpLlpInmm7TjgZfjgarjgYTjgajjgYTjgZHjgarjgYTjga7jgacKICAgICAgICAvLyDkuIDml6bjgZPjgozjgb7jgafpgJrjgorjg63jgrDjgqTjg7PjgZfjgZ/kuIrjgafjgoTjgaPjgabjgoLjgonjgYbjgIIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>jobtalk_mail</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>jobtalk_mail</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -743,8 +752,8 @@
         <entry>mail_sub</entry>
         <entry>mail_subscription</entry>
         <entry>jobtalk</entry>
-        <entry>mail</entry>
         <entry>jobtalk_mail</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>nooh</entry>
@@ -765,8 +774,8 @@
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>s/jobtalk/my</entry>
         <entry>%s/jobtalk_mail/mail/gc</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
