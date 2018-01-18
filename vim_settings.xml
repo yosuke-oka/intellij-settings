@@ -129,6 +129,12 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="48" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/legacyRedirect/actions/actions.class.php" timestamp="1516260330308">
+        <mark key="[" line="193" column="117" />
+        <mark key="]" line="194" column="3" />
+        <mark key="." line="194" column="3" />
+        <mark key="^" line="194" column="3" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/serializers/questionee_serializer.rb" timestamp="1515480677767">
         <mark key="[" line="2" column="121" />
         <mark key="]" line="3" column="32" />
@@ -441,11 +447,12 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1516094759112">
-        <mark key="[" line="863" column="2" />
-        <mark key="]" line="863" column="14" />
-        <mark key="^" line="863" column="14" />
-        <mark key="." line="863" column="14" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1516260357623">
+        <mark key="'" line="830" column="19" />
+        <mark key="[" line="866" column="19" />
+        <mark key="]" line="866" column="32" />
+        <mark key="^" line="866" column="32" />
+        <mark key="." line="866" column="32" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.sp.php" timestamp="1508736734907">
         <mark key="'" line="81" column="0" />
@@ -551,9 +558,9 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/account/actions/actions.class.php" timestamp="1516076567346">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/account/actions/actions.class.php" timestamp="1516260320827">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="116" />
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
@@ -569,77 +576,8 @@
         <mark key="." line="65" column="13" />
         <mark key="^" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/lib/tasks/retention_mail.rake" timestamp="1516250940653" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/actions.class.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="229" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="235" column="23" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="246" column="27" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="259" column="68" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="260" column="72" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="263" column="28" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="267" column="32" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="278" column="24" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" />
-      <jump line="58" column="51" filename="$USER_HOME$/work/jobtalk.jp/cron/jobtalk_partner_import_job.sh" />
-      <jump line="108" column="18" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/indexSuccess.sp.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
-      <jump line="104" column="0" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
-      <jump line="12" column="37" filename="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" />
-      <jump line="40" column="24" filename="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/registration/components/RegistrationRoot.tsx" />
-      <jump line="11" column="14" filename="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/my-jobtalk/components/links/My.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/business.jobtalk.jp/config/elastic_search.yml" />
-      <jump line="36" column="3" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
-      <jump line="73" column="2" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
-      <jump line="81" column="4" filename="$USER_HOME$/work/business.jobtalk.jp/app/services/company_search_service.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
-      <jump line="104" column="6" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
-      <jump line="108" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
-      <jump line="9" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
-      <jump line="67" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
-      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="20" column="38" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/myUser.class.php" />
-      <jump line="179" column="13" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
-      <jump line="152" column="29" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
-      <jump line="125" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
-      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
-      <jump line="59" column="9" filename="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" />
-      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/user/MemcachePersonalAttributeStore.class.php" />
-      <jump line="26" column="25" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="22" column="13" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="66" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="68" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="107" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="109" column="22" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="119" column="44" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="100" column="30" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttribution.class.php" />
-      <jump line="54" column="35" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="56" column="41" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="84" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="86" column="34" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="77" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="79" column="34" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalAttributionData.class.php" />
-      <jump line="14" column="4" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/work/jobtalk.jp/lib/user/UserPersonalContext.class.php" />
-      <jump line="5" column="23" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
-      <jump line="6" column="42" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
-      <jump line="4" column="15" filename="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/payslip_questionees_controller.rb" />
-      <jump line="34" column="64" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="6" column="13" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="7" column="14" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="12" column="24" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="15" column="32" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="20" column="32" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="26" column="32" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
-      <jump line="28" column="44" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/web/members/answer_introductions_spec.rb" />
       <jump line="6" column="22" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/member/payslip_questionees_spec.rb" />
       <jump line="110" column="25" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
@@ -672,6 +610,74 @@
       <jump line="53" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
       <jump line="57" column="2" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
       <jump line="58" column="12" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings/development.yml" />
+      <jump line="821" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="834" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="838" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="842" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="844" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="846" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="849" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="860" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="295" column="13" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="298" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="310" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="318" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="322" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="326" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="331" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="335" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="339" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="387" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="397" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="470" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="472" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="474" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="476" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="576" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="577" column="10" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="578" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="629" column="2" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="637" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="643" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="649" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="655" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="661" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="668" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="670" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="675" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="677" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="683" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="685" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="692" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="694" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="699" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="701" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="706" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="708" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="713" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="715" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="720" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="722" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="727" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="729" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="734" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="736" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="740" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="742" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="747" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="749" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="754" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="756" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="761" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="763" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="773" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="777" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="784" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="792" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="804" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="811" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="819" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="830" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -681,52 +687,52 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>5425261</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>legacy</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmdldFBhdGhJbmZvQXJyYXkoKVsiUkVESVJFQ1RfUVVFUllfU1RSSU5HIl0p</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlTWFpbFN1YnNjcmlwdGlvbihzZldlYlJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgJHRoaXMtPnJlZGlyZWN0KE15Sm9idGFsa1BhdGg6Om1haWxTdWJzY3JpcHRpb24oKS4nPycuJHJlcXVlc3QtPmdldFBhdGhJbmZvQXJyYXkoKVsiUkVESVJFQ1RfUVVFUllfU1RSSU5HIl0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbTWVtYmVyLmZpbmQoNTQyNTA2MSkK</text>
+        <text encoding="base64">ICAgICAgICBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG0gPSBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
+        <text encoding="base64">ICAgICAgICBbTWVtYmVyLmZpbmQoNTQyNTA2MSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cm1lbWJlcl9tYWlsX3N1YnNjcmlwdGlvbjoKICB1cmw6IC9tZW1iZXIvbWFpbF9zdWJzY3JpcHRpb24uaHRtbAogIHBhcmFtOiB7IG1vZHVsZTogYWNjb3VudCwgYWN0aW9uOiBtYWlsU3Vic2NyaXB0aW9uIH0KICBvcHRpb25zOiB7IGV4dHJhX3BhcmFtZXRlcnNfYXNfcXVlcnlfc3RyaW5nOiB0cnVlIH0K</text>
+        <text encoding="base64">ICAgIG0gPSBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWVtYmVyX21haWxfc3Vic2NyaXB0aW9uOgogIHVybDogL21lbWJlci9tYWlsX3N1YnNjcmlwdGlvbi5odG1sCiAgcGFyYW06IHsgbW9kdWxlOiBhY2NvdW50LCBhY3Rpb246IG1haWxTdWJzY3JpcHRpb24gfQogIG9wdGlvbnM6IHsgZXh0cmFfcGFyYW1ldGVyc19hc19xdWVyeV9zdHJpbmc6IHRydWUgfQo=</text>
+        <text encoding="base64">Cm1lbWJlcl9tYWlsX3N1YnNjcmlwdGlvbjoKICB1cmw6IC9tZW1iZXIvbWFpbF9zdWJzY3JpcHRpb24uaHRtbAogIHBhcmFtOiB7IG1vZHVsZTogYWNjb3VudCwgYWN0aW9uOiBtYWlsU3Vic2NyaXB0aW9uIH0KICBvcHRpb25zOiB7IGV4dHJhX3BhcmFtZXRlcnNfYXNfcXVlcnlfc3RyaW5nOiB0cnVlIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWVtYmVyX21haWxfc3Vic2NyaXB0aW9uOgogIHVybDogL21lbWJlci9tYWlsX3N1YnNjcmlwdGlvbi5odG1sCiAgcGFyYW06IHsgbW9kdWxlOiBhY2NvdW50LCBhY3Rpb246IG1haWxTdWJzY3JpcHRpb24gfQogIG9wdGlvbnM6IHsgZXh0cmFfcGFyYW1ldGVyc19hc19xdWVyeV9zdHJpbmc6IHRydWUgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBKQVNU6IKJ44OV44Kn44K5OiDjgrnjgqvjgqbjg4jjga7lj5fkv6HoqK3lrprjgoLjgZPjga7jg5rjg7zjgrjjgafjgafjgY3jgovjgojjgYbjgavjgZfjgZ/jgYTjgYzjgIFQSFLjga7jg6Hjg7zjg6vjgpLlpInmm7TjgZfjgarjgYTjgajjgYTjgZHjgarjgYTjga7jgacKICAgICAgICAvLyDkuIDml6bjgZPjgozjgb7jgafpgJrjgorjg63jgrDjgqTjg7PjgZfjgZ/kuIrjgafjgoTjgaPjgabjgoLjgonjgYbjgIIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>legacy</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>legacy</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -734,7 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>review</entry>
         <entry>visible</entry>
         <entry>answers</entry>
         <entry>executeAnswer</entry>
@@ -754,6 +759,7 @@
         <entry>jobtalk</entry>
         <entry>jobtalk_mail</entry>
         <entry>mail</entry>
+        <entry>legacy</entry>
       </history-search>
       <history-cmd>
         <entry>nooh</entry>
@@ -765,7 +771,6 @@
         <entry>'w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>%s/elasticsearch/elastic_search</entry>
         <entry>%s/elasticsearch/elastic_search/gc</entry>
         <entry>sp</entry>
@@ -775,6 +780,7 @@
         <entry>s/jobtalk/my</entry>
         <entry>%s/jobtalk_mail/mail/gc</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
