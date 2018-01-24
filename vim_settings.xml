@@ -47,6 +47,12 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="67" column="39" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/spec/requests/api/questionee_employment_types_spec.rb" timestamp="1516777944630">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/companies_controller.rb" timestamp="1510221517967">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="4" column="61" />
@@ -701,7 +707,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Prefs</text>
       </register>
       <register name="/" type="4">
         <text>maskEmail</text>
@@ -750,7 +756,7 @@
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
