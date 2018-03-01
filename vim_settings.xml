@@ -110,7 +110,12 @@
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/daily_tp_mail.text.erb" timestamp="1516177749514">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/lib/tasks/monitor.rake" timestamp="1518581315804" />
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/lib/tasks/monitor.rake" timestamp="1519885734190">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" timestamp="1511155340206">
         <mark key="'" line="2" column="6" />
         <mark key="[" line="65" column="0" />
@@ -215,6 +220,11 @@
         <mark key="." line="37" column="61" />
         <mark key="^" line="37" column="61" />
       </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/config/settings.yml" timestamp="1519885671628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="207" column="2" />
+        <mark key="]" line="207" column="21" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
         <mark key="[" line="144" column="36" />
@@ -251,6 +261,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/lib/slack/client.rb" timestamp="1519885986057">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/work/career.jobtalk.jp/app/views/job_referral_forms/_job_template_apply_btn.html.slim" timestamp="1501229133819">
         <mark key="[" line="7" column="12" />
@@ -449,7 +465,6 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/work/company-worker.jobtalk.jp/app/services/company_search/company/indexer.rb" timestamp="1518508962293" />
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/controllers/api/members_controller.rb" timestamp="1509081215363">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="5" column="43" />
@@ -606,7 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="101" column="29" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="344" column="7" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -706,6 +720,7 @@
       <jump line="48" column="33" filename="$USER_HOME$/work/jobtalk.jp/lib/util/StringUtil.class.php" />
       <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/logger/LoggerFacade.class.php" />
       <jump line="22" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/util/StringUtilTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -718,13 +733,13 @@
         <text>Prefs</text>
       </register>
       <register name="/" type="4">
-        <text>maskEmail</text>
+        <text>hip</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlTWFpbFN1YnNjcmlwdGlvbihzZldlYlJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgJHRoaXMtPnJlZGlyZWN0KE15Sm9idGFsa1BhdGg6Om1haWxTdWJzY3JpcHRpb24oKS4nPycuJHJlcXVlc3QtPmdldFBhdGhJbmZvQXJyYXkoKVsiUkVESVJFQ1RfUVVFUllfU1RSSU5HIl0pOwo=</text>
+      <register name="0" type="4">
+        <text>support_team_channel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIaXBjaGF0OjpOb3RpZmllcjo6bm90aWZ5KG1lc3NhZ2UsIHJvb206IFNldHRpbmdzLmFwaS5oaXBjaGF0LnN1cHBvcnRfcm9vbSwgdXNlcjogIuOCr+ODreODvOODqeODvOebo+imliIsIG5vdGlmeTogdHJ1ZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -733,34 +748,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdGVzdE1hc2tFbWFpbChsaW1lX3Rlc3QgJHQpCnsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImFob2dlQGxpdmVzZW5zZS5jby5qcCIpLCAiYSoqKipAbGl2ZXNlbnNlLmNvLmpwIiwgIuato+W4uOOCseODvOOCuSIpOwogICAgJHQtPmlzKFN0cmluZ1V0aWw6Om1hc2tFbWFpbCgib2dlQGxpdmVzZW5zZS5jby5qcCIpLCAiKioqQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImVAbGl2ZXNlbnNlLmNvLmpwIiksICIqQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoInBsZWFzZS1tYXNrLW1lKzEwMEBsaXZlc2Vuc2UuY28uanAiLCAwLjcsICfvvIonKSwgInBsZWFz77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yKQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImhvZ2Vob2dlQGxpdmVzZW5zZS5jby5qcCIsIDAuNSksICJob2dlKioqKkBsaXZlc2Vuc2UuY28uanAiLCAi5q2j5bi444Kx44O844K5Iik7CgogICAgJHQtPmlzKFN0cmluZ1V0aWw6Om1hc2tFbWFpbCgib2dlbGl2ZXNlbnNlLmNvLmpwIiksICJvZ2VsaXZlc2Vuc2UuY28uanAiLCAi44Oh44Ki44OJ44GM44GK44GL44GX44GE5pmC44Gv44Gd44Gu44G+44G+44GL44GI44Gj44Gm44GP44KLIik7CiAgICAkdC0+aXMoU3RyaW5nVXRpbDo6bWFza0VtYWlsKCJvZ2VAQGxpdmVzZW5zZS5jby5qcCIpLCAib2dlQEBsaXZlc2Vuc2UuY28uanAiLCAi44Oh44Ki44OJ44GM44GK44GL44GX44GE5pmC44Gv44Gd44Gu44G+44G+44GL44GI44Gj44Gm44GP44KLIik7Cn0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdE1hc2tFbWFpbChsaW1lX3Rlc3QgJHQpCnsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImFob2dlQGxpdmVzZW5zZS5jby5qcCIpLCAiYSoqKipAbGl2ZXNlbnNlLmNvLmpwIiwgIuato+W4uOOCseODvOOCuSIpOwogICAgJHQtPmlzKFN0cmluZ1V0aWw6Om1hc2tFbWFpbCgib2dlQGxpdmVzZW5zZS5jby5qcCIpLCAiKioqQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImVAbGl2ZXNlbnNlLmNvLmpwIiksICIqQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoInBsZWFzZS1tYXNrLW1lKzEwMEBsaXZlc2Vuc2UuY28uanAiLCAwLjcsICfvvIonKSwgInBsZWFz77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yK77yKQGxpdmVzZW5zZS5jby5qcCIsICLmraPluLjjgrHjg7zjgrkiKTsKICAgICR0LT5pcyhTdHJpbmdVdGlsOjptYXNrRW1haWwoImhvZ2Vob2dlQGxpdmVzZW5zZS5jby5qcCIsIDAuNSksICJob2dlKioqKkBsaXZlc2Vuc2UuY28uanAiLCAi5q2j5bi444Kx44O844K5Iik7CgogICAgJHQtPmlzKFN0cmluZ1V0aWw6Om1hc2tFbWFpbCgib2dlbGl2ZXNlbnNlLmNvLmpwIiksICJvZ2VsaXZlc2Vuc2UuY28uanAiLCAi44Oh44Ki44OJ44GM44GK44GL44GX44GE5pmC44Gv44Gd44Gu44G+44G+44GL44GI44Gj44Gm44GP44KLIik7CiAgICAkdC0+aXMoU3RyaW5nVXRpbDo6bWFza0VtYWlsKCJvZ2VAQGxpdmVzZW5zZS5jby5qcCIpLCAib2dlQEBsaXZlc2Vuc2UuY28uanAiLCAi44Oh44Ki44OJ44GM44GK44GL44GX44GE5pmC44Gv44Gd44Gu44G+44G+44GL44GI44Gj44Gm44GP44KLIik7Cn0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiAkZW1haWwg44GuIOODpuODvOOCtuODvOWQjeOBruacq+WwvuOCkiAkbWF4IOOBp+aMh+WumuOBleOCjOOBn+aWh+Wtl+OBpyAkbWFza1JhdGlvbiDjga7libLlkIjjgaDjgZHln4vjgoHjgosKICAgICAqCiAgICAgKiDjg6bjg7zjgrbjg7zlkI3plbfjgYwgJG1heExlbmd0aCDku6XkuIvjga7mmYLjga/jgZnjgbnjgabjg57jgrnjgq3jg7PjgrDjgZnjgosKICAgICAqCiAgICAgKiBAcGFyYW0gc3RyaW5nICRlbWFpbAogICAgICogQHBhcmFtIGZsb2F0ICRtYXNrUmF0aW8KICAgICAqIEBwYXJhbSBzdHJpbmcgJG1hc2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBtYXNrRW1haWwoJGVtYWlsLCAkbWFza1JhdGlvID0gMC43LCAkbWFzayA9ICcqJykKICAgIHsKICAgICAgICAkc3BsaXRlZEVtYWlsID0gZXhwbG9kZSgiQCIsJGVtYWlsKTsKICAgICAgICBpZiAoY291bnQoJHNwbGl0ZWRFbWFpbCkgIT0gMikgewogICAgICAgICAgICByZXR1cm4gJGVtYWlsOwogICAgICAgIH0KCiAgICAgICAgJG5hbWUgPSAkc3BsaXRlZEVtYWlsWzBdOwogICAgICAgICRkb21haW4gPSAkc3BsaXRlZEVtYWlsWzFdOwogICAgICAgICRuYW1lTGVuZ3RoID0gc3RybGVuKCRuYW1lKTsKCiAgICAgICAgJG1hc2tMZW5ndGggPSBjZWlsKCRuYW1lTGVuZ3RoICogJG1hc2tSYXRpbyk7CiAgICAgICAgJG5vbk1hc2tMZW5ndGggPSAkbmFtZUxlbmd0aCAtICRtYXNrTGVuZ3RoOwogICAgICAgIHJldHVybiBzdWJzdHIoJG5hbWUsIDAsICRub25NYXNrTGVuZ3RoKSAuIHN0cl9yZXBlYXQoJG1hc2ssICRtYXNrTGVuZ3RoKSAuICdAJyAuICRkb21haW47CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlawo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiAkZW1haWwg44GuIOODpuODvOOCtuODvOWQjeOBruacq+WwvuOCkiAkbWF4IOOBp+aMh+WumuOBleOCjOOBn+aWh+Wtl+OBpyAkbWFza1JhdGlvbiDjga7libLlkIjjgaDjgZHln4vjgoHjgosKICAgICAqCiAgICAgKiDjg6bjg7zjgrbjg7zlkI3plbfjgYwgJG1heExlbmd0aCDku6XkuIvjga7mmYLjga/jgZnjgbnjgabjg57jgrnjgq3jg7PjgrDjgZnjgosKICAgICAqCiAgICAgKiBAcGFyYW0gc3RyaW5nICRlbWFpbAogICAgICogQHBhcmFtIGZsb2F0ICRtYXNrUmF0aW8KICAgICAqIEBwYXJhbSBzdHJpbmcgJG1hc2sKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBtYXNrRW1haWwoJGVtYWlsLCAkbWFza1JhdGlvID0gMC43LCAkbWFzayA9ICcqJykKICAgIHsKICAgICAgICAkc3BsaXRlZEVtYWlsID0gZXhwbG9kZSgiQCIsJGVtYWlsKTsKICAgICAgICBpZiAoY291bnQoJHNwbGl0ZWRFbWFpbCkgIT0gMikgewogICAgICAgICAgICByZXR1cm4gJGVtYWlsOwogICAgICAgIH0KCiAgICAgICAgJG5hbWUgPSAkc3BsaXRlZEVtYWlsWzBdOwogICAgICAgICRkb21haW4gPSAkc3BsaXRlZEVtYWlsWzFdOwogICAgICAgICRuYW1lTGVuZ3RoID0gc3RybGVuKCRuYW1lKTsKCiAgICAgICAgJG1hc2tMZW5ndGggPSBjZWlsKCRuYW1lTGVuZ3RoICogJG1hc2tSYXRpbyk7CiAgICAgICAgJG5vbk1hc2tMZW5ndGggPSAkbmFtZUxlbmd0aCAtICRtYXNrTGVuZ3RoOwogICAgICAgIHJldHVybiBzdWJzdHIoJG5hbWUsIDAsICRub25NYXNrTGVuZ3RoKSAuIHN0cl9yZXBlYXQoJG1hc2ssICRtYXNrTGVuZ3RoKSAuICdAJyAuICRkb21haW47CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNZW1iZXIuZmluZCg1NDI1MDYxKQo=</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maskEmail</last-search>
+      <last-search>hip</last-search>
       <last-offset />
-      <last-pattern>maskEmail</last-pattern>
+      <last-pattern>hip</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -768,8 +783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
-        <entry>last_modifi</entry>
         <entry>_</entry>
         <entry>elasticsearch</entry>
         <entry>provisional</entry>
@@ -788,10 +801,10 @@
         <entry>mask</entry>
         <entry>subscription</entry>
         <entry>maskEmail</entry>
+        <entry>slack</entry>
+        <entry>hip</entry>
       </history-search>
       <history-cmd>
-        <entry>nooh</entry>
-        <entry>nph</entry>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
         <entry>lw</entry>
         <entry>e</entry>
@@ -801,14 +814,16 @@
         <entry>vsp</entry>
         <entry>%s/elasticsearch/elastic_search</entry>
         <entry>%s/elasticsearch/elastic_search/gc</entry>
-        <entry>sp</entry>
         <entry>t</entry>
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>s/jobtalk/my</entry>
         <entry>%s/jobtalk_mail/mail/gc</entry>
-        <entry>noh</entry>
+        <entry>NERDTreeToggle</entry>
+        <entry>sp</entry>
         <entry>q</entry>
+        <entry>oh</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
