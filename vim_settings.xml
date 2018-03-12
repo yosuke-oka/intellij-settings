@@ -303,7 +303,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/monitor/company_display_watcher.rb" timestamp="1520229734472" />
       <file name="$USER_HOME$/work/jobtalk.jp/lib/form/jobtalk/MemberRegisterPartnerForm.class.php" timestamp="1503472846741">
         <mark key="[" line="67" column="12" />
         <mark key="]" line="68" column="7" />
@@ -429,6 +428,7 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ares.jobtalk.jp/.env" timestamp="1520837845471" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-answer-post/components/answers/AnswerForm.tsx" timestamp="1515558593756">
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="31" />
