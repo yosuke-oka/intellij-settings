@@ -201,6 +201,12 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/work/my.jobtalk.jp/spec/services/subscription/unsafe_token_cipher_spec.rb" timestamp="1521191731523">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="82" />
+        <mark key="." line="32" column="14" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityOnlyFirstPage.class.php" timestamp="1506670752983">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="17" />
@@ -619,12 +625,11 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/services/subscription/unsafe_token_cipher.rb" timestamp="1521104182357">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/work/my.jobtalk.jp/app/services/subscription/unsafe_token_cipher.rb" timestamp="1521191665396">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="56" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/lib/partner/recruitAgent/PartnerRecruitAgentWorkLoadDataConverterTest.php" timestamp="1500880129964">
         <mark key="[" line="81" column="43" />
@@ -749,7 +754,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Im1lbWJlcl9pZDogMV8wMDBfMDAwLCBlbmNyeXB0ZWRfaWQ6IA==</text>
       </register>
       <register name="/" type="4">
         <text>hip</text>
@@ -758,34 +763,42 @@
         <text encoding="base64">ICAgIEBlbmNyeXB0ZWRfaWQmLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdJi5oZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbWVtYmVyX2lkID0gQGVuY3J5cHRlZF9pZCYucmV2ZXJzZVtERUZBVUxUX0NIRUNLX0RJR0lULi4tMV0mLmhleAo=</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXJpZHNfd2l0aF91bnNhZmVfdG9rZW4uZWFjaCBkbyB8bWVtYmVyfAogICAgICAgICAgY2lwaGVyLmVuY3J5cHRlZF9pZCA9IG1lbWJlcls6ZW5jcnlwdGVkX2lkXQogICAgICAgICAgZXhwZWN0KGNpcGhlci5kZWNyeXB0KS50byBlcShtZW1iZXJbOm1lbWJlcl9pZF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBtZW1iZXJfaWQKICAgIEBlbmNyeXB0ZWRfaWQmLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdJi5oZXgKICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgQGVuY3J5cHRlZF9pZC5yZXZlcnNlW0RFRkFVTFRfQ0hFQ0tfRElHSVQuLi0xXS5oZXgK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text># member.idとmember.idを符号化したencrypted_idのセット
+      # jobtalk本体で生成されるトークンなので、べた書きしている
+      let(:memberids_with_unsafe_token) do
+        [
+          { member_id: 5_153_185, encrypted_id: &quot;1a1ae4a886a5a1738e598b9d7ef1233&quot; },
+          { member_id: 1_000_000, encrypted_id: &quot;0424fb28c6fd2c6e2fb4597caeaf52&quot; },
+          { member_id: 1, encrypted_id: &quot;16df8d8caedd8ce052d923f6e7&quot; }
+        ]
+      end</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtZW1iZXJfaWQK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtZW1iZXJfaWQgPSBAZW5jcnlwdGVkX2lkLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdLmhleAo=</text>
+        <text encoding="base64">ICAgICMg5q2j5bi457O7CiAgICBjb250ZXh0ICIyNuaWh+Wtl+S7peS4iuOBruOBqOOBjSIgZG8KICAgICAgaXQgZG8KICAgICAgICBjaXBoZXIuZW5jcnlwdGVkX2lkID0gImEiICogMjYKICAgICAgICBleHBlY3QoY2lwaGVyLnZhbGlkPykudG8gYmUgdHJ1ZQogICAgICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtZW1iZXJfaWQgPSBAZW5jcnlwdGVkX2lkLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdLmhleAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSB1bmxlc3MgZGVjcnlwdGVkX2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbmls44Gn44Gq44GEIEFORCDplbfjgZXjgYxERUZBVUxUX0NIRUNLX0RJR0lU44KI44KK6ZW344GE5aC05ZCI44GrdmFsaWQKICAgIEBlbmNyeXB0ZWRfaWQucHJlc2VudD8gJiYgZW5jcnlwdGVkX2lkLnNpemUgPiBERUZBVmtVTFRfQ0hFQ0tfRElHSVQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -830,7 +843,6 @@
         <entry>94</entry>
         <entry>'w</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
-        <entry>vsp</entry>
         <entry>%s/elasticsearch/elastic_search</entry>
         <entry>%s/elasticsearch/elastic_search/gc</entry>
         <entry>t</entry>
@@ -843,6 +855,7 @@
         <entry>q</entry>
         <entry>oh</entry>
         <entry>noh</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
