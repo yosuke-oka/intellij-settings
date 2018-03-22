@@ -185,12 +185,11 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1509349527553">
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/models/member.rb" timestamp="1521700838981">
         <mark key="'" line="12" column="37" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="103" />
-        <mark key="^" line="11" column="103" />
-        <mark key="." line="11" column="103" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/remind_mail.html.erb" timestamp="1516177733429">
         <mark key="'" line="0" column="0" />
@@ -364,6 +363,7 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/app/members/emails/confirmationRequests/show.ts" timestamp="1521699968327" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/careers_controller.rb" timestamp="1502271877241">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="11" column="4" />
@@ -754,43 +754,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text encoding="base64">IGlmIE1lbWJlckVtYWlsLmV4aXN0cz8oZW1haWw6IGVtYWlsKQ==</text>
       </register>
       <register name="/" type="4">
         <text>hip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBlbmNyeXB0ZWRfaWQmLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdJi5oZXgK</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2UgaG9nZSAiIGlmIE1lbWJlckVtYWlsLmV4aXN0cz8oZW1haWw6IGVtYWlsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZW5jcnlwdGVkX2lk44GvKGlkLCDjg6Hjg7zjg6vjgqLjg4njg6zjgrkp44Gn55Sf5oiQ44GV44KM44KLCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2UgaG9nZSBhYWFhYWFhYWFhYWFhYWFhYWFhYSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZW5jcnlwdGVkX2lk44GvKGlkLCDjg6Hjg7zjg6vjgqLjg4njg6zjgrkp44Gn55Sf5oiQ44GV44KM44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgI2l0X2JlaGF2ZXNfbGlrZSAiaW52YWxpZCB3aXRoIiwgZW5jcnlwdGVkX2lkOiAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgI2l0X2JlaGF2ZXNfbGlrZSAiaW52YWxpZCB3aXRoIiwgZW5jcnlwdGVkX2lkOiAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW4gPSAiMDQyNGZiMjhjNmZkMmM2ZTJmYjQ1OTdjYWVhZjUyIgogICAgICBpZCA9IHRva2VuLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdJi5oZXgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgdG9rZW4gPSAiMDQyNGZiMjhjNmZkMmM2ZTJmYjQ1OTdjYWVhZjUyIgogICAgICBpZCA9IHRva2VuLnJldmVyc2VbREVGQVVMVF9DSEVDS19ESUdJVC4uLTFdJi5oZXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJpZHNfd2l0aF91bnNhZmVfdG9rZW4uZWFjaCBkbyB8bWVtYmVyfAogICAgICAgICAgY2lwaGVyLmVuY3J5cHRlZF9pZCA9IG1lbWJlcls6ZW5jcnlwdGVkX2lkXQogICAgICAgICAgZXhwZWN0KGNpcGhlci5kZWNyeXB0KS50byBlcShtZW1iZXJbOm1lbWJlcl9pZF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXJpZHNfd2l0aF91bnNhZmVfdG9rZW4uZWFjaCBkbyB8bWVtYmVyfAogICAgICAgICAgY2lwaGVyLmVuY3J5cHRlZF9pZCA9IG1lbWJlcls6ZW5jcnlwdGVkX2lkXQogICAgICAgICAgZXhwZWN0KGNpcGhlci5kZWNyeXB0KS50byBlcShtZW1iZXJbOm1lbWJlcl9pZF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
