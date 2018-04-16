@@ -1,5 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="version" value="2.1.5.3" />
   </component>
 </application>
