@@ -9,6 +9,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1523943381009">
+        <mark key="'" line="114" column="17" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/views/layouts/ratings.html.slim" timestamp="1500541401885">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="28" />
@@ -69,12 +75,6 @@
         <mark key="]" line="6" column="9" />
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spSalaries.php" timestamp="1523864287067">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/companies_controller.rb" timestamp="1510221517967">
         <mark key="[" line="4" column="62" />
@@ -262,10 +262,6 @@
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1523864001263">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="94" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/common/PartnerMediaChecker.class.php" timestamp="1499662747691">
         <mark key="[" line="29" column="34" />
@@ -324,7 +320,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" timestamp="1508315404503">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" timestamp="1523943215383">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="34" column="41" />
         <mark key="." line="34" column="41" />
@@ -416,11 +412,9 @@
         <mark key="^" line="124" column="8" />
         <mark key="." line="124" column="8" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spReviews.php" timestamp="1523864263239">
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spReviews.php" timestamp="1523943264342">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="90" />
-        <mark key="." line="34" column="15" />
-        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/model/jobtalk/Company.php" timestamp="1506921920889">
         <mark key="'" line="129" column="20" />
@@ -531,7 +525,7 @@
         <mark key="^" line="64" column="4" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spExams.php" timestamp="1523864106872">
-        <mark key="'" line="42" column="15" />
+        <mark key="'" line="40" column="15" />
         <mark key="[" line="18" column="73" />
         <mark key="]" line="18" column="76" />
         <mark key="." line="18" column="76" />
@@ -594,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="834" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="838" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="842" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="844" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -694,6 +687,7 @@
       <jump line="157" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcExams.php" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcExams.php" />
+      <jump line="115" column="17" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -703,52 +697,52 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$counter</text>
       </register>
       <register name="/" type="4">
-        <text>answer</text>
+        <text>spreview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8YSBocmVmPSI8P3BocCByZWNobyh1cmxfZm9yKCdjb21wYW55X2Fuc3dlcicsIFsnaWQnID0+ICRhbnN3ZXJbJ2lkJ11dKSk/PiI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSAkdGhpcy0+Y29tcGFueS0+Z2V0QW5zd2Vyc0NvdW50ZXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPD9waHAgZHVtcCgkZXhhbSkK</text>
-      </register>
-      <register name="5" type="8">
+      <register name="3" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPD9waHAgZHVtcCgkZXhhbSkK</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ib3RoZXItc3RhdHVzIj4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjw/cGhwIGgoJGFuc3dlclsnYWdlUmFuZ2UnXSkgPz48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48P3BocCBoKCRhbnN3ZXJbJ3Bvc2l0aW9uJ10pID8+PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImFnZS1yYW5nZSI+PD9waHAgaCgkYW5zd2VyWydhZ2VSYW5nZSddKSA/Pjwvc3Bhbj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iPD9waHAgcmVjaG8odXJsX2ZvcignY29tcGFueV9hbnN3ZXInLCBbJ2lkJyA9PiAkYW5zd2VyWydpZCddXSkpPz4iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImFnZS1yYW5nZSI+PD9waHAgaCgkYW5zd2VyWydhZ2VSYW5nZSddKSA/Pjwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>answer</last-search>
+      <last-search>spreview</last-search>
       <last-offset />
-      <last-pattern>answer</last-pattern>
+      <last-pattern>spreview</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -756,7 +750,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storeTracking</entry>
         <entry>store</entry>
         <entry>tracking</entry>
         <entry>member</entry>
@@ -776,6 +769,7 @@
         <entry>sara</entry>
         <entry>salar</entry>
         <entry>answer</entry>
+        <entry>spreview</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
