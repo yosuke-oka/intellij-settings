@@ -371,6 +371,9 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1523947145512">
+        <mark key="'" line="81" column="45" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/components.class.php" timestamp="1508388811343">
         <mark key="'" line="216" column="24" />
         <mark key="[" line="45" column="0" />
@@ -461,8 +464,8 @@
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1523864001263">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1523859691108">
-        <mark key="'" line="157" column="26" />
+      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" timestamp="1523947134494">
+        <mark key="'" line="215" column="8" />
         <mark key="[" line="836" column="0" />
         <mark key="]" line="836" column="64" />
         <mark key="^" line="836" column="64" />
@@ -610,8 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="318" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="322" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="326" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="331" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -710,6 +711,8 @@
       <jump line="3" column="12" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spGeneralEvaluation.php" />
       <jump line="0" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spGeneralEvaluation.php" />
       <jump line="15" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.sp.php" />
+      <jump line="215" column="8" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
+      <jump line="81" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -722,7 +725,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>spreview</text>
+        <text>guide</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGRpdiBjbGFzcz0iYy1jb21wYW55LWNvbnRlbnRzIGRldmlkZS1jb21wYW55LWNvbnRlbnRzIj4K</text>
@@ -758,13 +761,13 @@
         <text encoding="base64">ICAgIDw/cGhwIGluY2x1ZGVfY29tcG9uZW50KCdjb21wYW55JywgJ3JhZGVyQ2hhcnQnLCBhcnJheSgnY29tcGFueScgPT4gJGNvbXBhbnksICd3aWR0aCcgPT4gMzAwIC0gMjAsICdoZWlnaHQnID0+IDIyMCwgJ2NsYXNzTmFtZScgPT4gJ3RvcC1yYWRlci1jaGFydCcsICdtaW5pbWFsJyA9PiB0cnVlKSApPz4KICAgIDxhIGNsYXNzPSJncmFwaC1saW5rIiBocmVmPSI8P3BocCByZWNobyh1cmxfZm9yKCdncmFwaC9pbmRleD9pZD0nLiRjb21wYW55LT5nZXRJZCgpKSkgPz4iPuipleeCueOCkuOCguOBo+OBqOimi+OCizwvYT4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>spreview</last-search>
+      <last-search>guide</last-search>
       <last-offset />
-      <last-pattern>spreview</last-pattern>
+      <last-pattern>guide</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -772,8 +775,6 @@
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
-        <entry>tracking</entry>
         <entry>member</entry>
         <entry>mail_sub</entry>
         <entry>mail_subscription</entry>
@@ -792,6 +793,8 @@
         <entry>salar</entry>
         <entry>answer</entry>
         <entry>spreview</entry>
+        <entry>register_guide</entry>
+        <entry>guide</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
@@ -809,11 +812,11 @@
         <entry>%s/jobtalk_mail/mail/gc</entry>
         <entry>NERDTreeToggle</entry>
         <entry>oh</entry>
-        <entry>noh</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
