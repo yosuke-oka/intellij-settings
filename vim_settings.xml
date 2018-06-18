@@ -106,8 +106,8 @@
         <mark key="^" line="4" column="77" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="$USER_HOME$/work/my.jobtalk.jp/app/views/web/members/register_provisional_completes/show.html.slim" timestamp="1521706400943">
-        <mark key="[" line="23" column="39" />
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" timestamp="1529302406239">
+        <mark key="'" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/partner/common/PartnerMediaChecker.class.php" timestamp="1499662747691">
         <mark key="[" line="29" column="34" />
@@ -276,6 +276,9 @@
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/lib/test/MemberTestFunctional.class.php" timestamp="1529302815623">
+        <mark key="'" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/spec/services/helper/url_spec.rb" timestamp="1516254611934">
         <mark key="[" line="37" column="7" />
@@ -576,6 +579,7 @@
         <mark key="." line="18" column="76" />
         <mark key="^" line="18" column="76" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/test/functional/frontend/loginActionsTest.php" timestamp="1529302811651" />
       <file name="$USER_HOME$/work/jobtalk.jp/test/unit/task/partner/doda/partnerDodaClientExecuteLoadDataTaskTest.php" timestamp="1499852192175">
         <mark key="[" line="79" column="50" />
         <mark key="]" line="80" column="3" />
@@ -614,19 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="335" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="339" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="387" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="397" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="470" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="472" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="474" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="476" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="576" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="577" column="10" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="578" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="629" column="2" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="637" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="643" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="649" column="36" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -714,6 +705,19 @@
       <jump line="81" column="45" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" />
       <jump line="41" column="0" filename="$USER_HOME$/work/jobtalk.jp/web/css/sp/application.css" />
       <jump line="232" column="27" filename="$USER_HOME$/work/jobtalk.jp/web/css/sp/application.css" />
+      <jump line="2" column="6" filename="$USER_HOME$/work/jobtalk.jp/lib/test/MemberTestFunctional.class.php" />
+      <jump line="37" column="8" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="61" column="53" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="60" column="88" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="66" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="73" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="79" column="15" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="84" column="63" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="2" column="12" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="4" column="13" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="6" column="40" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="8" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
+      <jump line="15" column="23" filename="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -726,7 +730,7 @@
         <text>allocate_registration</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2ZDb25maWc6OmdldCgnYXBwX215X2pvYnRhbGtfZW5kcG9pbnQnKSAuICdjbGllbnQvYW5zd2Vycyc7Cg==</text>
@@ -766,18 +770,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jobtalk_mail</entry>
-        <entry>mail</entry>
         <entry>legacy</entry>
         <entry>mask</entry>
         <entry>subscription</entry>
@@ -796,6 +798,8 @@
         <entry>head</entry>
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>login</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
