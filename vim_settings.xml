@@ -234,6 +234,12 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/db/migrate/20180630105436_add_is_published_to_facilities.rb" timestamp="1530424167586">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="2" column="78" />
+        <mark key="^" line="2" column="78" />
+        <mark key="." line="2" column="78" />
+      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/recommend_mail.html.erb" timestamp="1516177692090">
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="39" />
@@ -535,7 +541,7 @@
         <mark key="^" line="16" column="106" />
         <mark key="." line="16" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529824123561">
+      <file name="/Dummy.txt" timestamp="1530424312570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/my_jobtalk/MyJobtalkPath.class.php" timestamp="1524019796237">
@@ -782,7 +788,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -836,8 +842,8 @@
         <entry>q</entry>
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
