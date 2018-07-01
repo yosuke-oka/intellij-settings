@@ -215,6 +215,9 @@
         <mark key="^" line="25" column="35" />
         <mark key="." line="25" column="35" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/db/schema.rb" timestamp="1530425735229">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/services/subscription/unsafe_token_cipher.rb" timestamp="1521191665396">
         <mark key="'" line="18" column="27" />
         <mark key="[" line="32" column="0" />
@@ -422,6 +425,11 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/dashboards/facility_dashboard.rb" timestamp="1530426225033">
+        <mark key="]" line="89" column="17" />
+        <mark key="^" line="89" column="17" />
+        <mark key="." line="89" column="17" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/assets/sass/desktop/pages/company/_headings.scss" timestamp="1506565585743">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="25" column="0" />
@@ -579,12 +587,12 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="48" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/locales/ja.yml" timestamp="1529827050702">
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/locales/ja.yml" timestamp="1530426158140">
         <mark key="'" line="360" column="35" />
-        <mark key="[" line="229" column="31" />
-        <mark key="]" line="229" column="30" />
-        <mark key="^" line="229" column="30" />
-        <mark key="." line="229" column="30" />
+        <mark key="[" line="214" column="23" />
+        <mark key="]" line="215" column="23" />
+        <mark key="^" line="215" column="23" />
+        <mark key="." line="215" column="23" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" timestamp="1524448934892">
         <mark key="'" line="109" column="17" />
@@ -638,7 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="675" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="677" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="683" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="685" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -738,6 +745,7 @@
       <jump line="40" column="8" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/locales/ja.yml" />
       <jump line="359" column="21" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/locales/ja.yml" />
       <jump line="360" column="35" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/locales/ja.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -747,13 +755,14 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>allocate_registration</text>
+        <text>is_publieecd</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>facilities</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>,
+    :deleted_a</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVudGVycHJpc2VfZmxhZwo=</text>
@@ -790,17 +799,16 @@
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>facilities</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>facilities</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>slack</entry>
         <entry>hip</entry>
         <entry>available</entry>
         <entry>5</entry>
@@ -811,7 +819,6 @@
         <entry>register_guide</entry>
         <entry>guide</entry>
         <entry>noreview</entry>
-        <entry>head</entry>
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>login</entry>
@@ -820,6 +827,8 @@
         <entry>enter</entry>
         <entry>enterprise</entry>
         <entry>true</entry>
+        <entry>head</entry>
+        <entry>facilities</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
