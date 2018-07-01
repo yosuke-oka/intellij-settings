@@ -132,6 +132,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/views/publishers/facilities/_form.html.slim" timestamp="1530427629111">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="191" column="39" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/AnswerViewLimitABTesting.class.php" timestamp="1503647606474">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="32" />
@@ -755,44 +761,43 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>is_publieecd</text>
+        <text>チェックボックスを入れると、メーカーに施設が公開されます</text>
       </register>
       <register name="/" type="4">
         <text>facilities</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-    :deleted_a</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3Bhbi5sYWJlbC10ZXh0IOWbveexjQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudGVycHJpc2VfZmxhZwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWlucHV0CiAgICAgICAgICAgIC5jaGVjay1zZWxlY3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY291bnRlciA9ICR0aGlzLT5jb21wYW55LT5nZXRBbnN3ZXJzQ291bnRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA9IGYuY2hlY2tfYm94IDppc19wdWJsaXNoZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gc2ZDb25maWc6OmdldCgnYXBwX215X2pvYnRhbGtfZW5kcG9pbnQnKSAuICdhbGxvY2F0ZV9yZWdpc3RyYXRpb24nOwogICAgICAgIGlmICghZW1wdHkoJHBhcmFtcykpIHsKICAgICAgICAgICAgJHVybCA9ICR1cmwgLiAnPycgLiBodHRwX2J1aWxkX3F1ZXJ5KCRwYXJhbXMpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHVybDsK</text>
+        <text encoding="base64">ICAgICAgICAgIC5mb3JtLWxhYmVsCiAgICAgICAgICAgIHNwYW4ubGFiZWwtdGV4dCDjg4Hjgqfjg4Pjgq/jg5zjg4Pjgq/jgrnjgpLlhaXjgozjgovjgajjgIHjg6Hjg7zjgqvjg7zjgavmlr3oqK3jgYzlhazplovjgZXjgozjgb7jgZkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA9IGYubGFiZWwgIuODoeODvOOCq+ODvOOBq+aWveioreOCkuWFrOmWi+OBmeOCiyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBmLnNlbGVjdCggXAogICAgICAgICAgICAgIDpnZW5lcmF0aW9uLCBcCiAgICAgICAgICAgICAgRmFjaWxpdHkuZ2VuZXJhdGlvbnMua2V5cy50b19hLCBcCiAgICAgICAgICAgICAgaW5jbHVkZV9ibGFuazogIumBuOaKnuOBl+OBpuOBj+OBoOOBleOBhCIsIFwKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1jb21wYW55LWNvbnRlbnRzIGRldmlkZS1jb21wYW55LWNvbnRlbnRzIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBmLmxhYmVsIDpnZW5lcmF0aW9uLCAi5Li76KaB5bm06b2i5bGkIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">XSk/Pgo=</text>
+        <text encoding="base64">ICAgICAgLmZvcm0tZ3JvdXAtaGVhZGVyCiAgICAgICAgaDQuZm9ybS1ncm91cC10aXRsZQogICAgICAgICAgc3Bhbi5udW1iZXJpbmcgMgogICAgICAgICAgfCDliKnnlKjogIXlsZ7mgKfjga7lhaXlipsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuYy1mb3JtLWdyb3VwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgIGVudGVycHJpc2VfZmxhZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,7 +810,7 @@
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
