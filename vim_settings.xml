@@ -26,8 +26,12 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/common/basic-form.scss" timestamp="1532006133837">
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/common/basic-form.scss" timestamp="1532007675475">
         <mark key="'" line="144" column="15" />
+        <mark key="[" line="139" column="19" />
+        <mark key="]" line="139" column="19" />
+        <mark key="^" line="139" column="19" />
+        <mark key="." line="139" column="19" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/actions/components.class.php" timestamp="1508467145877">
         <mark key="'" line="278" column="24" />
@@ -260,6 +264,10 @@
         <mark key="^" line="2" column="78" />
         <mark key="." line="2" column="78" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/publishers/publishers_company_edit.scss" timestamp="1532007044272">
+        <mark key="[" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/views/magazine_mailer/recommend_mail.html.erb" timestamp="1516177692090">
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="39" />
@@ -275,9 +283,9 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/publishers/publisers_new.scss" timestamp="1532006303892">
-        <mark key="[" line="203" column="24" />
-        <mark key="]" line="204" column="22" />
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/publishers/publisers_new.scss" timestamp="1532007039936">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="205" column="4" />
         <mark key="^" line="204" column="22" />
         <mark key="." line="204" column="22" />
       </file>
@@ -791,10 +799,10 @@
         <text>label</text>
       </register>
       <register name="/" type="4">
-        <text>male</text>
+        <text>spro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAxM3B4OwogICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">ICAgIC5yYWRpby1sYWJlbCB7CiAgICAgIGZvbnQtc2l6ZTogMTNweDsKICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgIG1hcmdpbi1yaWdodDogOHB4OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgbWFyZ2luOiAwOwo=</text>
@@ -831,9 +839,9 @@
       </register>
     </registers>
     <search>
-      <last-search>male</last-search>
+      <last-search>spro</last-search>
       <last-offset />
-      <last-pattern>male</last-pattern>
+      <last-pattern>spro</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -841,7 +849,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5</entry>
         <entry>sara</entry>
         <entry>salar</entry>
         <entry>answer</entry>
@@ -861,6 +868,7 @@
         <entry>facilities</entry>
         <entry>mail</entry>
         <entry>male</entry>
+        <entry>spro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
