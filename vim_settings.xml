@@ -249,9 +249,6 @@
         <mark key="^" line="25" column="35" />
         <mark key="." line="25" column="35" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/db/schema.rb" timestamp="1530425735229">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/suppliers/page/facility/index.scss" timestamp="1532242113340">
         <mark key="[" line="45" column="23" />
         <mark key="]" line="45" column="23" />
@@ -286,9 +283,6 @@
         <mark key="^" line="67" column="39" />
         <mark key="." line="67" column="39" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/member/actions/actions.class.php" timestamp="1529395338769">
-        <mark key="'" line="81" column="45" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.php" timestamp="1508315398199">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="91" />
@@ -300,9 +294,6 @@
         <mark key="]" line="205" column="4" />
         <mark key="^" line="204" column="22" />
         <mark key="." line="204" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/web/css/sp/application.css" timestamp="1524449952759">
-        <mark key="'" line="232" column="27" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/lib/auth/__tests__/authenticate.spec.js" timestamp="1504692908435">
         <mark key="[" line="15" column="37" />
@@ -336,9 +327,6 @@
         <mark key="." line="148" column="15" />
         <mark key="^" line="148" column="15" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/test/MemberTestFunctional.class.php" timestamp="1529302815623">
-        <mark key="'" line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spChart.php" timestamp="1523945575930">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -370,17 +358,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/docker-compose.yml" timestamp="1529825047065">
-        <mark key="'" line="12" column="13" />
-      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/magazine/base/simple_deliver.rb" timestamp="1516250867409">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="26" column="21" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" timestamp="1523948856720">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/memcache/PersonalAttributionMemcache.class.php" timestamp="1511155360697">
         <mark key="'" line="59" column="9" />
@@ -475,6 +457,12 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1532249653633">
+        <mark key="[" line="103" column="43" />
+        <mark key="]" line="103" column="54" />
+        <mark key="^" line="103" column="54" />
+        <mark key="." line="103" column="54" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/careers_controller.rb" timestamp="1521701421962">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="11" column="4" />
@@ -542,9 +530,6 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/member/MemberUser.class.php" timestamp="1529302406239">
-        <mark key="'" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/work/business.jobtalk.jp/app/controllers/companies_controller.rb" timestamp="1510221517967">
         <mark key="[" line="4" column="62" />
