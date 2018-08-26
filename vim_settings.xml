@@ -621,6 +621,12 @@
         <mark key="^" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/initializers/devise.rb" timestamp="1535283027561">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/spec/services/helper/url_spec.rb" timestamp="1516254611934">
         <mark key="[" line="37" column="7" />
         <mark key="]" line="37" column="0" />
@@ -805,7 +811,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>aircatalog@gmail.com</text>
       </register>
       <register name="/" type="4">
         <text>set_category</text>
@@ -844,7 +850,7 @@
         <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBrueZuumAgeOCkuOBiumhmOOBhOOBl+OBvuOBmScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/set_category/add_category/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -898,8 +904,8 @@
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>%s/set_category/add_category/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
