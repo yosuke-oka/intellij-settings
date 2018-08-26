@@ -136,6 +136,12 @@
         <mark key="." line="37" column="61" />
         <mark key="^" line="37" column="61" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/environments/development.rb" timestamp="1535271050862">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/config/app.yml" timestamp="1505110054905">
         <mark key="'" line="20" column="60" />
         <mark key="[" line="70" column="36" />
@@ -452,11 +458,12 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1535255909462">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="98" column="54" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1535270693974">
+        <mark key="'" line="115" column="50" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/member/careers_controller.rb" timestamp="1521701421962">
         <mark key="'" line="9" column="0" />
@@ -686,16 +693,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="729" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="734" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="736" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="740" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="742" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="747" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="749" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="754" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="756" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="761" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="763" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="773" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="777" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -786,6 +783,16 @@
       <jump line="89" column="56" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/Gemfile" />
       <jump line="2" column="16" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/Gemfile" />
       <jump line="25" column="34" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/Gemfile" />
+      <jump line="18" column="8" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="77" column="8" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="78" column="6" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="89" column="36" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="91" column="8" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="92" column="6" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="103" column="45" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="105" column="7" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="106" column="6" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="115" column="50" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -795,52 +802,52 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>secrets.sendgrid_api_key,</text>
       </register>
       <register name="/" type="4">
-        <text>ruby</text>
+        <text>to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5yYWRpby1sYWJlbCB7CiAgICAgIGZvbnQtc2l6ZTogMTNweDsKICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgIG1hcmdpbi1yaWdodDogOHB4OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdG86ICJ5Lm9rYTcxMUBnbWFpbC5jb20iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYXJpY2F0YWxvZ+OAkeWVhuWTgeOBjOeZuumAgeOBleOCjOOBvuOBl+OBnycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeeUs+iri+OBjOioseWPr+OBleOCjOOBvuOBm+OCk+OBp+OBl+OBnycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBrueZuumAgeOCkuOBiumhmOOBhOOBl+OBvuOBmScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBjOioseWPr+OBleOCjOOBvuOBl+OBnycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBjOeUs+iri+OBleOCjOOBvuOBl+OBnycpCg==</text>
+        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYXJpY2F0YWxvZ+OAkeWVhuWTgeOBjOeZuumAgeOBleOCjOOBvuOBl+OBnycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gdW5sZXNzIGZhY2lsaXR5LnB1Ymxpc2hlZD8KICAgICAgICAgICAgICAgICAgcC5kYXRhLXRleHQg6Z2e5YWs6ZaLCg==</text>
+        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeeUs+iri+OBjOioseWPr+OBleOCjOOBvuOBm+OCk+OBp+OBl+OBnycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBrueZuumAgeOCkuOBiumhmOOBhOOBl+OBvuOBmScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBjOioseWPr+OBleOCjOOBvuOBl+OBnycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BhbmQK</text>
+        <text encoding="base64">ICAgICNtYWlsKHRvOiAnaGlzYW1hdHN1QGdtYWlsLmNvbScsIGZyb206IENvbnN0YW50czo6TUFJTF9GUk9NLCBzdWJqZWN0OiAn44CQYWlyY2F0YWxvZ+OAkeWVhuWTgeOBjOeUs+iri+OBleOCjOOBvuOBl+OBnycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ruby</last-search>
+      <last-search>to</last-search>
       <last-offset />
-      <last-pattern>ruby</last-pattern>
+      <last-pattern>to</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
@@ -848,7 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>answer</entry>
         <entry>spreview</entry>
         <entry>register_guide</entry>
         <entry>guide</entry>
@@ -868,6 +874,7 @@
         <entry>spro</entry>
         <entry>publish</entry>
         <entry>ruby</entry>
+        <entry>to</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
@@ -885,11 +892,11 @@
         <entry>oh</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>split</entry>
         <entry>Unite -start-insert file_rec/async:!</entry>
-        <entry>noh</entry>
         <entry>q</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
