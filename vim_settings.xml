@@ -316,6 +316,7 @@
         <mark key="." line="38" column="56" />
         <mark key="^" line="38" column="56" />
       </file>
+      <file name="$USER_HOME$/work/jobtalk.jp/assets/javascripts/front/modules/layout/laABTestTracking.js" timestamp="1536648345013" />
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/answers/actions/actions.class.php" timestamp="1536644042637">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="30" column="14" />
@@ -592,9 +593,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="34" column="51" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530425196176">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/RevealAnswerDetailABTesting.class.php" timestamp="1536644194193">
         <mark key="[" line="19" column="0" />
