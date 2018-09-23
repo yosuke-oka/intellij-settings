@@ -26,8 +26,11 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" timestamp="1537092693406">
-        <mark key="'" line="90" column="13" />
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" timestamp="1537689317928">
+        <mark key="'" line="93" column="36" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/app/frontend/reactApps/login/actions/index.js" timestamp="1504689170112">
         <mark key="[" line="0" column="0" />
@@ -544,9 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/work/jobtalk.jp/test/unit/lib/util/StringUtilTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/ares.jobtalk.jp/config/settings.yml" />
-      <jump line="19" column="27" filename="$USER_HOME$/work/my.jobtalk.jp/app/services/subscription/unsafe_token_cipher.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member_career.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="5" column="55" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
@@ -644,6 +644,9 @@
       <jump line="64" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
       <jump line="76" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
       <jump line="90" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="24" column="36" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="162" column="18" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="93" column="36" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -656,57 +659,56 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>complete</text>
+        <text>sign_up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3ViamVjdChlbnRyeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQgIi8iLCB0bzogcmVkaXJlY3QoInB1Ymxpc2hlcnMvZW50cmllcy9wZW5kaW5nIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcGF0Y2gK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGF0Y2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDplbnRyeSkgeyBjcmVhdGUoOmVudHJ5LCA6cmVxdWlyZV9yZXBvcnQpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCg6ZW50cnkpIHsgY3JlYXRlKDplbnRyeSkgfQo=</text>
+        <text encoding="base64">ICAgICAgbGV0KDplbnRyeSkgeyBjcmVhdGUoOmVudHJ5LCA6cmVxdWlyZV9yZXBvcnQpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>complete</last-search>
+      <last-search>sign_up</last-search>
       <last-offset />
-      <last-pattern>complete</last-pattern>
+      <last-pattern>sign_up</last-pattern>
       <last-replace>―</last-replace>
       <last-substitute>ー</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry>login</entry>
         <entry>user</entry>
         <entry>bundle</entry>
@@ -726,6 +728,7 @@
         <entry>ー</entry>
         <entry encoding="base64">XDxzdXBwbGllclw+</entry>
         <entry>complete</entry>
+        <entry>sign_up</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
