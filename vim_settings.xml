@@ -26,8 +26,13 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" timestamp="1537689317928">
-        <mark key="'" line="93" column="36" />
+      <file name="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/gems/devise-4.4.3/app/controllers/devise/registrations_controller.rb" timestamp="1537692894964">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" timestamp="1537691804892">
+        <mark key="'" line="99" column="30" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -238,8 +243,11 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/controllers/publisher_users/registrations_controller.rb" timestamp="1537691077502">
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/controllers/publisher_users/registrations_controller.rb" timestamp="1537692245118">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spChart.php" timestamp="1523945575930">
         <mark key="[" line="1" column="0" />
@@ -265,11 +273,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/models/publisher.rb" timestamp="1537690872808">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="26" column="58" />
-        <mark key="^" line="26" column="58" />
-        <mark key="." line="26" column="58" />
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/models/publisher.rb" timestamp="1537693611614">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="26" column="73" />
+        <mark key="." line="26" column="73" />
       </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/magazine/base/simple_deliver.rb" timestamp="1516250867409">
         <mark key="[" line="26" column="22" />
@@ -355,12 +363,9 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1537690157234">
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1537693455002">
         <mark key="'" line="110" column="11" />
         <mark key="[" line="114" column="5" />
-        <mark key="]" line="121" column="46" />
-        <mark key="." line="121" column="46" />
-        <mark key="^" line="121" column="46" />
       </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/controllers/publishers/reports_controller.rb" timestamp="1537092938407">
         <mark key="[" line="26" column="7" />
@@ -562,24 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/my.jobtalk.jp/app/models/member_career.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="5" column="55" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="94" column="48" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="684" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="7" column="46" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
-      <jump line="40" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spExams.php" />
-      <jump line="47" column="2" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
-      <jump line="21" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
-      <jump line="793" column="11" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="39" column="4" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="40" column="21" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="41" column="23" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="58" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="69" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="80" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="91" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="100" column="26" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="107" column="16" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -659,9 +646,27 @@
       <jump line="64" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
       <jump line="76" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
       <jump line="90" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
-      <jump line="24" column="36" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
-      <jump line="162" column="18" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
       <jump line="93" column="36" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="156" column="21" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="49" column="8" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="57" column="27" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="105" column="6" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="24" column="31" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="52" column="27" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="97" column="15" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="8" column="13" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="162" column="42" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="161" column="42" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="150" column="27" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="149" column="25" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="139" column="20" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="138" column="20" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="137" column="20" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="136" column="20" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="135" column="14" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="106" column="15" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="100" column="31" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
+      <jump line="99" column="30" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -674,57 +679,56 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sign_up</text>
+        <text>publisher</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2V0X21pbmltdW1fcGFzc3dvcmRfbGVuZ3RoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQgIi8iLCB0bzogcmVkaXJlY3QoInB1Ymxpc2hlcnMvZW50cmllcy9wZW5kaW5nIikK</text>
+        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2UiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyByZXNvdXJjZS5lcnJvci5pbnNwZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
+        <text encoding="base64">ICAgIHB1dHMgImhvZ2Vob2dlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2gK</text>
+        <text encoding="base64">ICAgICAgICBnZXQgIi8iLCB0bzogcmVkaXJlY3QoInB1Ymxpc2hlcnMvZW50cmllcy9wZW5kaW5nIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2gK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcGF0Y2ggcHVibGlzaGVyc19lbnRyeV9yZXBvcnRfcGF0aCBlbnRyeS5pZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDplbnRyeSkgeyBjcmVhdGUoOmVudHJ5LCA6cmVxdWlyZV9yZXBvcnQpIH0K</text>
+        <text encoding="base64">ICAgICAgcGF0Y2gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sign_up</last-search>
+      <last-search>publisher</last-search>
       <last-offset />
-      <last-pattern>sign_up</last-pattern>
+      <last-pattern>publisher</last-pattern>
       <last-replace>―</last-replace>
       <last-substitute>ー</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>user</entry>
         <entry>bundle</entry>
         <entry>enter</entry>
@@ -744,6 +748,7 @@
         <entry encoding="base64">XDxzdXBwbGllclw+</entry>
         <entry>complete</entry>
         <entry>sign_up</entry>
+        <entry>publisher</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
@@ -758,13 +763,13 @@
         <entry>oh</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>split</entry>
-        <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>q</entry>
         <entry>%s/set_category/add_category/gc</entry>
         <entry>%s/ー/―</entry>
         <entry>%s/ー/―/g</entry>
         <entry>noh</entry>
+        <entry>split</entry>
+        <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
