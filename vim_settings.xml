@@ -238,6 +238,9 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/controllers/publisher_users/registrations_controller.rb" timestamp="1537691077502">
+        <mark key="^" line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spChart.php" timestamp="1523945575930">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -262,11 +265,23 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/models/publisher.rb" timestamp="1537690872808">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/magazine/base/simple_deliver.rb" timestamp="1516250867409">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="26" column="21" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/views/application_mailer/notify_new_publisher_mail2quatre.text.erb" timestamp="1537690201494">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/spec/requests/suppliers/entries_request_spec.rb" timestamp="1532274977711">
         <mark key="[" line="4" column="0" />
@@ -340,12 +355,12 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1537094492580">
+      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1537690157234">
         <mark key="'" line="110" column="11" />
-        <mark key="[" line="104" column="6" />
-        <mark key="]" line="104" column="35" />
-        <mark key="." line="104" column="29" />
-        <mark key="^" line="104" column="29" />
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="121" column="46" />
+        <mark key="." line="121" column="46" />
+        <mark key="^" line="121" column="46" />
       </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/controllers/publishers/reports_controller.rb" timestamp="1537092938407">
         <mark key="[" line="26" column="7" />
@@ -662,7 +677,7 @@
         <text>sign_up</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3ViamVjdChlbnRyeSkK</text>
+        <text encoding="base64">ICAgICAgc2V0X21pbmltdW1fcGFzc3dvcmRfbGVuZ3RoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnZXQgIi8iLCB0bzogcmVkaXJlY3QoInB1Ymxpc2hlcnMvZW50cmllcy9wZW5kaW5nIikK</text>
