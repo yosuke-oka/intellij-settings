@@ -462,38 +462,41 @@
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/gems/addressable-2.5.2/tasks" />
       </excluded>
     </library>
-    <library name="administrate (v0.10.0@b85abc, Remote: ruby-2.5.1-p57) [gem]">
+    <library name="administrate (v0.10.0@b85abc, Remote: ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/app" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/app" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/app" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/lib" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/app" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/ruby_stubs/2084649273/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.git" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/docs" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/config" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/gemfiles" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/ruby_stubs/1971538158/1322250864/bundler/gems/administrate-b85abcf965ec/.circleci" />
       </excluded>
     </library>
     <library name="airbrussh (v1.0.2, rbenv: 2.3.1) [gem]">
