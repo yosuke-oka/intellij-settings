@@ -491,6 +491,9 @@
         <mark key="." line="39" column="32" />
         <mark key="^" line="39" column="32" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/controllers/jobs_controller.rb" timestamp="1539233069169">
+        <mark key="[" line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_relatedCompanyAnswers.php" timestamp="1508389399268">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="23" />
@@ -599,7 +602,6 @@
         <mark key="^" line="124" column="8" />
         <mark key="." line="124" column="8" />
       </file>
-      <file name="$USER_HOME$/work/jobtalk.jp/lib/abtest/ABTestingBase.class.php" timestamp="1538038466225" />
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/lib/answers/answerVisible/AnswerVisibilityAll.class.php" timestamp="1508467403444">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
