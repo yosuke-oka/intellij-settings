@@ -398,6 +398,13 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" timestamp="1539327623241">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="41" />
+        <mark key="." line="75" column="41" />
+        <mark key="^" line="75" column="41" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/docker-compose.yml" timestamp="1509005614691">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="19" column="19" />
@@ -713,9 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="763" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="773" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
-      <jump line="777" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="784" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="792" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="804" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
@@ -813,6 +817,9 @@
       <jump line="105" column="7" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
       <jump line="106" column="6" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
       <jump line="115" column="50" filename="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" />
+      <jump line="73" column="0" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" />
+      <jump line="74" column="0" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -822,7 +829,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZU1hc2sgJiYgJHJldmVhbEFuc3dlckRldGFpbEFCVGVzdGluZy0+aXNNYXNrRW5hYmxlKCk=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>to</text>
@@ -831,31 +838,31 @@
         <text encoding="base64">ICBjb25maWcuYWN0aW9uX21haWxlci5zbXRwX3NldHRpbmdzID0gewogICAgdXNlcl9uYW1lOiAiYXBpa2V5IiwKICAgIHBhc3N3b3JkOiBSYWlscy5hcHBsaWNhdGlvbi5jcmVkZW50aWFscy5zZW5kZ3JpZF9hcGlfa2V5LAogICAgZG9tYWluOiAiZW05MS5haXJjYXRhbG9nLmpwIiwKICAgIGFkZHJlc3M6ICJzbXRwLnNlbmRncmlkLm5ldCIsCiAgICBwb3J0OiA1ODcsCiAgICBhdXRoZW50aWNhdGlvbjogOnBsYWluLAogICAgZW5hYmxlX3N0YXJ0dGxzX2F1dG86IHRydWUKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRyZXZlYWxBbnN3ZXJEZXRhaWxBQlRlc3RpbmcpKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRyZXZlYWxBbnN3ZXJEZXRhaWxBQlRlc3RpbmcpKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjb21wYW5pZXMve1siW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW11bXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmV2ZWFsQW5zd2VyRGV0YWlsQUJUZXN0aW5nID0gbmV3IFJldmVhbEFuc3dlckRldGFpbEFCVGVzdGluZygkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICIvY29tcGFuaWVzLzppZC9qb2JzL2NvdW50IjogewogICAgICAgICJnCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT51c2VNYXNrKTsKICAgICAgICBkdW1wKCR0aGlzLT5yZXZlYWxBbnN3ZXJEZXRhaWxBQlRlc3RpbmctPmlzTWFza0VuYWJsZSgpKTsK</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRyZXZlYWxBbnN3ZXJEZXRhaWxBQlRlc3RpbmcpKSA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAgaW5jbHVkZV9wYXJ0aWFsKCdnbG9iYWwvbGFBQlRlc3RUcmFja2luZycsIGFycmF5KCdhYlRlc3QnID0+ICRyZXZlYWxBbnN3ZXJEZXRhaWxBQlRlc3RpbmcpKSA/Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
