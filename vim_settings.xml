@@ -398,7 +398,9 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" timestamp="1539332072137" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" timestamp="1539581607684">
+        <mark key="[" line="72" column="5" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/docker-compose.yml" timestamp="1509005614691">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="19" column="19" />
