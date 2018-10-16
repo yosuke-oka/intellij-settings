@@ -61,12 +61,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/work/livesense/api.job.jobtalk.jp/app/controllers/companies/jobs/count_controller.rb" timestamp="1539676724179">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-      </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/spec/requests/suppliers/offers_request_spec.rb" timestamp="1530437150411">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="40" column="8" />
@@ -250,12 +244,6 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/work/livesense/api.job.jobtalk.jp/app/models/company.rb" timestamp="1539674520232">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1509353278366">
         <mark key="[" line="86" column="56" />
         <mark key="]" line="86" column="62" />
@@ -300,9 +288,6 @@
       </file>
       <file name="$USER_HOME$/work/livesense/api.job.jobtalk.jp/app/models/business_company.rb" timestamp="1539674475919">
         <mark key="[" line="3" column="21" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/indexSuccess.php" timestamp="1508315398199">
         <mark key="[" line="42" column="0" />
