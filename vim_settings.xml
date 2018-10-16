@@ -417,8 +417,11 @@
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/work/livesense/api.job.jobtalk.jp/config/elasticsearch.yml" timestamp="1539679023232">
+      <file name="$USER_HOME$/work/livesense/api.job.jobtalk.jp/config/elasticsearch.yml" timestamp="1539680218254">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/work/info.jobtalk.jp/app/views/layouts/application.html.slim" timestamp="1501049216056">
         <mark key="[" line="2" column="10" />
