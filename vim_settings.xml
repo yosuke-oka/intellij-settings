@@ -97,6 +97,12 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/models/elasticsearch/job.rb" timestamp="1539771232202">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1509353278366">
         <mark key="[" line="86" column="56" />
         <mark key="]" line="86" column="62" />
@@ -559,6 +565,12 @@
         <mark key="^" line="836" column="64" />
         <mark key="." line="836" column="64" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/Gemfile" timestamp="1539770716521">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+      </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/lib/tasks/republish_not_notified_member.rake" timestamp="1503374979463">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="30" />
@@ -829,7 +841,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>to</text>
@@ -838,37 +850,37 @@
         <text encoding="base64">ICBjb25maWcuYWN0aW9uX21haWxlci5zbXRwX3NldHRpbmdzID0gewogICAgdXNlcl9uYW1lOiAiYXBpa2V5IiwKICAgIHBhc3N3b3JkOiBSYWlscy5hcHBsaWNhdGlvbi5jcmVkZW50aWFscy5zZW5kZ3JpZF9hcGlfa2V5LAogICAgZG9tYWluOiAiZW05MS5haXJjYXRhbG9nLmpwIiwKICAgIGFkZHJlc3M6ICJzbXRwLnNlbmRncmlkLm5ldCIsCiAgICBwb3J0OiA1ODcsCiAgICBhdXRoZW50aWNhdGlvbjogOnBsYWluLAogICAgZW5hYmxlX3N0YXJ0dGxzX2F1dG86IHRydWUKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Z2VtIGluc3RhbGwgZWxhc3RpY3NlYXJjaC1yYWlscwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbGxlY3Rpb24gZG8K</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZSA6Y291bnQsIG9ubHk6IDppbmRleAo=</text>
+        <text encoding="base64">ICAgIGNvbGxlY3Rpb24gZG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzIDpqb2IsIG9ubHk6IFtdIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZSA6Y291bnQsIG9ubHk6IDppbmRleAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzIDpqb2IsIG9ubHk6IFtdIGRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjb21wYW5pZXMve1siW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW11bXV1dXV1dXV1dXV1dXV1dXV1dXV1dXV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -922,8 +934,8 @@
         <entry>Unite -start-insert file_rec/async:!</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
