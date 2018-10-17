@@ -200,6 +200,7 @@
         <mark key="^" line="98" column="30" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/elasticsearch.yml" timestamp="1539768834005" />
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/retention_mail_task/follow_company.rb" timestamp="1516254525131">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="37" column="61" />
@@ -363,10 +364,6 @@
         <mark key="]" line="14" column="15" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/assets/stylesheets/publishers/publishers_company_edit.scss" timestamp="1532007044272">
-        <mark key="[" line="189" column="0" />
-        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/javascripts/packages/app-edit-profile/components/menu/MenuLinks.tsx" timestamp="1510560694108">
         <mark key="[" line="4" column="13" />
