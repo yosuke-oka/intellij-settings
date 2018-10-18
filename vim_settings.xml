@@ -96,11 +96,11 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/models/elasticsearch/job.rb" timestamp="1539852681854">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/models/elasticsearch/job.rb" timestamp="1539854175039">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1509353278366">
         <mark key="[" line="86" column="56" />
@@ -126,13 +126,13 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" timestamp="1539852665897">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" timestamp="1539855693818">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="33" />
         <mark key="k" line="6" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="9" column="84" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
         <mark key="n" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/legacyRedirect/actions/actions.class.php" timestamp="1516260330308">
@@ -342,6 +342,7 @@
         <mark key="." line="38" column="56" />
         <mark key="^" line="38" column="56" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/0/load_config.rb" timestamp="1539856164298" />
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/mailers/application_mailer.rb" timestamp="1535272732861">
         <mark key="'" line="120" column="50" />
         <mark key="[" line="29" column="4" />
@@ -576,11 +577,10 @@
         <mark key="^" line="836" column="64" />
         <mark key="." line="836" column="64" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/Gemfile" timestamp="1539852159020">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="34" column="4" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/Gemfile" timestamp="1539855971867">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/my.jobtalk.jp/lib/tasks/republish_not_notified_member.rake" timestamp="1503374979463">
         <mark key="[" line="9" column="30" />
@@ -746,7 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="811" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="819" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="830" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/config/routing.yml" />
       <jump line="48" column="33" filename="$USER_HOME$/work/jobtalk.jp/lib/util/StringUtil.class.php" />
@@ -846,6 +845,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/work/api.job.jobtalk.jp/Gemfile.lock" />
       <jump line="8" column="61" filename="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" />
       <jump line="0" column="34" filename="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -855,61 +855,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>elastic</text>
+        <text encoding="base64">XDxFbGFzdGljc2VhcmNoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>elasticsearch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6OlBlcnNpc3RlbmNlOjpNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBob3N0ID0gUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmVsYXN0aWNzZWFyY2guaG9zdCAjIHBvcnQgPSBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZWxhc3RpY3NlYXJjaC5wb3J0CiNlcyA9IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5lbGFzdGljc2VhcmNoCgo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6OlBlcnNpc3RlbmNlOjpNb2RlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
+        <text encoding="base64">IyBob3N0ID0gUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmVsYXN0aWNzZWFyY2guaG9zdCAjIHBvcnQgPSBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZWxhc3RpY3NlYXJjaC5wb3J0CiNlcyA9IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5lbGFzdGljc2VhcmNoCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsCg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RWxhc3RpY3NlYXJjaDo6TW9kZWwuY2xpZW50ID0gRWxhc3RpY3NlYXJjaDo6Q2xpZW50Lm5ldyBjb25maWcK</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHV0cyBlcwo=</text>
+        <text encoding="base64">RWxhc3RpY3NlYXJjaDo6TW9kZWwuY2xpZW50ID0gRWxhc3RpY3NlYXJjaDo6Q2xpZW50Lm5ldyBjb25maWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHV0cyBlcy51c2VyCg==</text>
+        <text encoding="base64">cHV0cyBlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHV0cyBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZGF0YWRvZ190cmFjZXIK</text>
+        <text encoding="base64">cHV0cyBlcy51c2VyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>lasticsearch.port
-puts Rails.application.config.metho</text>
+      <register name="9" type="2">
+        <text encoding="base64">cHV0cyBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZGF0YWRvZ190cmFjZXIK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>elastic</last-search>
+      <last-search encoding="base64">XDxFbGFzdGljc2VhcmNoXD4=</last-search>
       <last-offset />
-      <last-pattern>elastic</last-pattern>
+      <last-pattern encoding="base64">XDxFbGFzdGljc2VhcmNoXD4=</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>register_guide</entry>
         <entry>guide</entry>
         <entry>noreview</entry>
         <entry>HEAD</entry>
@@ -929,6 +927,7 @@ puts Rails.application.config.metho</text>
         <entry>ruby</entry>
         <entry>to</entry>
         <entry>elastic</entry>
+        <entry encoding="base64">XDxFbGFzdGljc2VhcmNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
