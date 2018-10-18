@@ -84,7 +84,6 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/api_spec.rb" timestamp="1539598180236" />
       <file name="$USER_HOME$/work/my.jobtalk.jp/app/controllers/api/answers_controller.rb" timestamp="1502095841243">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -126,6 +125,12 @@
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/initializers/elasticsearch.rb" timestamp="1539849818328">
+        <mark key="[" line="1" column="64" />
+        <mark key="]" line="1" column="108" />
+        <mark key="^" line="1" column="108" />
+        <mark key="." line="1" column="108" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/legacyRedirect/actions/actions.class.php" timestamp="1516260330308">
         <mark key="[" line="193" column="117" />
@@ -206,7 +211,7 @@
         <mark key="^" line="98" column="30" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/elasticsearch.yml" timestamp="1539768834005" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/elasticsearch.yml" timestamp="1539849609635" />
       <file name="$USER_HOME$/work/ares.jobtalk.jp/app/services/retention_mail_task/follow_company.rb" timestamp="1516254525131">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="37" column="61" />
