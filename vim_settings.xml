@@ -96,10 +96,10 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/models/elasticsearch/job.rb" timestamp="1539854175039">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/models/elasticsearch/job.rb" timestamp="1540185094065">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
         <mark key="^" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/spec/models/member_spec.rb" timestamp="1509353278366">
@@ -652,6 +652,9 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/repository/job_repository.rb" timestamp="1540185696400">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/config/app.yml" timestamp="1505110054905">
         <mark key="'" line="20" column="60" />
         <mark key="[" line="70" column="36" />
@@ -853,7 +856,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IDwgQWN0aXZlUmVjb3JkOjpCYXNl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbGFzdGljc2VhcmNoXD4=</text>
@@ -862,34 +865,34 @@
         <text>elasticsearch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnJlcG9zaXRyeSA9IG5ldyBIT2dlUmVwb3NpdHJveQoKbWVtYmVyID0gcmVwb3NpdHJ5LnNlYXJjaCBxdWVyeQpWCg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6OlBlcnNpc3RlbmNlOjpNb2RlbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnJlcG9zaXRyeSA9IG5ldyBIT2dlUmVwb3NpdHJveQoKbWVtYmVyID0gcmVwb3NpdHJ5LnNlYXJjaCBxdWVyeQpWCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6OlBlcnNpc3RlbmNlOjpNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBob3N0ID0gUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmVsYXN0aWNzZWFyY2guaG9zdCAjIHBvcnQgPSBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZWxhc3RpY3NlYXJjaC5wb3J0CiNlcyA9IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5lbGFzdGljc2VhcmNoCgo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6OlBlcnNpc3RlbmNlOjpNb2RlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
+        <text encoding="base64">IyBob3N0ID0gUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmVsYXN0aWNzZWFyY2guaG9zdCAjIHBvcnQgPSBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuZWxhc3RpY3NlYXJjaC5wb3J0CiNlcyA9IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5lbGFzdGljc2VhcmNoCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsCg==</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsOjpDYWxsYmFja3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RWxhc3RpY3NlYXJjaDo6TW9kZWwuY2xpZW50ID0gRWxhc3RpY3NlYXJjaDo6Q2xpZW50Lm5ldyBjb25maWcK</text>
+        <text encoding="base64">ICBpbmNsdWRlIEVsYXN0aWNzZWFyY2g6Ok1vZGVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHV0cyBlcwo=</text>
+        <text encoding="base64">RWxhc3RpY3NlYXJjaDo6TW9kZWwuY2xpZW50ID0gRWxhc3RpY3NlYXJjaDo6Q2xpZW50Lm5ldyBjb25maWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHV0cyBlcy51c2VyCg==</text>
+        <text encoding="base64">cHV0cyBlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
