@@ -335,12 +335,6 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/config/routes.rb" timestamp="1540197803666">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/companyAnswers/templates/_noAnswers.php" timestamp="1505293504169">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="14" />
@@ -519,7 +513,6 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/support/api/job.rb" timestamp="1540365550975" />
       <file name="$USER_HOME$/work/ares.jobtalk.jp/spec/services/monitor/company_display_watcher_spec.rb" timestamp="1520590061937">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
