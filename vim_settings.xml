@@ -264,6 +264,11 @@
         <mark key="." line="68" column="7" />
         <mark key="^" line="68" column="7" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/index.json" timestamp="1540451023402">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/work/aircatalog/portal.aircatalog.jp/app/views/publishers/facilities/_form.html.slim" timestamp="1532006350078">
         <mark key="[" line="192" column="29" />
         <mark key="]" line="192" column="27" />
@@ -733,7 +738,7 @@
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
