@@ -114,6 +114,12 @@
         <mark key="." line="5" column="0" />
         <mark key="n" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/jobs_spec.rb" timestamp="1540804149380">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+      </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/legacyRedirect/actions/actions.class.php" timestamp="1516260330308">
         <mark key="[" line="193" column="117" />
         <mark key="]" line="194" column="3" />
@@ -246,6 +252,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/index.json" timestamp="1540803793575" />
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcSalaries.php" timestamp="1523861511776">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="17" />
@@ -330,9 +337,6 @@
         <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/src/paths.json" timestamp="1539581607684">
-        <mark key="[" line="72" column="5" />
       </file>
       <file name="$USER_HOME$/work/account.jobtalk.jp/docker-compose.yml" timestamp="1509005614691">
         <mark key="[" line="17" column="15" />
@@ -689,7 +693,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>initia</text>
