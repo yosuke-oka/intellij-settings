@@ -120,11 +120,12 @@
         <mark key="." line="5" column="0" />
         <mark key="n" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/jobs_spec.rb" timestamp="1540891600552">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="79" />
-        <mark key="^" line="24" column="79" />
-        <mark key="." line="24" column="79" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/jobs_spec.rb" timestamp="1540892476157">
+        <mark key="'" line="19" column="10" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/legacyRedirect/actions/actions.class.php" timestamp="1516260330308">
         <mark key="[" line="193" column="117" />
@@ -592,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="48" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="684" column="0" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="7" column="46" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="40" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spExams.php" />
@@ -692,6 +692,7 @@
       <jump line="46" column="29" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/index.json" />
       <jump line="90" column="35" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/index.json" />
       <jump line="103" column="29" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/index.json" />
+      <jump line="19" column="10" filename="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/jobs_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -701,60 +702,59 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/get/responses/200/content/application/json/schemas&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>components</text>
+        <text encoding="base64">XDxmcmFnbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChKU09OOjpWYWxpZGF0b3IudmFsaWRhdGUhKHNjaGVtYSwgSlNPTi5wYXJzZShyZXNwb25zZS5ib2R5KSwgc3RyaWN0OiB0cnVlLCBmcmFnbWVudDogZnJhZ21lbnQpKS50byBiZSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZyYWdtZW50ID0gIiMvcGF0aHMvL2pvYnMvZ2V0L3Jlc3BvbnNlcy8yMDAvY29udGVudC9hcHBsaWNhdGlvbi9qc29uL3NjaGVtYXMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZyYWdtZW50ID0gIiMvcGF0aHMiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQogICAgICAgICAgcHV0cyBzY2hlbWEK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQogICAgICAgICAgcHV0cyBzY2hlbWEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhvZ2VbImpvYnMiXVswXVtpZF0gPSBuaWwK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAuZGlnKCJwYXRocyIsICIvam9icyIsICJnZXQiLCAicmVzcG9uc2VzIiwgIjIwMCIsICJjb250ZW50IiwgImFwcGxpY2F0aW9uL2pzb24iLCAic2NoZW1hIil9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhvZ2VbImpvYnMiXVswXVtpZF0gPSBuaWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>components</last-search>
+      <last-search encoding="base64">XDxmcmFnbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>components</last-pattern>
+      <last-pattern encoding="base64">XDxmcmFnbWVudFw+</last-pattern>
       <last-replace>mail</last-replace>
       <last-substitute>jobtalk_mail</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>bundle</entry>
         <entry>enter</entry>
         <entry>enterprise</entry>
@@ -774,6 +774,7 @@
         <entry>initia</entry>
         <entry>definition</entry>
         <entry>components</entry>
+        <entry encoding="base64">XDxmcmFnbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/answers/relatedCompanyAnswers/gc</entry>
