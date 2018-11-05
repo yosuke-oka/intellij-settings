@@ -497,6 +497,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="57" />
       </file>
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/app/controllers/companies/jobs/count_controller.rb" timestamp="1541403747668">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="/Dummy.txt" timestamp="1540277466334">
         <mark key="[" line="0" column="0" />
       </file>
@@ -524,11 +530,12 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/support/api/job.rb" timestamp="1541400050868">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
+      <file name="$USER_HOME$/work/api.job.jobtalk.jp/spec/support/api/job.rb" timestamp="1541403992394">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="38" column="93" />
+        <mark key="]" line="38" column="94" />
+        <mark key="." line="38" column="94" />
+        <mark key="^" line="38" column="49" />
       </file>
       <file name="$USER_HOME$/work/ares.jobtalk.jp/spec/services/monitor/company_display_watcher_spec.rb" timestamp="1520590061937">
         <mark key="[" line="6" column="0" />
@@ -592,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="46" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/actions/components.class.php" />
       <jump line="40" column="15" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_spExams.php" />
       <jump line="47" column="2" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
       <jump line="21" column="19" filename="$USER_HOME$/work/jobtalk.jp/apps/frontend/modules/company/templates/_pcReviews.php" />
@@ -692,6 +698,7 @@
       <jump line="103" column="29" filename="$USER_HOME$/work/api.job.jobtalk.jp/docs/open_api/index.json" />
       <jump line="19" column="10" filename="$USER_HOME$/work/api.job.jobtalk.jp/spec/requests/jobs_spec.rb" />
       <jump line="34" column="30" filename="$USER_HOME$/work/api.job.jobtalk.jp/Gemfile" />
+      <jump line="38" column="19" filename="$USER_HOME$/work/api.job.jobtalk.jp/spec/support/api/job.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -701,7 +708,7 @@
         <text>member_email_confirmation_urls_path</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>epository</text>
       </register>
       <register name="/" type="4">
         <text>pry</text>
@@ -710,34 +717,34 @@
         <text>company_id}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyYWdtZW50ID0gIiMvcGF0aHMiCg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSB7IGFsbG93X2FueV9pbnN0YW5jZV9vZihlcG9zaXRvcnkpLnRvIHJlY2VpdmUoOmNvdW50X2J5X2NvbXBhbnkpLmFuZF9yZXR1cm4gM30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbnkgPSBDb21wYW55LmZpbmQocGFyYW1zWzpjb21wYW55X2lkXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzogNDA044Ko44Op44O85Ye644GX44Gf44GECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZyYWdtZW50ID0gIiMvcGF0aHMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQogICAgICAgICAgcHV0cyBzY2hlbWEK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgc2NoZW1hLmNsYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhvZ2VbImpvYnMiXVswXVtpZF0gPSBuaWwK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgcmVzcG9uc2UuYm9keS5jbGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
