@@ -36,11 +36,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="org.junit.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -76,7 +71,7 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="org.mockito.*" />
+      <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
@@ -85,5 +80,28 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
+    <debuggers>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
